@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: bafdf901-ca6d-7a0d-4ae9-696fcd559620
 title: 'Reading responses for Week #4: New Media Literacy'
 uid: 7df06c0f-1fcb-614d-e6cd-fff4001d06f9
@@ -387,7 +391,7 @@ I think the ideal "mix" of new media and formal education would be at a point wh
 
 ### Posted by RC
 
-I was introduced to [Club Penguin](http://www.clubpenguin.com/) when visiting my 5 year old cousin this summer. It is a massively multiplayer online game which introduces a virtual world completely with mini games, activities, money, and communities. The three things that surprised me most while playing with Club Penguin are the amount of strategy each game entails, the realistic nature of this online community, and the amount of creativity a child can express through this Web site.
+I was introduced to [Club Penguin](https://newcp.net/en/) when visiting my 5 year old cousin this summer. It is a massively multiplayer online game which introduces a virtual world completely with mini games, activities, money, and communities. The three things that surprised me most while playing with Club Penguin are the amount of strategy each game entails, the realistic nature of this online community, and the amount of creativity a child can express through this Web site.
 
 The realistic nature of the online community can best be expressed by the use of coins. Players collect these coins by doing well in minigames and can use the coins to purchase various items including clothes, furniture, and gifts. Additionally, during Christmas season for the past two years 'Coins for Change' was introduced to the game. Players could donate virtual coins to charitable organizations (Kids who are sick, The Environment, Kids in Developing Countries, Kids who cannot afford to go to school, etc) and at the end of the campaign a million dollars was donated to real foundations in the proportion that the players allocated. This aspect of the game teaches the skill of simulation; this virtual words simulates a lot of the difficulties and decisions that people face in the real-world.
 

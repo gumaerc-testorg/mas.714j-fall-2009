@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 3940422b-f70a-5acd-de7f-de33eabc7213
 title: Scratch Sensor Board Resources
 uid: f0a12d5c-af27-014d-5bda-052f85628697

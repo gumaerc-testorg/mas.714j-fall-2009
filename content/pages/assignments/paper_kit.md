@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 3940422b-f70a-5acd-de7f-de33eabc7213
 title: Paper Computing Tutorial
 uid: 600a586c-9d17-af4c-9d3c-848d868e8d3c

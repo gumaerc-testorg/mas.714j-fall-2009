@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 3940422b-f70a-5acd-de7f-de33eabc7213
 ---
@@ -251,7 +254,7 @@ ZH, EL
 {{< tdopen >}}
 [Scratch](http://scratch.mit.edu/projects/sabee4b4b/706576), [Video 1](http://www.youtube.com/watch?v=IEDE53K8Hlk), [Video 2](http://www.youtube.com/watch?v=HqpQ4iTPa0w)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 JC, JP
 {{< tdclose >}}
 
