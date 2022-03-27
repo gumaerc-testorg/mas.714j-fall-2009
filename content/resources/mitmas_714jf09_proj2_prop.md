@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 040f9e59-6860-d1e0-ab3c-3d65f2311165
 resourcetype: Document
 title: Final Project Proposal
 uid: c4bf353a-e28a-cdd6-fc2f-b7874f53af25

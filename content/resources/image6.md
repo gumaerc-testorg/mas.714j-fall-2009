@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3940422b-f70a-5acd-de7f-de33eabc7213
 resourcetype: Image
 title: LED with bent legs glued to the paper
 uid: 5b7438ad-ad92-ddeb-977d-58c2c001f9b7

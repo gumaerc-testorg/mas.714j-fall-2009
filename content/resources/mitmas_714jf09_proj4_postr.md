@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 040f9e59-6860-d1e0-ab3c-3d65f2311165
 resourcetype: Document
 title: Using Scratch to Enhance Students' 21st Century Scientific Thinking Skills
 uid: 24ce62fb-9e88-ba06-f7dd-b0fdbf2b5c84

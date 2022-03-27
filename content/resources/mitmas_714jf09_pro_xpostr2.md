@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 040f9e59-6860-d1e0-ab3c-3d65f2311165
 resourcetype: Document
 title: ScratchEd Poster
 uid: 11ab5c0a-ba2a-73c2-abb9-7672686f91b0

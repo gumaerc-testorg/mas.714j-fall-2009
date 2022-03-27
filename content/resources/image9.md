@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3940422b-f70a-5acd-de7f-de33eabc7213
 resourcetype: Image
 title: Adding a path for a switch made of painted paper
 uid: f761b62f-4df2-d475-526f-2d316fa7bbb2

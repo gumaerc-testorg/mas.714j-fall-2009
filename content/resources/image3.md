@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3940422b-f70a-5acd-de7f-de33eabc7213
 resourcetype: Image
 title: Close up of the tearDrop Arduino
 uid: 502ee9e6-320a-c38e-e84e-29258db8293f

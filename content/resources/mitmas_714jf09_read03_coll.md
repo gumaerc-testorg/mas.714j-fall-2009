@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bafdf901-ca6d-7a0d-4ae9-696fcd559620
 resourcetype: Document
 title: 'Rethinking Education in the Age of Technology: The Digital Revolution and
   the Schools'

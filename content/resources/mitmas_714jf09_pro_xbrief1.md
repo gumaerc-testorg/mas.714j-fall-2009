@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 040f9e59-6860-d1e0-ab3c-3d65f2311165
 resourcetype: Document
 title: 'Designing Groups for Scratch: Conceptual Exploration'
 uid: cf2e580a-805e-4ecb-8d59-6c9d64cd968e

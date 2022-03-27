@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3940422b-f70a-5acd-de7f-de33eabc7213
 resourcetype: Image
 title: Tracing the tearDrop on paper
 uid: a3ad8718-e227-a697-cbc8-e1778190408e
