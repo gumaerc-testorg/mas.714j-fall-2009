@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page presents selected student responses to the week 6 readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -8,6 +9,10 @@ parent_type: CourseSection
 parent_uid: bafdf901-ca6d-7a0d-4ae9-696fcd559620
 title: 'Reading responses for Week #6: Communities of Learners'
 uid: 520f5c9d-682d-ec49-426c-2b5dd745bd51
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Reflection and Questions

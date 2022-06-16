@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -8,11 +9,15 @@ parent_type: CourseSection
 parent_uid: 3940422b-f70a-5acd-de7f-de33eabc7213
 title: Scratch Sensor Board Resources
 uid: f0a12d5c-af27-014d-5bda-052f85628697
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This page was created by Amon Millner during the 2008 course. (Courtesy of Amon Millner. Used with permission.)
 
-![Image, spelling 'Hook-Ups' using different physical objects.](/courses/media-arts-and-sciences/mas-714j-technologies-for-creative-learning-fall-2009/assignments/assn4_banner.jpg)
+{{< resource "a23d9a04-4017-b576-c76a-947778738205" >}}
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Getting Set Up

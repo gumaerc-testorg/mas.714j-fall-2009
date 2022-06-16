@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page presents selected student blog responses to the Week 8 readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -8,6 +9,10 @@ parent_type: CourseSection
 parent_uid: bafdf901-ca6d-7a0d-4ae9-696fcd559620
 title: 'Reading responses for Week #8: Supporting Communities of Learners'
 uid: f867986d-9d09-3991-5114-b71f0a2b1ad3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Reflection and Questions

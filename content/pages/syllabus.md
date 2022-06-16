@@ -1,9 +1,16 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  participation, the final project, grading, and the schedule of lecture topics and
+  assignment due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 911ecb7c-2005-0b7c-9907-e61b8831306b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
