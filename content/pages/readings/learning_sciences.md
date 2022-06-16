@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This page presents selected student blog responses by students to the
+  Week 3 readings.
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -8,10 +11,12 @@ parent_type: CourseSection
 parent_uid: bafdf901-ca6d-7a0d-4ae9-696fcd559620
 title: 'Reading responses for Week #3: Learning Sciences'
 uid: d54b8934-0db1-f8e6-0642-31311b7a311f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
-
-Reflection and Questions
-------------------------
+## Reflection and Questions
 
 ### Posted by Mitch Resnick and Karen Brennan
 
@@ -19,26 +24,23 @@ The readings for this week both talk about major transformations in the ways peo
 
 Sawyer provides a very nice overview of the "new science of learning" that has been emerging over the past 30 years, bringing together researchers from a variety of disciplines (including psychology, education, computer science, and anthropology) into a new field called the learning sciences. Sawyer lists several core ideas underlying the learning sciences:
 
-*   To make use of knowledge in real-world settings, people need to develop deep conceptual understanding (not just acquire facts and procedures)  
+- To make use of knowledge in real-world settings, people need to develop deep conceptual understanding (not just acquire facts and procedures)   
      
-*   People must actively participate in their own learning; it's not enough for teachers to simply deliver better instruction.  
+- People must actively participate in their own learning; it's not enough for teachers to simply deliver better instruction.   
      
-*   The best way for people to learn is in an environment that builds on their existing knowledge - not an environment that treats learners as empty vessels waiting to be filled.  
+- The best way for people to learn is in an environment that builds on their existing knowledge - not an environment that treats learners as empty vessels waiting to be filled.   
      
-*   People learn best when they have opportunities to communicate and reflect on what they are learning.
+- People learn best when they have opportunities to communicate and reflect on what they are learning.
 
 The Collins/Halverson paper focuses on changes in the nature of education, arguing that new technologies are incompatible with traditional approaches to schooling. The paper describes three eras of education: the apprenticeship era, the schooling era, and the lifelong learning era (which we are entering now). It explains education has changed along many different dimensions (e.g., content, pedagogy, assessment, location) between these three eras.
 
 For your blog post this week, please respond to the following:
 
-*   Critique the Collins/Halverson analysis of the three eras of education. Do you disagree with any parts of it? How well does the Collins/Halverson description of the new lifelong-learning era align with Sawyer's discussion of the learning sciences?  
+- Critique the Collins/Halverson analysis of the three eras of education. Do you disagree with any parts of it? How well does the Collins/Halverson description of the new lifelong-learning era align with Sawyer's discussion of the learning sciences?   
      
-*   Think about your own education. How does it fit within the Collins/Halversn description of the three eras of education?
+- Think about your own education. How does it fit within the Collins/Halversn description of the three eras of education?
 
-* * *
-
-Student Reading Responses
--------------------------
+## Student Reading Responses
 
 ### Posted by SK
 
@@ -58,8 +60,6 @@ When I think of my own education, I see some similarities to ideas presented by 
 
 Using these professional tools also helped me engage directly with professionals and learn in non-school locations. For example, I used SolidWorks to design robots for my school's robotics team. I then could take those designs and bring them to a professional machine shop where I experienced how they were fabricated. The design process was portable, so I could work from home and have them produced at the machine shop in addition to doing design and fabrication work at school. Finally, I could share the CAD files from my designs with other robot builders in online forums and receive critique from people of many ages and backgrounds.
 
-> * * *
-> 
 > ### Posted by SL
 > 
 > Hi SK, I too felt that in their comparison of the three eras of education Collins & Halverson's conclusions about future content: "… the focus is more on generic skills, such as problem solving and communication in different media, and on finding resources and learning from them"(p.5) were weak. Their approach leaves out very important ideas about deep learning and thinking, as well as higher level skills that we would find in intellectuals or experts. I worry that there is no room for developing deep thinking in this future, which raises concerns about educating in a wide but shallow way. The content described in their article may be too limited, too applied. Sawyer does a better job of supporting the kind of knowledge needed, deep and integrated knowledge, for the next generations:
@@ -68,21 +68,15 @@ Using these professional tools also helped me engage directly with professionals
 > 
 > My own experience in education, post college, confirms some of Sawyer's ideas about using authentic practices in education to deepen knowledge. Since college, I've gone back to school and participated in situative learning settings on several occasions, and in each case the learning has been far more powerful and engaging than my entire pre-adult educational experience. I was fortunate to be able to use immersive environments to learn a few languages and my documentary television journalism profession. Learning by doing and experiencing were perfect for integrating knowledge, for making knowledge usable and deep. It was the interaction with the experts around me that made the difference-and seeing the application of my learning immediately. Computers, digital editing software, high-end digital cameras and editing equipment were the technologies supporting my learning process. They were integrated collaboration tools as you mention. For me the technology was not at all supported or enhanced by "learning software" (an anachronism in my opinion). The technologies at hand were tools and supports through which I built and expressed my learning.
 
-> * * *
-> 
 > ### Posted by FG
 > 
 > Collins and Halverson' proposal that small children learn on their own with computers also caught my eye. I found the image of a toddler left on his/her own with a computer both hilarious and tragic.
 > 
 > But then, one may wonder if the only alternative is for the child to be alone - perhaps, for children who are on their own/spend a lot of time alone for whatever life circumstances \[only child, uncaring parents, illness, etc.\] having a computer to interact with might be better than not having one.
 > 
-> * * *
-> 
 > ### Posted by DG
 > 
 > I think one important thing to remember is that the computer can extend the learning; it augments the human interaction. For instance, imagine instead of standard wooded blocks with a letter on the side a smart block. The child still can build what the want, but if they spell out a word the blocks or a computer in the room can say it and provide the definition. In this way the child can experiment and find new words and it adds another possible constraint to their construction efforts - all towers must be made out of words.
-> 
-> * * *
 > 
 > ### Posted by JL
 > 
@@ -90,58 +84,35 @@ Using these professional tools also helped me engage directly with professionals
 > 
 > However, even if robots can be effective teachers, I still believe a child's education environment should consist of **both** this intimate learning as well as classroom learning. Fellow classmates provide competition, fellowship, and motivation as they embark on new concepts and new material together. I have always found that fellow students could always explain concepts better than teachers just because they know where I am coming from i.e. they have roughly the same level of prior education. They would know where I probably made a mistake on a problem because they made the same mistake before. Having this common playing field, students are sometimes great teachers too!
 
-* * *
-
 ### Posted by SL
 
 Collins/Halverson in many ways present us with the same challenge and vision as Papert in Mindstorms. In Chapter 8 of Mindstorms Papert presents us with the unsettling idea of a world without schools and a challenge to educators for better learning models and environments (and by extension: using computers and computation). He goes on to suggest another environment for learning, a different model of learning, that of the samba schools in Brazil. The model is inspiring, and points to ways of integrating many of the social and cognitive functions that our schools should be developing in students: learning is applied, skills are practiced, rehearsed, the learning and learners are diverse in age and expertise (and culture), and so on.
 
 Collins and Halverson, though they insist that schools are here to stay, do propose much the same challenge as Papert:
 
-> "The central challenge is whether our current schools will be able to adapt  
-> and incorporate the new power of technology-driven learning for the next generation of  
-> public schooling. If schools cannot successfully integrate new technologies into what  
-> it means to be a school, then the long identification of schooling with education,  
-> developed over the past 150 years, will dissolve into a world where wealthier  
-> students pursue their learning outside of the public school." ( Collins, A. and  
-> Halverson, R., 2009, p. 2)
+> "The central challenge is whether our current schools will be able to adapt and incorporate the new power of technology-driven learning for the next generation of public schooling. If schools cannot successfully integrate new technologies into what it means to be a school, then the long identification of schooling with education, developed over the past 150 years, will dissolve into a world where wealthier students pursue their learning outside of the public school." ( Collins, A. and Halverson, R., 2009, p. 2)
 
 While in this statement they focus on how new technology will widen the educational gap between economic classes, or in another sense, widen the digital divide, the message is the same. With a now established global knowledge economy, with new technologies in common use outside of school, and lack of technology skills and capabilities in school curricula, and the fact that our students are falling behind in the global competition for jobs due to a lack of appropriate knowledge and skils, the challenge to educators is to come up with new models for teaching and learning, relevant to the skills and knowledge required in this new technology driven, global market:
 
-> "With time, these pieces might come to comprise the fragments of a new system of  
-> education in which schools have a less central role, as in the apprenticeship era. But  
-> for now, these elements have developed independently of one another. They do not  
-> in any sense form a coherent system of education. That is where the need for  
-> visionaries is most apparent. It will take energetic visionaries to do the kind of work  
-> Horace Mann did during the first educational revolution - that is to figure out how to  
-> build an equitable and coherent system from these emerging pieces." (Collins, A. and  
-> Halverson, R., 2009, p. 5)
+> "With time, these pieces might come to comprise the fragments of a new system of education in which schools have a less central role, as in the apprenticeship era. But for now, these elements have developed independently of one another. They do not in any sense form a coherent system of education. That is where the need for visionaries is most apparent. It will take energetic visionaries to do the kind of work Horace Mann did during the first educational revolution - that is to figure out how to build an equitable and coherent system from these emerging pieces." (Collins, A. and Halverson, R., 2009, p. 5)
 
 This is very much a call to action, and Collins/Halverson offer convincing support for why the time is right. They build their case systematically by outlining the incompatibilities between schooling and technology and they describe the many new environments that are now available to learners outside of traditional schools.
 
 However, throughout this article they take a narrow view of how technology (computers) can be used, how technology-driven learning would work. It's a view primarily based on computer as tool to access learning materials and the web, computer as assessment tool, computer as tutorial/stand alone learning environment. It's a bias toward using computers as augmentation for the current schooling system. This bias can be found throughout the entire article. (I could list all the quotes but this blog entry is way too long already.) As Papert, Resnick and many others have shown, using computers in the learning environment goes way beyond tutorials and information access to become a part of the learning experience. TURTLEs, Scratch, some of the LEGO products and even my Fab Lab project all use computers in a very different way. They serve as scaffolding and knowledge-building tools, crossing the boundary between the physical and digital worlds. Through them you can design, iterate, create, and communicate. Computers and digital technologies become an integral part of the learning process and they can accommodate and encourage much social interaction. They serve an integral role in the learning environment rather than replacing teachers, books, libraries or demonstrations of knowledge.
 
-Collins and Halverson also outline what they believe will be lost by our assimilation of technology into educational models, and their argument is compelling. We don't want to lose ground in equity, citizenship and social cohesion, diversity, or broader horizons. But I don't agree that integrating technologies into our educational system will necessarily mean losses in each of these areas, rather integration will present new opportunities to address each of these areas (though admittedly equity is a big challenge). Their arguments for what will be gained by assimilation are not overwhelmingly powerful or exciting: engagement, less competition, customization, more responsibility, and less peer culture. As laid out, the losses seem far greater than the gains, more convincing than the gains. And their final imperatives for rethinking education: "...customization, interaction, and control" (Collins, A. and Halverson, R., 2009, p. 10) seem somewhat insignificant, frankly. While I agree with them on the challenge and the call to action, this prescription for a better model doesn't engage, excite or convince.
+Collins and Halverson also outline what they believe will be lost by our assimilation of technology into educational models, and their argument is compelling. We don't want to lose ground in equity, citizenship and social cohesion, diversity, or broader horizons. But I don't agree that integrating technologies into our educational system will necessarily mean losses in each of these areas, rather integration will present new opportunities to address each of these areas (though admittedly equity is a big challenge). Their arguments for what will be gained by assimilation are not overwhelmingly powerful or exciting: engagement, less competition, customization, more responsibility, and less peer culture. As laid out, the losses seem far greater than the gains, more convincing than the gains. And their final imperatives for rethinking education: "…customization, interaction, and control" (Collins, A. and Halverson, R., 2009, p. 10) seem somewhat insignificant, frankly. While I agree with them on the challenge and the call to action, this prescription for a better model doesn't engage, excite or convince.
 
-> * * *
-> 
 > ### Posted by FG
 > 
-> I fully agree on Collins and Halverson taking a narrow, reductionist view of technology. As we have seen for ourselves and as many here have said, technology alone is not enough, it should be integrated into a rich and supportive environment. Human contact and nurture are essential components of successful learning. I'm curious, how long would the relatively fast and painless core life skills we learn as babies and toddlers, such as walking and speaking, would take us, if they weren't learned in the presence- and with the support of our parents and close family members? What if during those critical first years, we had to learn to make our first steps and first everythings in the presence of computers instead of our own parents - even let's say, emotionally-smart ones? How long would it take? My guess is that it would take much longer, and perhaps even be less efficient...
-> 
-> * * *
+> I fully agree on Collins and Halverson taking a narrow, reductionist view of technology. As we have seen for ourselves and as many here have said, technology alone is not enough, it should be integrated into a rich and supportive environment. Human contact and nurture are essential components of successful learning. I'm curious, how long would the relatively fast and painless core life skills we learn as babies and toddlers, such as walking and speaking, would take us, if they weren't learned in the presence- and with the support of our parents and close family members? What if during those critical first years, we had to learn to make our first steps and first everythings in the presence of computers instead of our own parents - even let's say, emotionally-smart ones? How long would it take? My guess is that it would take much longer, and perhaps even be less efficient…
 > 
 > ### Posted by SL
 > 
 > Yes growing up with computers as surrogate parent/teachers would be just awful. This kind of relates to Sawyer's discussion of "situativity," the idea that knowledge is a process that includes the learner, the tools, others in the environment, and applied activities. Learning core life skills in situ was essential. And while computers can be supportive of the learning process, they can't replace the interaction with the real world. What if we were all educated based on a situative model? Again this harks back a bit to Papert's samba schools and immersive learning environments, which I think is an interesting and promising vision.
 > 
-> * * *
-> 
 > ### Posted by JC
 > 
 > I agree that technology is just another tool and not a replacement. There are supposedly groups around the country attempting to execute immersive learning in a community setting. I have yet to run across documentation discussing results, outcomes, etc.
-
-* * *
 
 ### Posted by VR
 
@@ -149,25 +120,19 @@ Collins/Halverson's paper demarcates chronological boundaries between the appren
 
 Repeatedly, Collins/Halverson show similarities between the apprenticeship era and the lifelong-learning era. For example, learning assessment during the apprenticeship era was accomplished as the master observed the student, correcting them as they went along. By analogy, the lifelong-learning era's assessment method in a computer-mediated learning environment can provide custom-tailored feedback. Additionally, it may throttle and customize the learning material as the student completes tasks.
 
-Whereas I was inspired by the vision and broad overview provided by Sawyer's paper on the Learning Sciences I felt that the Collins/Halverson paper was very enthusiastic, optimistic but lacking in specific quantitative data. Although some attention is placed on the 'shadow' of this wonderful vision ("What happens to those who are left out of the digital revolution?") overall I preferred Sawyer's sound presentation and synthesis of the various disciplines backing the Learning Sciences movement. As an avid supporter and soon-to-be developer of digital technology for education I had every reason to agree with Collins/Halverson but felt reluctant to fully endorse their view due to some key disagreements. Namely, I don not believe computers and software, in their current state, are sophisticated enough to adequately interact with young students without teacher or adult supervision. "Schools are not amenable to the customized education that is now sought, and so now education is moving into many different venues... such as homes.. where learning materials can be accessed from computers and the web". I find this depersonalization of education to be quite disturbing. In a subsequent section on relationships Collins/Halverson suggest that in the future students will be interacting with systems that have no understanding of them as individuals and will deal with them in a non-critical, impartial manner. I believe that in an ideal classroom the enthusiasm, passion and love for the subject matter the teacher brings into the environment can serve as a huge catalyst for inspiring students to learn. Why would a teacher be so excited about Oceanography, a student might ask? Being drawn into the expanding field of awe and wonder that a great teacher conveys is at the core of learning not just for performance but for the sake of learning itself. I would strongly argue that currently most computer and software systems are not endowed with sophisticated systems including real-time affective computing (emotional awareness) abilities resulting in an impoverished interaction model- something we can not afford when it comes to shaping young minds.
+Whereas I was inspired by the vision and broad overview provided by Sawyer's paper on the Learning Sciences I felt that the Collins/Halverson paper was very enthusiastic, optimistic but lacking in specific quantitative data. Although some attention is placed on the 'shadow' of this wonderful vision ("What happens to those who are left out of the digital revolution?") overall I preferred Sawyer's sound presentation and synthesis of the various disciplines backing the Learning Sciences movement. As an avid supporter and soon-to-be developer of digital technology for education I had every reason to agree with Collins/Halverson but felt reluctant to fully endorse their view due to some key disagreements. Namely, I don not believe computers and software, in their current state, are sophisticated enough to adequately interact with young students without teacher or adult supervision. "Schools are not amenable to the customized education that is now sought, and so now education is moving into many different venues… such as homes.. where learning materials can be accessed from computers and the web". I find this depersonalization of education to be quite disturbing. In a subsequent section on relationships Collins/Halverson suggest that in the future students will be interacting with systems that have no understanding of them as individuals and will deal with them in a non-critical, impartial manner. I believe that in an ideal classroom the enthusiasm, passion and love for the subject matter the teacher brings into the environment can serve as a huge catalyst for inspiring students to learn. Why would a teacher be so excited about Oceanography, a student might ask? Being drawn into the expanding field of awe and wonder that a great teacher conveys is at the core of learning not just for performance but for the sake of learning itself. I would strongly argue that currently most computer and software systems are not endowed with sophisticated systems including real-time affective computing (emotional awareness) abilities resulting in an impoverished interaction model- something we can not afford when it comes to shaping young minds.
 
 In turn, it is clear that Collins/Halverson's vision of a global, networked classroom would be a dream in terms of embodying the human family's diversity of opinion and practice. I would still recommend the judicious application of technology to education. I've always been a big fan of using the best components of any system and integrating a cohesive whole from the parts. Real, physically-present teachers and the experience of a good classroom is much harder to digitize than we think. Although I do not doubt we will continue to revolutionize communication technology and that children should become literate in creating videos, animations, Web sites, programming, etc I find it interesting that Collins/Halverson vision of the future of education is comprised of hybrid techniques from current practice augmented by the older apprenticeship era model of education.
 
-> * * *
-> 
 > ### Posted by DL
 > 
 > I agree that computers have a long way to go when compared to the "ideal" classroom, where the "ideal" teacher would inspire students to learn for the sake of learning and not for performance. However, your clear distinction made me wonder how often we have such ideal situations. And perhaps while computers may not be capable of some things, the advantages it provides (or the weight we place on its advantages) offsets its own disadvantages, and the disadvantages brought about from the all-to-common non-ideal classrooms and teachers. And you may agree that perhaps it isn't even the role of the computer to provide affective support (regardless of whether if it can or cannot); without teachers, I can see such a role being fulfilled by parents and other people in the child's community.
 > 
-> > * * *
-> > 
 > > ### Posted by VR
 > > 
 > > I agree that parents and other people in the child's community could provide the affective support.
 > > 
 > > Regarding educational technology: I am in support of bringing computers and robots into the classroom. However, I do feel like all factors need to be considered. When I stated the classroom experience can't be digitized I meant that, beyond contagious enthusiasm, a good teacher communicates with a wide range of non-verbal methods. Most telepresence systems currently do not include affordances for pointing/gesturing and body language. We should strive to design systems that enable and empower the user/student to go beyond the typical (current day) 2D representation of a person/avatar on a screen.
-> 
-> * * *
 
 > ### Posted by FG
 > 
@@ -177,24 +142,17 @@ In turn, it is clear that Collins/Halverson's vision of a global, networked clas
 > 
 > The scenario of parent involvement that IL described earlier can hardly be taken as a general one for society, as the experience of an MIT student can hardly be deemed 'standard' and representative of society at large.
 > 
-> > * * *
-> > 
 > > ### Posted by DG
 > > 
 > > I think that technology can help with these issues as it can be easily made available to all children. If we design software that treats education like a game - students need to level up by learning new skills and applying their knowledge; at each stage they are exposed to new ideas that are appropriately contextualized to the knowledge that they have shown that they have. This is not merely replacing a test with a computer, but integrating it deeply into their learning environment where they can compare their progress to others (peer pressure to perform).
 > > 
 > > Also, by giving the children a place to excel parents who either uninformed or care little may become interested in their child's new talents. In the following quote, we see that Anjana's sister-in-law who has no technology experience is proud and excited for Anjana. When a someone is excited and passionate about something it can be contagious and it my spread throughout there family.
 > > 
-> > _"Again, Mitra was delighted with the results. Given permission, girls rushed to the computers. "I feel great!" exclaims Anjana, an enthusiastic girl who lives in Madangir, a low-income district of New Delhi. At home, her family is a bit mystified. Anjana's sister-in-law is a stay-at-home housewife who has never seen a computer. But she is thrilled that Anjana has the opportunity to master a technology that seems to offer so much promise. "It increases her knowledge," she says, "and it will be a big help when she looks for a job."'  
-> > _\- [Frontline World](http://www.pbs.org/frontlineworld/stories/india/thestory.html)
-> > 
-> > * * *
+> > _"Again, Mitra was delighted with the results. Given permission, girls rushed to the computers. "I feel great!" exclaims Anjana, an enthusiastic girl who lives in Madangir, a low-income district of New Delhi. At home, her family is a bit mystified. Anjana's sister-in-law is a stay-at-home housewife who has never seen a computer. But she is thrilled that Anjana has the opportunity to master a technology that seems to offer so much promise. "It increases her knowledge," she says, "and it will be a big help when she looks for a job."'_ \- [Frontline World](http://www.pbs.org/frontlineworld/stories/india/thestory.html)
 > > 
 > > ### Posted by JC
 > > 
 > > Many students are growing up in a world of being stuck-on-survive. There parents, relatives, etc. can't provide the nurturing environment needed to support exploration. In these environments, it is critical for community organizations and the school systems to provide a common place that the youth either have to attend or want to. This brings us back to looking at how to make our schools more effective.
-> 
-> * * *
 > 
 > ### Posted by SK
 > 
@@ -202,15 +160,13 @@ In turn, it is clear that Collins/Halverson's vision of a global, networked clas
 > 
 > This brings up a good point about what seems to be a glaring omission throughout both the articles: there is no discussion of different approaches for different levels of education. The authors don't seem to acknowledge that using technology to learn might have an entirely different effect for kids, teens, and lifelong learners of different ages. Collins and Halverson's conclusions make suggestions for many different age groups even though much of their argument seems to be based on how adults might continue to learn and Sawyer sort of lumps together all school-age kids, even though this represents a wide range of mental development.
 
-* * *
-
 ### Posted by FG
 
-First, I have to say that Belgium, France and pretty much the rest of Western Europe have been in the throes of reforming their education system to embrace more learner-friendly practices, as described in these papers, for the past 30 years or so, just like in the US, and with similarly unsubstantial results when it comes to adoption of these new practices... so this is familiar territory.
+First, I have to say that Belgium, France and pretty much the rest of Western Europe have been in the throes of reforming their education system to embrace more learner-friendly practices, as described in these papers, for the past 30 years or so, just like in the US, and with similarly unsubstantial results when it comes to adoption of these new practices… so this is familiar territory.
 
 I found Allan Collins and Richard Halverson's balanced approach to the new proposed system of education, with equal mention of its pluses and minuses, refreshing compared to the blind embrace that often comes from hardcore reformists:)
 
-Sawyer seems to fall in the latter category, as we are treated to sweeping black-and-white statements and broad generalizations about traditional education, such as "Constructivism explains why students often do not learn deeply by listening to a teacher or reading from a textbook," or in his rigid Table 1.1 comparing Deep Learning and Traditional Classroom Practices: "Learners memorize without reflecting on the purpose or on their own learning strategies," or "...carry out procedures without understanding how and why." I understand the point Sawyer is trying to make - that the new type of participatory learning offers a richer, more involved and ultimately more efficient way of learning new skills and knowledge. But we do know that schools and universities have produced great minds and innovators. And on my own little scale, I can say that I am the product of a traditional education, and I did memorize courses material, but I did so inquisitively, searching for my own additional information to complement it.
+Sawyer seems to fall in the latter category, as we are treated to sweeping black-and-white statements and broad generalizations about traditional education, such as "Constructivism explains why students often do not learn deeply by listening to a teacher or reading from a textbook," or in his rigid Table 1.1 comparing Deep Learning and Traditional Classroom Practices: "Learners memorize without reflecting on the purpose or on their own learning strategies," or "…carry out procedures without understanding how and why." I understand the point Sawyer is trying to make - that the new type of participatory learning offers a richer, more involved and ultimately more efficient way of learning new skills and knowledge. But we do know that schools and universities have produced great minds and innovators. And on my own little scale, I can say that I am the product of a traditional education, and I did memorize courses material, but I did so inquisitively, searching for my own additional information to complement it.
 
 For this reason, Collins and Halverson's more nuanced take is refreshing, such as when they acknowledge the commercial interests behind new educational technologies.
 
@@ -226,7 +182,7 @@ I am myself a lover of learning and converted to the notion of lifelong learning
 
 A related question to that of defining quality learning is: how do you measure success? - a question which is also not really addressed. How do you assess what makes 'better learning'? How do you go about evaluating the results of the new type of teaching and learning methods? How do we interpret them? Shouldn't this have to be done over a long period of time for it to be accurate? I would think that in many spheres of knowledge and activities, one would want to check the long-term effects of the new fact/skill acquisition. How else could we define them as 'deep and lasting'? It would seem necessary to check how much is being remembered after a certain time - if that is indeed a parameter of success - as well as how much the skills and material acquired the learner is able to apply to other academic and life situations. Also, how do we deal with the fact that knowledge and practices change over time?
 
-There seems to be little evidence that this type of research has been conducted, at least I see no mention of this in the three essays, or perhaps just glimpses of it. Yet the standards for the success of these new methods must be established, their efficacy defined. Will they be successful if the learner succeeds in accomplishing a task at the end of the session? Or to repeat it by imitating it? Or creates something new? Or still remembers what he has learned the next day? The next week? In two years' time? Or if he can apply what he has learned in the session in other aspects of his life, at any time in the future? If the latter - who will be there to check and evaluate the effects and results of the learning session? These last questions in particular point to the near intractability of the procedure...
+There seems to be little evidence that this type of research has been conducted, at least I see no mention of this in the three essays, or perhaps just glimpses of it. Yet the standards for the success of these new methods must be established, their efficacy defined. Will they be successful if the learner succeeds in accomplishing a task at the end of the session? Or to repeat it by imitating it? Or creates something new? Or still remembers what he has learned the next day? The next week? In two years' time? Or if he can apply what he has learned in the session in other aspects of his life, at any time in the future? If the latter - who will be there to check and evaluate the effects and results of the learning session? These last questions in particular point to the near intractability of the procedure…
 
 I find the question of evaluation especially relevant when it comes to collaborative learning: how do you assess the learning success of each person in the group? How do you ensure that each individual receives an equal amount of new information, skills, ideas and feedback from the other participants and group leaders \[should there be some\]? When it comes to such abstract notions as 'creative ideas' or renewed motivation, these can be especially hard to track and evaluate for each learner and comparatively to his peers in the group. Sawyer writes about "the power of collaborative learning." I would be curious to see how he determines that the learning is powerful.
 
@@ -234,17 +190,17 @@ As I am on the topic of collaborative learning, an interesting note: Sawyer asks
 
 Just a couple more points on Sawyer's article:
 
-> *   Sawyer argues that people must take responsibility for their own schooling. Although this is a great concept, it is easy to imagine how underprivileged children and families may not have the right conditions to take such a step and could therefore fall behind - a point that our authors do recognize.  
+> - Sawyer argues that people must take responsibility for their own schooling. Although this is a great concept, it is easy to imagine how underprivileged children and families may not have the right conditions to take such a step and could therefore fall behind - a point that our authors do recognize.   
 >       
->     Sawyer refers to the "authentic practices" that are part of the new type of the educational experience: hands-on activities are designed in such a way that they offer real life-based experiences to students, so as to bring them as close as possible to the work of professionals in real settings. The problem is, we know they aren't authentic. The activities planned in reformed programs are still simulations and therefore 'fake'. They still require that the participants suspend belief.  
+>     Sawyer refers to the "authentic practices" that are part of the new type of the educational experience: hands-on activities are designed in such a way that they offer real life-based experiences to students, so as to bring them as close as possible to the work of professionals in real settings. The problem is, we know they aren't authentic. The activities planned in reformed programs are still simulations and therefore 'fake'. They still require that the participants suspend belief.   
 >      
-> *   I appreciated Sawyer's mention that we should take into account students' "prior knowledge and misconceptions" - often new teachers prefer working on 'virgin minds'... as old habits and acquired skills that may not fit their style may be hard to break and redirect.
+> - I appreciated Sawyer's mention that we should take into account students' "prior knowledge and misconceptions" - often new teachers prefer working on 'virgin minds'… as old habits and acquired skills that may not fit their style may be hard to break and redirect.
 > 
 > To take a closer look at Collins and Halverson, I also have a few points to make:
 > 
-> *   The two authors write that "Technology has been kept in the periphery of schools," and make a case for technology integration. But perhaps they center their argument for a new system of education a little too much on technology. Technology is great, but is snot enough. It must be accompanied by the supporting curriculum, practices and philosophy. It's not just about integrating technology into our learning lives, it's about how it is being used. It's not just about bringing computers into schools. The Russian government is doing that - but for all the wrong reasons, using them to transmit state propaganda to schoolchildren and teenagers through carefully designed youth multimedia programs and services.  
+> - The two authors write that "Technology has been kept in the periphery of schools," and make a case for technology integration. But perhaps they center their argument for a new system of education a little too much on technology. Technology is great, but is snot enough. It must be accompanied by the supporting curriculum, practices and philosophy. It's not just about integrating technology into our learning lives, it's about how it is being used. It's not just about bringing computers into schools. The Russian government is doing that - but for all the wrong reasons, using them to transmit state propaganda to schoolchildren and teenagers through carefully designed youth multimedia programs and services.   
 >      
-> *   I like their idea of making learning opportunities ubiquitous and part of our ambient environment, like workplaces, urban services like libraries, etc. In fact it would be cool to somehow connect all these learning-rich places and being able to navigate them and the newly acquired skills and content with ease.
+> - I like their idea of making learning opportunities ubiquitous and part of our ambient environment, like workplaces, urban services like libraries, etc. In fact it would be cool to somehow connect all these learning-rich places and being able to navigate them and the newly acquired skills and content with ease.
 
 Collins and Halverson make very strong cases for customizing the material and learning opportunities for children/students/users of the new system, providing them with the information they need, when they need it and in the format they want it. All this comes with fast and appropriate feedback and computers that adapt to the students \[instead of vice versa in the traditional educational system\]. They also say that this new learning environment has less peer pressure and is generally much friendlier than the cold and rigid traditional system.
 
@@ -258,8 +214,8 @@ The mainstream traditional educational system has failed generations of students
 
 But my own conclusions upon reading Collins and Halverson would be:
 
-> 1.  Don't make it too comfortable for the learners:)
-> 2.  Seek to engage without too many engagement tools and practices - so that engagement and love of learning evolve from the learners themselves and become an intrinsic part of their personality. In fact, it would be great to make engagement/motivation part of the learning experience itself.
+> 1. Don't make it too comfortable for the learners:)
+> 2. Seek to engage without too many engagement tools and practices - so that engagement and love of learning evolve from the learners themselves and become an intrinsic part of their personality. In fact, it would be great to make engagement/motivation part of the learning experience itself.
 
 Perhaps the proposed technologies and new practices can help develop just these features in learners and inspire a lifelong curiosity and desire to acquire new skills. But we must make sure that children become independent learners, who do not need to rely on external factors and devices for their motivation, and eventually education.
 
@@ -268,8 +224,6 @@ I realize I have been quite harsh in my assessment of this week's authors. But a
 As for my own education:
 
 Traditional from start to finish at primary and high-school in Belgium, \[although those years already saw some reforms\], which I supplemented with my own extracurricular courses in private schools and private home tuition \[ballet, drama, Latin and Greek for fun; math to raise poor grades\]. University was very much 'a la carte' at The University of London, Boston University and Harvard.
-
-* * *
 
 ### Posted by DG
 
@@ -280,8 +234,6 @@ This quote from Collins & Halverson describes my attitude to toward formal educa
 There was only one section in the discussion of the three eras of education that I took issue with, and that was the one dealing with equality. I think that there are two significant errors with this line of thinking. First, as schooling uses more technology we will begin to see the benefits of mass production. Costs will go down as quality goes up; there will be better materials at lower prices available to all. In contrast to the present day where the day to day activity of teachers hasn't progressed in any meaningful way in the past 70+ years. In addition to the ability to reduce costs and improve quality, a concern was raised that public schools would become a dumping ground for the poor and uninterested. The uninterested was detected can be taught through other means, and their issues addressed directly. While the poor, given access to the same technological resources will be able to control their learning and have access to better materials than they normally would have.
 
 I think that Sawyer and Collins/Halverson are complimentary. I see Sawyer as deconstructing well defined common skills and the best way to transfer them to others by understanding what the common difficulties are, what the best techniques are to achieve reflection, and so on. Whereas Collins/Halverson are more concerned with engaging the learner, and having them acquire skills that are not well defined.
-
-* * *
 
 ### Posted by JC
 
@@ -297,15 +249,11 @@ _\* Think about your own education. How does it fit within the Collins/Halverson
 
 Overall, I am a lifelong-learner pursuing opportunities that spark my interest. My learning has included instructionism and apprenticeships. The primary and secondary education was mainly by instruction, with infrequent apprenticeships. Post-secondary education was also instruction; however, the classroom instruction dropped in importance as the focus was on experience. Other areas of study, such as fire fighting and EMS, were a mix of instruction and apprentice. I've taken more responsibility over general learning and exploration as I've grown older and more curious.
 
-> * * *
-> 
 > ### Posted by FG
 > 
 > In response to your mention of the three eras of education as defined by Collins and Halverson as "already existing together today" although not in equal quantity": it just struck me that the authors, and we ourselves in our responses tend to see the three eras as distinct from each other and as if mutually exclusive. But who says this should be so? I had plenty of moment of lifelong learning experiences and opportunities in the course of my traditional primary and high-school education, as when I did my own research and read more about a particular topic or took extracurricular classes to complement the main obligatory teaching. Even my hobbies of dance and drama brought something to my overall education.
 > 
 > I personally think that a convergence of sorts must be possible and beneficial. Why not take the best of each era and mix them into an enriched, multi-faceted practice of educating?
-
-* * *
 
 ### Posted by JP
 
@@ -321,8 +269,6 @@ Collins and Halverson also mentioned about the loss in using computer technology
 
 One minor thing I imagine differently from those two readings is that I do not limit the use of computer in form of an isolated product like current desktop or laptop devices. Rather, I imagine all kinds of various environmental features like furniture, rooms, buildings and playgrounds and even a public place can be equipped with micro-computer. Computer-integrated environment can be a tool to improve the lifelong learning process as an enjoyable, yet productive scaffolding.
 
-* * *
-
 ### Posted by VC
 
 Call me old-fashioned, but I'm not totally convinced that Collins/Halverson's vision of life-long learning is the best way to go about education. I'm not against the life-long learning approach; in fact, I do agree that it addresses some serious issues with schools today (over-competitiveness, the one-size-fits-all mentality). I think the best way to go about education, however, lies somewhere in between the schooling age and the projected lifelong education age. As Collins/Halverson argue, students need be engaged and self-motivated in their own learning-schooling doesn't account for that. At the same time, I do believe that there is some knowledge that everyone must have-and sometimes acquiring that knowledge isn't fun.
@@ -331,17 +277,13 @@ I've been reading about the Matthew Effects (loosely defined as the-rich-get-ric
 
 So how does this relate to the reading? Collins/Halverson write, "Memorizing information is becoming less important with the web available, but people do need to learn how to find information, recognize when they need more information, and evaluate what they find." Great. I agree with all of those things, but in order to do any of those steps (finding, recognizing gaps, evaluating), people need some base level of knowledge so they know what they're looking for and can recognize what they don't know. When I was studying International Relations, I had trouble getting through the newspaper readings because I didn't know where all the countries were and I didn't have a grasp of the major leaders or events of many of the regions we studied. Like the students who started school with a low level of vocabulary, I was spending too much cognitive energy looking up countries, events and leaders. As part of my major at Georgetown, I was required to take a class called "Map of the Modern World", where we had to learn about every country in the world. It was a grueling, painful class, but ultimately rewarding. When all was said and done, I could finally dive into my reading in a meaningful way. If that class hadn't been required, I would never have taken it and I'd probably be struggling to get through the international section of the newspaper.
 
-Though Sawyer and Collins/Halverson both support a change in the way school is done, they differ in that Sawyer focuses more specifically on how technology can be used to develop the critical thinking skills needed to make learning a rewarding lifelong pursuit, backing up their claims with credible research. Collins/Halverson identify many technologies that have potential to improve learning, but don't provide concrete examples of how these technologies have been **effective**. For example, they describe internet cafes as potential "libraries of the future". While it's true that young people could go to an internet cafe to "spend hours on the web, engaging in conversations and games, reading what is happening in the world...if they have the initiative". That's a big if. I spent a year teaching in Asia, where internet cafes are extremely popular among young people. Not once did I see or hear about anyone using an internet cafe to learn about the world or practice their programming skills. Most people would be chatting with their friends online (often about relationship drama) or looking at pornography. Though Collins/Halverson identify many points of potential for technology in education, in my eyes, they lose a lot of credibility by including many ineffective examples of how technology can be used to support learning.
+Though Sawyer and Collins/Halverson both support a change in the way school is done, they differ in that Sawyer focuses more specifically on how technology can be used to develop the critical thinking skills needed to make learning a rewarding lifelong pursuit, backing up their claims with credible research. Collins/Halverson identify many technologies that have potential to improve learning, but don't provide concrete examples of how these technologies have been **effective**. For example, they describe internet cafes as potential "libraries of the future". While it's true that young people could go to an internet cafe to "spend hours on the web, engaging in conversations and games, reading what is happening in the world…if they have the initiative". That's a big if. I spent a year teaching in Asia, where internet cafes are extremely popular among young people. Not once did I see or hear about anyone using an internet cafe to learn about the world or practice their programming skills. Most people would be chatting with their friends online (often about relationship drama) or looking at pornography. Though Collins/Halverson identify many points of potential for technology in education, in my eyes, they lose a lot of credibility by including many ineffective examples of how technology can be used to support learning.
 
 I was torn in writing my critique of Collins/Halverson. I want to believe in lifelong learning, but I also strongly believe that some sort of foundational knowledge is a prerequisite to having a truly full lifelong learning experience. I did my k-12 learning in a typical, high-pressure, suburban public school and then attended Georgetown University for a year, which had very strict requirements and very little space for exploration (at least as a first year). Both of those institutions fall squarely into the "schooling era" category. After my freshman year at Georgetown, I transferred to Brown University-a school known for its open curriculum and academic freedom. At Brown, you are only required to pass 30 classes (if you take 4 per semester, that's 32 classes-which means they build in space for you to fail) and complete a major. All classes have the option of being pass/fail, and failed classes don't appear on your transcript. I loved Brown. Everyone was self-motivated and totally engaged in their classes, and the people who weren't engaged in class were generally looked down on. After all, with all that freedom, why would you take a class that didn't spark your interest? At the same time, with all that freedom came responsibility, and the administration expected us to think responsibly about our curricula. Theoretically, one could take all dance classes pass/fail and still get an Ivy League degree. If I didnt' have a strong base in many traditional "core" subjects, however, I probably would have been tempted to take all classes in one area. And in doing so, I would have lost the connections that exist or emerge from learning about several different disciplines-the explosions of the mind that make learning a worthwhile pursuit.
 
-> * * *
-> 
 > ### Posted by SL
 > 
 > I strongly agree with Collins and Halverson that basic motivations behind learning are changing. As the pace of technological innovation accelerates and the knowledge economy burgeons, lifelong learning is not a far off vision, it is here and now. Lifelong learning is a trend, and its time has come. In researching literature about the development of the Bologna Process in Europe, it became clear to me that this trend is not only demand-driven by a working population with new needs for new learning tools, but driven as well by a competitive international market. The Knowledge Economy is big business now, and so too is Education. Lifelong learning represents an increasingly larger slice of this business and is part of a growing business sector in the global economy. While I don't see lifelong learning as a complete alternative to schooling, I think it will bring serious evolutionary pressure on schools as we know them to adapt and change in order to survive. I think schools will eventually be pushed financially to compete, a very different approach to education than current practice. I think the danger with the lifelong learning being a competitive business, is that old ideas about technology will be (and have already been) incorporated into these new learning systems. For example distance learning tools and computer tutorials, while they have their good aspects and uses, are often used as a replacement for teachers and classrooms. And I have seen this misuse in online courses and distance education programs. In order for lifelong learning to have a powerful, engaging impact on learners, especially learners who may never meet each other or their teacher, serious thought and work has to go into how to provide "situativity" in the learning environment-that is, how to develop deep, engaged, usable knowledge that is applicable.
-
-* * *
 
 ### Posted by JL
 
@@ -351,8 +293,6 @@ My own education fit in well with Collins/Halverson's three eras. My education w
 
 The endless blogs, forums, and discussion boards available on the internet offer you the knowledge and skills of experts. You can Ask Jeeves or Mr.Google "how do i install my own faucet" or "how do i reboot my computer" and the information is yours to learn and apply!
 
-* * *
-
 ### Posted by RC
 
 For the most part I believe Collins and Halverson captured the change in educational means accurately. I disagree about some potential benefits described of the lifelong-learning era, however. The diminution of peer culture is described as a potential benefit, but I don't see it as such. Collins/Halverson describe peer culture as tending to devalue learning and foster drugs, sex and violence. Although this is a possibility, I believe the peer-culture adds to the learning experience. You learn a different set of communication skills when associating with peers than with adults. The cliquey nature of peer culture also teaches young people to adapt and find role models among themselves. It does not have to emphasize superficial qualities such as looks and strength. I often felt that i learned more from my peers than I did from my teachers and professors. Similarly, I feel that less competition can also be a potential loss instead of a potential gain. I agree that competition can be overwhelming, but competition can also be a motivating factor. It can aid in setting benchmarks to measure one's own achievements.
@@ -361,15 +301,11 @@ Collins/Halverson discuss the possibility of national certifications where one c
 
 Both the Collins/Halverson piece as well as the Sawyer piece discuss the need of adapting technology into education. Both describe the impact a computer can have on shaping a student's education. Sawyer discusses a need to shift from the instructionist theories to a more learning science approach, where education moves away from the expert authority delivering information to the learner. This need is categories by Collins/Halverson as a shift from the schooling era to the lifelong learning era.
 
-> * * *
-> 
 > ### Posted by ZH
 > 
 > RC, I think I have the same feeling too: I learned more from my peers than i did from my teachers. Because there are much more chances for us to share ideas with our peers, during which we are getting deeper understanding of the problem. I strongly believe that interaction between people and people is one of the most important part of the learning process.
 > 
 > About certification testing, I think this is a difficult problem. I guess all the people hate this idea and definitely, like what you said, our current education system is that we teach students in preparation for exams. But it is also really hard to imaging using a simple and efficient way to test what we learned instead of an exam.
-
-* * *
 
 ### Posted by DL
 
@@ -379,15 +315,11 @@ However, I disagree with those who believe that the two pieces are a continuatio
 
 The interesting connection between the two articles is that technology can be an excellent candidate in facilitating deep conceptual understanding, when implemented correctly, especially in the realm of transfer learning (for example, transferring existing knowledge to new and complex situations as presented by computer simulations).
 
-> * * *
-> 
 > ### Posted by VR
 > 
 > After reading various comments relating the Collins/Halverson and Sawyer pieces as complimentary I reflected on my previous statements. However, I still feel that Sawyer's well-articulated overview of the Learning Sciences seems better organized, more scientific and far more detailed in its description of the subject matter.
 > 
 > On the whole, I was hoping the Collins/Halverson piece would specifically address the challenges inherent in digitizing classroom teacher-pupil (physical) relationships into a non-physical/digital format. It's certainly possible that this was out of scope for their paper but I felt the praise and promises of digital education technology could have been accompanied by critical evaluation of potential hurdles to their success. In this regard, I found the Learning Sciences methodology outlined in Sawyer's paper to be a positive step in the right direction.
-
-* * *
 
 ### Posted by ZH
 
@@ -413,8 +345,6 @@ Actually why MIT is amazing, why this class is amazing is more because people ca
 
 In my experience of education, the only part I want to mentioned here is how much i learned through internet as a lifelong learning area. It has an incredible collective resource: we can get almost anything we want to know. I learned "processing", a computer programming language totally from internet; I learned "how to play blues guitar" through internet and I even got the tips from online video tutorial: how to ski and based on those tips, i got a huge improvement.
 
-* * *
-
 ### Posted by AL
 
 Question one:
@@ -427,8 +357,6 @@ Question two:
 
 I cannot image a world where educational technology becomes involved in primary education to the degree that traditional schools are no longer the nucleus. The traditional school was developed by the founding fathers during a time when citizenship itself was still in a phase of being defined. Thomas Jefferson proposed the school as the center of the community, and of the civic society. I do agree that society is in a vastly different place now, where an industrial economy has been replaced by a networked economy, and old institutional hierarchies, including the government itself, have given way to more individualized and networked communities of self-directed information gathering and learning. I believe that within this complex, and flattened landscape, there are greater opportunities for democratic access to information, citizen-based politics, grassroots media and for creative explorations through collaborations-all of which support the notion of a strong democracy. However, I disagree with the idea that technology alone can solve these beautifully complex issues. The Collins/Halverson description of technology as universalizing educational tool, as individualized as they propose it will be, sounds like lobbyist propaganda that has no space for richness of human relationships, even amongst peer groups. This proposal seems to cater to the individual, by protecting them from any uncomfortable situation, including peer pressure, but doesn't factor in the character building, ethics, and human development in relationships lessons that occur in spaces of education, school or out-of-school, that are not controlled completely by technology.
 
-* * *
-
 ### Posted by VC
 
 I should probably clarify-I'm not against lifelong learning. I myself am a lifelong learner. In fact, as an undergraduate, I went through the trouble of transferring to Brown, a University that fully embraces the lifelong learning spirit. I think Halverson/Collins identify many technologies and mechanisms that could make people more excited about learning, and that is a wonderful thing. I was more frustrated that Halverson/Collins took good ideas about technology and education (distance education? Great!) and didn't think through or make a good case as to why these technologies would work (defining the University of Phoenix's success in terms of enrollment is not a credible way to defend the practice of distance education.)
@@ -438,8 +366,6 @@ Here's where I'm coming from: last year I had a Fulbright grant to teach English
 In Kaohsiung's last-ditch attempt to raise their kids' English levels, they built English villages in various classrooms around the city and then told us Fulbrights that we would be working there for 4 hours each week. The Kaohsiung Bureau of Education spent millions of Taiwan dollars building the sets, but didn't have enough money to have the kids attend English Village for a full week, so they created a policy where each 5th grade student would go on one EV field trip that year. That is, each 5th grader would go to the English Village for one session-just two hours. The way the Bureau envisioned the program, all 30 children would stand quietly in line while they practiced the same scripted, one-on-one dialogue with one of the native speakers. And they thought that the excitement of seeing a real, live white people (that's not a joke-I can't begin to describe the children's disappointment when they saw my familiar, non-aryan features) coupled with the beautiful sets for two hours that academic year would be enough to create self-motivated, fluent English speakers. If you can't tell by the tone of my description, the project was a disaster. I don't think any of the kids I worked with made any improvement in their attitude towards learning English (much less their proficiency), and the Bureau would have been better off spending their money hiring more English teachers or buying overhead projectors for the schools.
 
 I feel the same way about Collins/Halverson's article as I do about the English Village. There is so much potential in these systems, but we can't just expect people to like learning just because it involves computers or a pretty set. Every innovation needs a well thought-out, researched plan. Obviously there is some trial and error involved in developing these kinds of programs, but we can't simply hope that "if we build it, they will come."
-
-* * *
 
 ### Posted by MN
 

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page presents selected student blog responses to the week 9 readings.
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -8,10 +10,12 @@ parent_type: CourseSection
 parent_uid: bafdf901-ca6d-7a0d-4ae9-696fcd559620
 title: 'Reading responses for Week #9: Diversity and Pluralism'
 uid: 2c9780a9-db42-5747-6981-812156907da5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
-
-Reflection and Questions
-------------------------
+## Reflection and Questions
 
 ### Posted by SK and EL
 
@@ -29,19 +33,15 @@ _A soft question:_
 
 In the section entitled "Beyond Bricolage: Closeness to the Object", Papert and Turkle describe a study done by Lise Motherwell at the Hennigan School:
 
-> "She found she could capture children's stances towards the anthropomorphization of  
-> the computer by distinguishing between two styles: relational and environmental.  
-> Relational children treat the computer as much like a person as they can get away with,  
-> while environmental children treat it like a thing. Three out of four girls in her study  
-> were relational; three out of the four boys environmental."
+> "She found she could capture children's stances towards the anthropomorphization of the computer by distinguishing between two styles: relational and environmental. Relational children treat the computer as much like a person as they can get away with, while environmental children treat it like a thing. Three out of four girls in her study were relational; three out of the four boys environmental."
 
 We're interested in the gender correlation described here, but we're also interested in how these stylistic categorizations are not necessarily gender-specific.
 
-Describe an instance in which you approached computers in a(n)...
+Describe an instance in which you approached computers in a(n)…
 
-... _relational_ style, if you identify as male.
+… _relational_ style, if you identify as male.
 
-... _environmental_ style, if you identify as female.
+… _environmental_ style, if you identify as female.
 
 Which style do you tend to align with the most?
 
@@ -49,15 +49,12 @@ _A hard question:_
 
 Turkle and Papert argue that female reluctance to join computing cultures is rooted in two interrelated issues:
 
-1.  Discrimination against epistemological orientations requires some women to adopt a suboptimal _problem solving style_ in order to assimilate.
-2.  The _social conventions_ of these cultures force women to downplay their relational tendencies and alienates their identity as women. They don't want to become the "computer science type."
+1. Discrimination against epistemological orientations requires some women to adopt a suboptimal _problem solving style_ in order to assimilate.
+2. The _social conventions_ of these cultures force women to downplay their relational tendencies and alienates their identity as women. They don't want to become the "computer science type."
 
 Using this framework, discuss how the LilyPad Arduino does or does not address each of these issues. Does it place value on different epistemological orientations? Does it change the social aspects of the computing culture to appeal to new/different demographics?
 
-* * *
-
-Student Reading Responses
--------------------------
+## Student Reading Responses
 
 ### Posted by SL
 
@@ -77,8 +74,6 @@ While significant, maleness or femaleness, soft or hard styles, exemplify only o
 
 Arduino is still a fairly complex programming and development environment. The open source nature of the project is a tremendous advantage, as, if you have the expertise and patience, you can significantly impact the development and improvement of the platform, as well as participate in a vibrant community of practice. But the hardware platform at core, still seems to be designed based on methodology and thinking that is decidedly" hard" or "environmental" and requires a level of expertise or knowledge for entry. While one can fairly quickly implement a project in Arduino, one doesn't necessarily understand it, nor can one necessarily apply it in different circumstances, or necessarily scale it. I find that DIY circuit board making and programming processes have an extremely high floor for newbies. Arduino is moderately easier, still presenting significant challenges to new users. It would be wonderful to find the sweet spot for attracting new users and building new communities as Leah is doing with LilyPad, but making that entry even easier and more culturally open.
 
-* * *
-
 ### Posted by VC
 
 The Soft Question:
@@ -97,8 +92,6 @@ To address the first issue, LilyPad Arduino does offer an opportunity for people
 
 The second issue is a little harder for me to wrap my head around in response to LilyPad Arduino. I have a hard time considering playing around with LilyPad Arduino "computing", though I might just have a very narrow idea of computing. To me, a very non-tech person, computing means you create something that shows up on a monitor. If LilyPad Arduino is targeted at women, I am somewhat concerned with the idea that its growing popularity will make computing "for women" synonymous with sewing or painting, which really just perpetuates gender differences rather than eliminate them. It's basically bringing "women's work" to the electronic realm. I'm glad that LilyPad Arduino is helping people understand computing in an accessible way, but I worry that it creates a new computer culture "for women" rather than changing computing culture as a whole.
 
-> * * *
-> 
 > ### Posted by FG
 > 
 > VC's post made me think of two things, two questions that relate to these two distinct learning styles and approaches to the computer sciences.
@@ -109,21 +102,15 @@ The second issue is a little harder for me to wrap my head around in response to
 > 
 > The distinctions between- and the assumptions behind the two styles as explained by Turkle and Papert are clear to me now, but they fail to take these independent learning tendencies into account in my opinion.
 > 
-> * * *
-> 
 > ### Posted by DL
 > 
-> I too wonder about the same question FG brought up: "are we perhaps subconsciously influenced by the dominant culture and model of interacting with computers - the 'male', traditional model?" It seems that perhaps our learning styles are dictated more by cultural norms than what's intrinsic in us (as females or males)...especially now, when society is becoming increasingly less gender-discriminating in terms of holding stereotypical views of what are acceptable behaviors and beliefs for men and women. I can't but feel that the Sherry Turkle and Seymour Papert article is a bit outdated in its arguments.
-> 
-> * * *
+> I too wonder about the same question FG brought up: "are we perhaps subconsciously influenced by the dominant culture and model of interacting with computers - the 'male', traditional model?" It seems that perhaps our learning styles are dictated more by cultural norms than what's intrinsic in us (as females or males)…especially now, when society is becoming increasingly less gender-discriminating in terms of holding stereotypical views of what are acceptable behaviors and beliefs for men and women. I can't but feel that the Sherry Turkle and Seymour Papert article is a bit outdated in its arguments.
 > 
 > ### Posted by JL
 > 
 > VC brings up an interesting point in whether the LilyPad Arduino is just creating a "new computer culture for women." Why aren't more women interested in engineering and electronics? Is it that the practice is founded and developed in a hard style and therefore more accessible to men? Or is it just that females are more interested in other fields?
 > 
 > Whatever it is, I do see the LilyPad Arduino as something that can help introduce electronics to females and reel them in.
-
-* * *
 
 ### Posted by MN
 
@@ -135,23 +122,17 @@ The hard question:
 
 _Discrimination against epistemological orientations requires some women to adopt a suboptimal problem solving style in order to assimilate._
 
-*   LilyPad Arduino does address the issue epistemological orientations to a certain extent by bringing the artistic, aesthetic, and relational tendencies of women by providing them the context in which they could explore the creative potential of computers.
+- LilyPad Arduino does address the issue epistemological orientations to a certain extent by bringing the artistic, aesthetic, and relational tendencies of women by providing them the context in which they could explore the creative potential of computers.
 
 _The social conventions of these cultures force women to downplay their relational tendencies and alienate their identity as women. They don't want to become the "computer science type."_
 
-*   LilyPad does place value on different epistemological orientations, but I do not think that it changes the social aspects of the computing culture to the extent that women who are non-computer science type would be converted into the existing community.
-
-* * *
+- LilyPad does place value on different epistemological orientations, but I do not think that it changes the social aspects of the computing culture to the extent that women who are non-computer science type would be converted into the existing community.
 
 ### \[Posting about challenges of being a woman in computer programming education and work environments in the 1980s, removed due to copyright and privacy restrictions\]
 
-> * * *
-> 
 > ### Posted by VC
 > 
 > Thanks so much for sharing your 80's Computer programming experience. It illustrates how much the culture has changed in the past 20 years. All of my experiences with IT have been positive, even when the problem doesn't actually get fixed. When I was trying to put together this Web site, for example, the IT guy would tell me which codes to type into the black box, and then explain what the code meant while we waited for the computer to process the command. The contrast between my experience and yours reflects a push to make computers less scary and more personable. It's a welcome cultural shift, and more inclusive of different learning styles for sure!
-> 
-> * * *
 > 
 > ### Posted by SL
 > 
@@ -159,33 +140,27 @@ _The social conventions of these cultures force women to downplay their relation
 > 
 > BTW thanks for the **great** stories from earlier days of computer wrestling… painful in retrospect, but very funny in hindsight.
 > 
-> * * *
-> 
 > ### Posted by DL
 > 
 > Building off of this original posting, "I kind of agree with you that the Turkle/Papert assertion that women are forced into a sub-optimal problem solving style is not quite right, that the issue may really be about different intelligences and learning styles." I might even go further and suggest that the issue may not be uncorrelated with different "levels of consciousness" (referring to Bob Keagan's constructive-developmental psychology framework). For example, people who are at the 3rd, or socialized, order of mind see things in more of a relational way.
 > 
 > One other thing that I am also frustrated about is the article's use of the word epistemological orientations. The article claims to be talking about epistemological orientations, but all the examples they give are about different learning styles, which are two very different things. Epistemology talks about "the theory of knowledge, esp. with regard to its methods, validity, and scope. Epistemology is the investigation of what distinguishes justified belief from opinion." People with two different ways of approaching computers/programming can have the same personal epistemologies.
 > 
-> * * *
-> 
 > ### Posted by MN
 > 
 > I do agree to the fact that computers are ubiquitous these days and no longer belongs to a set subgroups. However, I do think that programming itself is still in a fairly "male" domain, as related to your comment about your Flash TF "seeing things as parts". Because the language was initially created by mostly males, it tends to reward the "environmental" learner type as oppose to the "relational" type.
 > 
-> I find it more difficult to learn programming with my typical female curiosity about meaning of the whole and interrelatedness of the parts. When I had a couple of C++ lessons from my boyfriend, I found myself constantly asking "Why are we doing this way" and him answering "This is just what they decided to do". Pretty dry... not much room in the system for creativity.
+> I find it more difficult to learn programming with my typical female curiosity about meaning of the whole and interrelatedness of the parts. When I had a couple of C++ lessons from my boyfriend, I found myself constantly asking "Why are we doing this way" and him answering "This is just what they decided to do". Pretty dry… not much room in the system for creativity.
 > 
 > Although LilyPad Arduino and some iPhone apps don't necessarily change the computing environments, they do provide opportunities for the more artsy types to apply their imagination and relational tendencies to programming. The facts that LilyPad programming could lead to aesthetically pleasing products and iPhone apps tend to either engage communities or create a social vibe invite the not-traditionally-geeky types into the world of immense creativity and beauty.
 
-* * *
-
 ### Posted by JC
 
-_Describe an instance in which you approached computers in a(n)..._
+_Describe an instance in which you approached computers in a(n)…_
 
-_... relational style, if you identify as male._
+_… relational style, if you identify as male._
 
-_... environmental style, if you identify as female._
+_… environmental style, if you identify as female._
 
 When I'm dealing with something new that I am not familiar with, I feel the need to fully understand the object and get familiar with it on my own. I like to explore at my own pace and get as detailed as possible. It is like getting to know another person to me. By getting close to the object, I feel comfortable with what it can and can't do. For instance, I recently had to learn how to use a robot platform for helping out a high school class. I took it home to spend time playing with it so that I could explain what it does and how. I assumed I would have to help students who wanted to know how something worked and not just that it worked.
 
@@ -196,8 +171,6 @@ I think I associate when each style 50% of the time; I begin relational and move
 _Using this framework, discuss how the LilyPad Arduino does or does not address each of these issues. Does it place value on different epistemological orientations? Does it change the social aspects of the computing culture to appeal to new/different demographics?_
 
 The LilyPad encourages creativity in exploration. The open source hardware serves as an electronic media to create with; there is not a static curriculum that dictates how exploration is conducted. This openness innately encourages different methods of learning and exploring. Students who use the hardware are hopefully involved in project-based environments where they are free to exploit the LilyPad media; and do this in their own ways. Thus, the social environment does not dictate how to explore.
-
-* * *
 
 ### Posted by FG
 
@@ -237,15 +210,11 @@ One activity that working with the LilyPad reminded me of, as I completed my fir
 
 The past and current projects being built using the LilyPad Arduino, such as the Pop-Up Book or the Living Wall are great incentives too, I find. As I said, these are beautiful, but also tangible creations that are great motivational factors for all those who, like me, felt estranged by the abstraction of programming and the impossibility to hold on to something concrete in order to master its concepts.
 
-> * * *
-> 
 > ### Posted by SL
 > 
 > Hi FG:
 > 
 > Your idea for developing a literary language for computation, while offered up in frustration, is kind of fascinating. I see mathematics less as a domineering force, rather as an abstract but elegant and powerful lens through which to explore and tool with which to create in this world. And I think your mathematics teachers should be shot for not instilling you with some love of the discipline before letting you go! But the idea of an entirely different approach to the computation environment, based entirely outside of math and science is quite an interesting challenge. How might that look? Would we use analogies to computer architecture, borrowed from our environment? Earth OS, trees and roots for architecture? Would we use the language of emotion to express the jumps and loops of programming? I know this sounds ridiculous and is a bit literal, but I think you're on to something here. Or would we be embarking on a complete shift in the way that computation was structured? I think that even if we took the literal approach and made a new "literary" language for computation, that it would be a lot more fun to program and would invite a new and broader community to the table. Hmmm…
-
-* * *
 
 ### Posted by JP
 
@@ -263,17 +232,9 @@ I am not convinced by the LilyPad Arduino approach to increase relational tenden
 
 To learn microcontrollers, lots of people used technical data sheets and also recommend that method to novices. I believe this method triggered tremendous problems in learning microcontrollers for beginners because the data sheets are written in technical sentences, hard to understand and consequently blocked people from learning Arduino. I guess that the reason why Arduino is so successful is its easy and friendly tutorials. The Web site tutorial contains references and links for different levels of users. I guess that if microcontrollers have as nice tutorials as Arduino has they can bring in more people as Arduino did, regardless of the styles people may use with them.
 
-* * *
-
 ### Posted by DG
 
-> "Anne is perfectly capable of producing a program with well-delineated subprocedures,  
-> although her way of creating them has little in common with the planner. Devotees of  
-> structured programming would frown on Anne's style. From their point of view, she  
-> should design a computational object (for example, her bird) with all the required  
-> qualities built into it. She should specify, in advance, what signals will cause it to  
-> change color, disappear, reappear, and fly. One could then forget about "how the bird  
-> works." In engineer's jargon, it could be treated as a black box."
+> "Anne is perfectly capable of producing a program with well-delineated subprocedures, although her way of creating them has little in common with the planner. Devotees of structured programming would frown on Anne's style. From their point of view, she should design a computational object (for example, her bird) with all the required qualities built into it. She should specify, in advance, what signals will cause it to change color, disappear, reappear, and fly. One could then forget about "how the bird works." In engineer's jargon, it could be treated as a black box."
 
 I take issue with description above, I believe that the Hard/Soft approach in computer science isn't as clear as it's made out to be in the article. I believe it's actually impossible to blackbox any piece of relatively complex software, because there is exists the problem of leaky abstractions. When I work on a piece of software I work at a certain level of abstraction, moving up and down as needed. I think that a mixed hard & soft approach is required.
 
@@ -285,13 +246,9 @@ A hard question:
 
 I think that physical computing really does help cross thinking styles because it allows you to have something tangible. In the vein of building a new clubhouse, due to the fact that actual interests differ, I think that the LilyPad makes a big difference. By building things that exist in the real world it can often change the value proposition, by giving an individual something that they can easily show to their friends they may not view it as a waste of time.
 
-> * * *
-> 
 > ### Posted by AL
 > 
 > Your "soft" style of working supports my idea that the difference between the hard and soft styles has more to do with different levels of creativity. As you mentioned, when you are beginning with something, you use a soft approach, and when you've mastered it you start to use a blackbox approach. But once you need to go further, you might work in a more tinkering, creative, soft way with your given tools. The distinction they make is really examining closely the functions of the tools and creatively using them for your purposes, rather than just using what is presented to you.
-
-* * *
 
 ### Posted by JL
 
@@ -303,32 +260,21 @@ Hard Question:
 
 I definitely agree that the LilyPad Arduino introduces electronics to a field/application that is popular among females and allows them to explore something new/different in a court that they are comfortable in. Like in the testimony below:
 
-> "LilyPad and the related e-textile field made me brave enough to jump into hardware  
-> development…Before I started this project, I had absolutely no experience with  
-> electronics of any kind. I STILL can't solder to save my life, but it doesn't matter,  
-> because I can sew."
+> "LilyPad and the related e-textile field made me brave enough to jump into hardware development…Before I started this project, I had absolutely no experience with electronics of any kind. I STILL can't solder to save my life, but it doesn't matter, because I can sew."
 
 However, does the LilyPad Arduino cater to a different style of problem solving and thinking (like those more feminine and soft)? I would argue no, since the basic architecture of Arduino was most likely developed by men. The board is still too black-boxed. Can people play around with the board to figure it out? Are its capabilities and limits transparent? From first sight, anyone would be afraid to tinker with it.
 
-> * * *
-> 
 > ### Posted by JC
 > 
 > I definitely agree with the comments on needing to have trust in other work to make progress in software development; there certainly is a dependency on API and libraries. Back in the day, we used to program our own computer vision methods. We don't have to do this anymore with packages like OpenCV. This may be a black box, but the relational aspects of creating can still exist at a higher level.
-> 
-> * * *
 > 
 > ### Posted by VC
 > 
 > It didn't even occur to me that you could play around with the board and tinker it. And even if I knew that when I made my project, I would have been too scared. Thanks for bringing that up!
 > 
-> * * *
-> 
 > ### Posted by DG
 > 
 > In your first question you say that you used to try and understand everything to its fullest degree and that now you can black box. Do you think that this ability to blackbox is a result of that earlier understanding - you already know in theory how it works, the specific implementation details don't matter, because you could write the API/library yourself if needed?
-
-* * *
 
 ### Posted by RC
 
@@ -342,13 +288,9 @@ A hard question:
 
 I feel that the LilyPad Arduino allows its users to use as soft or as hard an approach as they choose. When I was playing with the kit, I didn't feel like there was a 'right' way to start building. My team went with a softer approach. We didn't have a plan, but just let things happen as we played around with the materials. I believe part of the reason the kit we played with allows such freedom of approach is because of the materials (both building materials and support materials). We weren't given a breadboard and wires, but instead given paint and paper. When I took the Circuit class here at MIT (6.002), I was quickly taught the 'correct' way of wiring a breadboard - which color wires to use for which connections, which holes in the breadboard should connect to ground, etc. Even the lab materials would teach us to build each component separately and then connect them together (black boxing). With the LilyPad we had the templates and the instructions that taught us how to connect things to the microcontroller, but weren't told the 'correct' ways to go about building a project with the controller. The move away from traditional computational materials definitely helps the kit appeal to a broader demographic.
 
-> * * *
-> 
 > ### Posted by DG
 > 
 > I agree completely with your analysis of the LilyPad. I think that removing a lot of the constraints normally found in technology (the exactness needed for it to work) allowed us to experiment and evolve our approach. I for one know that I'd approach my next project slightly different (trace the holes/leads onto the paper before starting), but I think it was highly accessible to planners, evolvers/improvisers or anyone in between.
-
-* * *
 
 ### Posted by AL
 
