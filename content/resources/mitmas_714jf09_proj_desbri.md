@@ -6,6 +6,7 @@ file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/20653627be7
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Outline of the key elements of a design brief for the final project of the course.
-

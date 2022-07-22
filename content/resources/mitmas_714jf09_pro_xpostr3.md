@@ -7,6 +7,7 @@ file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/2a897a441d6
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
 ---
 Supporting material for an example student project to develop a networked, media-rich programming environment to enhance informal learning
 and technological fluency at community technology centers.
-

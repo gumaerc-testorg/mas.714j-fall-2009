@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
@@ -23,4 +24,3 @@ video_metadata:
   youtube_id: null
 ---
 Photo showing the front and back sides of the teardrop Arduino circuit board.
-

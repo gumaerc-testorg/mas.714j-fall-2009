@@ -7,6 +7,7 @@ file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/d618b0b2078
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Synopsis of arguments in the book Collins, A., and R. Halverson. Rethinking Education in the Age of Technology: The Digital Revolution and the Schools. New York, NY: Teachers College Press, 2009. ISBN: 9780807750025.
-

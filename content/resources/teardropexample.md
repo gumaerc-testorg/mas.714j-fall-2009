@@ -6,6 +6,7 @@ file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/110927ce1d0
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: tearDrop Example
 uid: 110927ce-1d08-d8ec-9eff-5914e16d5fb0
 ---
 Program that controls the tearDrop computer, part of a construction kit that lets people create interactive paintings.
-

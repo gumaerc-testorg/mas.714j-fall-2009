@@ -6,6 +6,7 @@ file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/9416e19e330
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: readData
 uid: 9416e19e-330c-6885-d8c5-4fd91eeaff14
 ---
 Program that controls the tearDrop computer, part of a construction kit that lets people create interactive paintings.
-
