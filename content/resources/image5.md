@@ -3,6 +3,7 @@ content_type: resource
 description: Drawing of the tearDrop holes on paper, with two of them connected by
   a line.
 file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/e9184ea4d9c5fce892cc34716d187f01_Image5.jpg
+file_size: 21257
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -4,6 +4,7 @@ description: "Supporting material for an example student project to develop a ne
   \ media-rich programming environment to enhance informal learning\r\nand technological\
   \ fluency at community technology centers."
 file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/2a897a441d6873ed969c0995d197690b_MITMAS_714JF09_pro_xpostr3.pdf
+file_size: 112317
 file_type: application/pdf
 learning_resource_types:
 - Projects

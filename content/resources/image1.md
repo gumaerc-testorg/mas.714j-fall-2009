@@ -2,6 +2,7 @@
 content_type: resource
 description: Cartoon showing the evolution of man.
 file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/1dff14e1cbdc64698c05ba16ecc6e817_Image1.jpg
+file_size: 82307
 file_type: image/jpeg
 image_metadata:
   caption: ''

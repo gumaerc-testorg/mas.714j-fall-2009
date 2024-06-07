@@ -2,6 +2,7 @@
 content_type: resource
 description: Conductive paint connecting to the LED leads
 file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/f80a09656a6022be67104ed0bad6a4e4_Image7.jpg
+file_size: 36233
 file_type: image/jpeg
 image_metadata:
   caption: ''
