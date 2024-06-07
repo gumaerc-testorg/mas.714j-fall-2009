@@ -4,9 +4,10 @@ description: For one of the class assignments, two students built a  Scratch-bas
   drumset using foil-wrapped paper plates, conductive metal chopsticks, and a Scratch
   sensor PicoBoard. (Courtesy of anonymous MIT students. Used with permission.)
 file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/67e798dcaf86763a85a95bb42e4f0ca0_mas-714jf09-th.jpg
+file_size: 7366
 file_type: image/jpeg
 image_metadata:
-  caption: For one of the class [assignments](/courses/mas-714j-technologies-for-creative-learning-fall-2009/pages/assignments/_index),
+  caption: For one of the class [assignments](/courses/mas-714j-technologies-for-creative-learning-fall-2009/pages/assignments),
     two students built a Scratch-based drumset using foil-wrapped paper plates, conductive
     metal chopsticks, and a Scratch sensor PicoBoard. (Courtesy of anonymous MIT students.
     Used with permission.)

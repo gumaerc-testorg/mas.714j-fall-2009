@@ -40,7 +40,7 @@ On of my favorite subjects growing up (and still is), is art. I have been drawin
 
 So my tangible "thing" would be clay that I could sculpt; the clay would somehow be embedded with micro sensors that would map the surface of the sculpture. This information could then be fed into a CAD or animation program. Here is a link to a paper that talks about implementing the digital clay idea:
 
-- Reed, Michael. "[Prototyping digital clay as an active material](http://portal.acm.org/citation.cfm?id=1517733&coll=GUIDE&dl=GUIDE&CFID=54601554&CFTOKEN=56458107&ret=1#Fulltext)." _Proceedings of the 3rd International Conference on Tangible and Embedded Interaction. ACM, 2009_.
+- Reed, Michael. "[Prototyping digital clay as an active material](http://portal.acm.org/citation.cfm?id=1517733&coll=GUIDE&dl=GUIDE&CFID=54601554&CFTOKEN=56458107&ret=1#Fulltext)." *Proceedings of the 3rd International Conference on Tangible and Embedded Interaction. ACM, 2009*.
 
 > ### Posted by DG
 > 
@@ -88,7 +88,7 @@ I would say that I developed a different branch of skills than those found only 
 
 I really appreciate Eisenberg's comment that children like to learn with "stuff," tangible objects, and that the coupling of objects and new media technology could lead to greater creative learning potential. Something that was really informative in my learning through the beach was the fact that I was learning from life. It would be very interesting to pursue educational tools where computation is paired with objects in nature.
 
-- Leone, Diane. "[Dangerous Ground at Sandy Beach](http://archives.starbulletin.com/2002/03/24/news/story3.html)." _Honolulu Star-Bulletin_, March 24, 2002.
+- Leone, Diane. "[Dangerous Ground at Sandy Beach](http://archives.starbulletin.com/2002/03/24/news/story3.html)." *Honolulu Star-Bulletin*, March 24, 2002.
 - Original video has been removed. This is a similar video. letsgotovegasshow. "Barak Obama - Body Surfing in Hawaii!" December 29, 2008. Youtube. Accessed September 18, 2012. [http://www.youtube.com/watch?v=keX_gLjg6cQ](http://www.youtube.com/watch?v=keX_gLjg6cQ)
 
 > ### Posted by SK
@@ -105,15 +105,15 @@ I really appreciate Eisenberg's comment that children like to learn with "stuff,
 
 There were two activities that I really enjoyed as a child that I think could be enhanced by technology.
 
-1. I enjoyed building sand castles at low tide and watching them be destroyed as the tide came in. I would construct them in such a way to try and withstand the tide as much as possible and move the water around in interesting ways. When not at the ocean, we would carve channels into a hill and then use the a garden hose to pump water through the system - it would move homemade waterwheels, plastic green army men, legos, and whatever other materials we had available to us. Technology could help this by allowing building simple sensors and pumps that I could have used.   
+1. I enjoyed building sand castles at low tide and watching them be destroyed as the tide came in. I would construct them in such a way to try and withstand the tide as much as possible and move the water around in interesting ways. When not at the ocean, we would carve channels into a hill and then use the a garden hose to pump water through the system - it would move homemade waterwheels, plastic green army men, legos, and whatever other materials we had available to us. Technology could help this by allowing building simple sensors and pumps that I could have used.     
       
      
 2. I also enjoyed playing strategy board games with my brothers and our neighbors. We would play risk, axis and allies, diplomacy, etc. After multiple iterations playing these games are strategies would slowly improve as we relied on our recollection of the prior games and strategies employed by each of us. We could have greatly improved our strategies if there was technology available that capture the state of the board at each turn, so that we could have done advanced analysis instead of relying on memory. As our strategies progressed would discover dominant strategies that seemed to always work - developing large quantities of soldiers and dumping them at the Russian border; which then required the opposing player to take more chances and try to outthink these strategies. I recall an amazing game where Germany took over Canada and swarmed down into the US. If we could have had detailed data about troop movement and quantities we could have increased our level of play significantly. This technology could have been as simple as rfid readers in the board with each piece designated with a unique ID, and a few buttons to designate the players turns, technology available etc. We'd also be able to characterize our playing styles as safe, risky, collaborative.
 
 Digital boardgames:
 
-- Hanlon, Mike. "[CES 2006: Entertaible combines excitement of electronic gaming with traditional board games](http://www.gizmag.com/go/4995/)" _Gizmag_, December 6, 2005.
-- ———. [Image gallery](http://www.gizmag.com/go/6093/) for "Philips Entertaible." _Gizmag_, August 3, 2006.
+- Hanlon, Mike. "[CES 2006: Entertaible combines excitement of electronic gaming with traditional board games](http://www.gizmag.com/go/4995/)" *Gizmag*, December 6, 2005.
+- ———. [Image gallery](http://www.gizmag.com/go/6093/) for "Philips Entertaible." *Gizmag*, August 3, 2006.
 
 ### Posted by FG
 
@@ -133,7 +133,7 @@ Having said this, the body has been considered and described as 'an object' by v
 
 To take this notion of the body as an 'object' a little further and into some futuristic yet possible avenues, one just has to look at the kind of research being done here at the Media Lab, with Pr. Iroshi Ishii's Tangible Media group, in which students are developing wearable devices that build upon and extend the body's capacities, one of the most active groups in his area. Pattie Maes' is another. The sensor-embedded garments that allow for monitoring and sending out data on one's heart rate or for long-distance massages are just some examples. These body-based devices can have many medical, social or even emotional applications in our everyday lives.
 
-See one of Pr. Ishii's students', [Cati Vaucelle's research and her PhD thesis](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.371.6067&rep=rep1&type=pdf) entitled "Grounding interfaces: shifting the body boundaries" for some great examples. The link here has a selection of her projects, most of them relating to the many imaginative uses we can make of our bodies in their new digital environment.
+See one of Pr. Ishii's students', Cati Vaucelle's research and her PhD thesis entitled "Grounding interfaces: shifting the body boundaries" for some great examples. The link here has a selection of her projects, most of them relating to the many imaginative uses we can make of our bodies in their new digital environment.
 
 To conclude, I have to say that I recently decided to go back to ballet, albeit of course on a dilettante level, with classes here at the Cambridge Dance Complex. Returning to classical dance, complete with splits and pointe work after a nearly 20-year gap has proved an experience full of discoveries too! It turns out that not only I can still make all the moves I did as a young growing child and teenager \[I'm now well into my 30s:)\], but I have found that I am even better at some of them and more supple when it comes to splits and similar exercises. I believe it's because I am working harder at them. But the idea that even at an older age one is capable of such physical feats as usually reserved for our younger years was a revelation to me. It feels a little like reversing the biological clock. In any case, this experience has allowed me to keep learning new things about myself and the body's capabilities.
 
@@ -144,7 +144,7 @@ And on a more general note, it is clear that the body holds plenty of exciting e
 > Ballet strikes a chord for me as well. It was the choreography paired with the music and the staging that I found as compelling as the performance aspects of the art form. To choreograph, I had to create a sequence of steps and movements, synchronized with music, while orchestrating the geometry of moving groups of bodies using two languages: the strict language of ballet (almost every movement and position has a French name) and the language of music (notes, score, key, tempo, phrase, etc.). Both languages had to be pressed into the service of a story line, whether literal, emotional or aesthetic. And the performance was the "test", the proof of learning and knowledge integration. I've seen several technology projects that have attempted to have motion translated into digital images or music. The late Merce Cunningham tried using tracking sensors/tags and computer simulations to create animated digital dancers in the 1990's. He also worked with the Media Lab on a project earlier this decade called Loops which tracked motion in space.
 > 
 > - [Wikipedia: Merce Cunningham](http://en.wikipedia.org/wiki/Merce_Cunningham)
-> - Kirn, Peter. Remembering Merce Cunningham, Digital Motion, and Digital Portraits. _Create Digital_ Motion, July 27, 2009.
+> - Kirn, Peter. Remembering Merce Cunningham, Digital Motion, and Digital Portraits. *Create Digital* Motion, July 27, 2009.
 > 
 > Joe Paradiso's group, also at the Media Lab, developed a pair of sensing sneakers that when worn, would produce electronic music with each movement of the fott., called Expressive Footwear (1997-2000). Another one of his group's projects tracked the motion of a body in space, called the Magic Carpet (1997-2002).
 > 
@@ -164,7 +164,7 @@ And on a more general note, it is clear that the body holds plenty of exciting e
 > 
 > [Ilya Baran](https://dl.acm.org/profile/81100129752) from the MIT Graphics Groups is also, like Vlasic, very close to coming up with the vision I have of a real life representation of the human body and movement in space:
 > 
-> - Vlasic, D., I. Baran, W. Matusik, J. Popovic. "[Articulated Mesh Animation from Multi-view Silhouettes](http://people.csail.mit.edu/drdaniel/mesh_animation/)." _ACM Transactions on Graphics_ 27(3), 2008. \[Accompanying [video](http://people.csail.mit.edu/drdaniel/research/vlasic-2008-ama.mp4)\]
+> - Vlasic, D., I. Baran, W. Matusik, J. Popovic. "[Articulated Mesh Animation from Multi-view Silhouettes](http://people.csail.mit.edu/drdaniel/mesh_animation/)." *ACM Transactions on Graphics* 27(3), 2008. \[Accompanying [video](http://people.csail.mit.edu/drdaniel/research/vlasic-2008-ama.mp4)\]
 > 
 > ### Posted by MN
 > 
@@ -242,7 +242,7 @@ It is not so difficult for me to imagine how this common material, kaoliang stic
 > 
 > Here is the quote:
 > 
-> > _"I agree with Eisenberg's notion of "Mathland", a physical setting in which tangible object bring children the "image of an entire culture, a lived-in world." My question is, what the criteria are for educational tools to be a good physical setting. What kind of physical settings could bring more effective learning?"_
+> > *"I agree with Eisenberg's notion of "Mathland", a physical setting in which tangible object bring children the "image of an entire culture, a lived-in world." My question is, what the criteria are for educational tools to be a good physical setting. What kind of physical settings could bring more effective learning?"*
 > 
 > It is easy to see the potential for all sorts of cultural and social conflicts among children and learners from diverse family and academic backgrounds, most of them from our real world, being replicated in such a new technologically-enhanced environment, especially when just 'one culture' is being replicated and promoted 'entirely', possibly eradicating others. The now familiar warning about who controls these environments, and eventually the technologies behind them, their design and uses, still applies in these educational contexts, and careful consideration should be given to what kind of philosophies and ideas we want to embed in them. This goes back to what I was was saying in my initial post here that the ideas behind the technologies matter as much - and for me, more - than the tools/objects themselves. Democratic representation of all participants in these new learning environments should be one of the guiding principles in my opinion.
 > 
@@ -275,8 +275,6 @@ However, does that mean digital design tool is better than the analog one? In th
 Admittedly, using computer is very convenient to make modifications. So how to build the bridge between these two becomes very important. one way of what a lot of architects are doing now is embrace the technology of digital fabrication. For example, 3D printer- it can automatically convert your digital model to a physical one.
 
 Laser cutter or CNC are also very strong digital fabrication tools.
-
-- j\_laucks. "[080128-(collaboration)Aperiodic\_Vertebrae v1.0](http://jlaucks.wordpress.com/2008/01/28/collaborationaperiodic_vertebrae/)"
 
 But this is more about like the presentation issue. As a tool, what i image is that, when we are building a rough physical model or sketch, the computer can generate a digital model at the same time by using some sensor to record the changing of the geometry. that will definitely help architects to make designs.
 
