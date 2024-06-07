@@ -2,6 +2,7 @@
 content_type: resource
 description: Photo of a paper sensor, using a semi-circle of graphite.
 file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/5c125823d7e2a702745899b521c01d3f_Image12.jpg
+file_size: 38622
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: Photo of the components in the paper computing construction kit.
 file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/5d5f7cfd6831c06455c588aeb4b0f198_Image1.jpg
+file_size: 50567
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -3,6 +3,7 @@ content_type: resource
 description: Photo showing a pencil tracing the locations of holes in the tearDrop
   on a piece of paper.
 file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/a3ad8718e227a697cbc8e1778190408e_Image4.jpg
+file_size: 44594
 file_type: image/jpeg
 image_metadata:
   caption: ''

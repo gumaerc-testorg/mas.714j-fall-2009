@@ -4,6 +4,7 @@ description: Example student project to introduce educators to alternative metho
   for exposing youth to science, technology, engineering, and mathematics (STEM) concepts
   through robotics.
 file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/4c74340682606f5e5515f838b5832bba_MITMAS_714JF09_proj1_brief.pdf
+file_size: 338915
 file_type: application/pdf
 learning_resource_types:
 - Projects

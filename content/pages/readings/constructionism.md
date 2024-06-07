@@ -19,9 +19,9 @@ video_metadata:
 
 ### Posted by Mitch Resnick and Karen Brennan
 
-Since Seymour Papert wrote _Mindstorms_ nearly 30 years ago (in 1980), it is not surprising that parts of the book seem out-dated and irrelevant today–such as the Logo vs. Basic debate. Other parts of the book, once viewed as radical, now seem totally mainstream–such as Papert's contention that all children will and should have easy access to computers in school and in their everyday lives.
+Since Seymour Papert wrote *Mindstorms* nearly 30 years ago (in 1980), it is not surprising that parts of the book seem out-dated and irrelevant today–such as the Logo vs. Basic debate. Other parts of the book, once viewed as radical, now seem totally mainstream–such as Papert's contention that all children will and should have easy access to computers in school and in their everyday lives.
 
-But what's most striking to me is that many of Papert's ideas in _Mindstorms_ remain relevant and provocative today, and continue to serve as a valuable framework for thinking about the future of educational technologies. Some themes that stand out:
+But what's most striking to me is that many of Papert's ideas in *Mindstorms* remain relevant and provocative today, and continue to serve as a valuable framework for thinking about the future of educational technologies. Some themes that stand out:
 
 - Children as creators. Papert sets up a dichotomy between "the child programs the computer" and "the computer programs the child". Today's reality is more complex, as children use computers for accessing information, playing games, and communicating with one another. But Papert's vision of children creating with new technologies (not just interacting with them) is, for the most part, still unfulfilled dream, even in today's era of user-generated content.
 - Importance of affect. In the Foreword, Papert emphasizes that he "fell in love with the gears," and argues that the most important learning experiences grow out of personal passions. Today's classrooms continue to focus on the cognitive, with little attention to the affective.
@@ -29,7 +29,7 @@ But what's most striking to me is that many of Papert's ideas in _Mindstorms_ re
 - Learning cultures. In his discussion of samba schools, Papert argues that people learn best when they are participating meaningfully within a community. By contrast, "learning in our schools today is not significantly participatory –and doing sums is not an imitation of an exciting, recognizable activity of adult life." Although there is more emphasis on "collaboration" in today's schools, I think Papert's critique of schools remains accurate.
 - Objects-to-think-with. Papert argues that educational researchers should focus on the development of new "objects-to-think-with" (such as the Logo turtle) where there is "an intersection of cultural presence, embedded knowledge, and the possibility for personal identification." Today, there are few research efforts focused on the development of such computational objects-to-think-with.
 
-For your blog post this week: Select a sentence or paragraph in _Mindstorms_ that you found particularly surprising, inspiring, or provocative - and explain why.
+For your blog post this week: Select a sentence or paragraph in *Mindstorms* that you found particularly surprising, inspiring, or provocative - and explain why.
 
 ## Student Responses
 
@@ -51,11 +51,11 @@ As we move to more complex materials, from building blocks to circuits, the poss
 
 ### References
 
-1. _Mindstorms_, p. 7
-2. Heidegger, Martin. _Being and Time_.
-3. _Mindstorms_, p. 179
-4. Transcript of [Coast To Coast AM, April 30, 2006](http://s3.amazonaws.com/transcripts/transcripts//Bd8/20134.html): a conversation between Steven Wozniak and Kevin Mitnick
-5. _Mindstorms_, p. 182
+1. *Mindstorms*, p. 7
+2. Heidegger, Martin. *Being and Time*.
+3. *Mindstorms*, p. 179
+4. Transcript of Coast To Coast AM, April 30, 2006: a conversation between Steven Wozniak and Kevin Mitnick
+5. *Mindstorms*, p. 182
 6. [Hackerspaces](https://hackerspaces.org/)
 7. Resnick, M. "All I really Need to know (About Creative Thinking) I Learned (By Studying How Children Learn) in Kindergarten."
 
@@ -77,7 +77,7 @@ Even though dramatic changes will be more effective from the ground-up, the chan
 
 There are so many great thoughts and ideas that have surfaced in the readings this week, it's difficult to choose just one. But choose we must!
 
-One surprising and provocative excerpt from _Mindstorms_ focuses on thinking about thinking: the idea of children as epistemologists. In the first chapter of _Mindstorms_ Papert describes children programming:
+One surprising and provocative excerpt from *Mindstorms* focuses on thinking about thinking: the idea of children as epistemologists. In the first chapter of *Mindstorms* Papert describes children programming:
 
 > "In the LOGO environment …The child programs the computer. And in teaching the computer how to think, children embark on an exploration about how they themselves think. The experience can be heady: Thinking about thinking turns the child into an epistemologist, an experience not even shared by most adults. "(S. Papert, 1980, p.19)
 
@@ -122,16 +122,16 @@ Can learning become so effective, so engaging? I think yes, but only if carefull
 
 ### Posted by SL
 
-Not a part of _Mindstorms_, but another excerpt from this week's readings that really surprised me came from the article "All I Really Need to Know…" by Resnick, et al. The article describes the kindergarten approach to learning, a process that is iterative and spiral in nature: imagine, create, play, share, reflect and again imagine. Each part of the process involves creative thinking and problem-solving, requisite skills for the 21st Century workforce. Bakhtiar Mikhak pulled the following tips from 12 year olds about how to participate in creativity workshops- tips which point to the kindergarten approach to learning:
+Not a part of *Mindstorms*, but another excerpt from this week's readings that really surprised me came from the article "All I Really Need to Know…" by Resnick, et al. The article describes the kindergarten approach to learning, a process that is iterative and spiral in nature: imagine, create, play, share, reflect and again imagine. Each part of the process involves creative thinking and problem-solving, requisite skills for the 21st Century workforce. Bakhtiar Mikhak pulled the following tips from 12 year olds about how to participate in creativity workshops- tips which point to the kindergarten approach to learning:
 
-> "Start simple   
-> Work on things that you like   
-> If you have no clue what to do, fiddle around   
-> Don't be afraid to experiment   
-> Find a friend to work with, share ideas!   
-> It's OK to copy stuff (to give you an idea)   
-> Keep your ideas in a sketch book   
-> Build, take apart, rebuild   
+> "Start simple    
+> Work on things that you like    
+> If you have no clue what to do, fiddle around    
+> Don't be afraid to experiment    
+> Find a friend to work with, share ideas!    
+> It's OK to copy stuff (to give you an idea)    
+> Keep your ideas in a sketch book    
+> Build, take apart, rebuild    
 > Lots of things can go wrong, stick with it." (M. Resnick, et al.)
 
 Sometimes great wisdom comes from the mouths of children. These are tips which I intend to use extensively in this course (for example, in our first assignment) and beyond. I love learning from 12 year olds and I hope to be in kindergarten until my brain expires.
@@ -158,7 +158,7 @@ This leads me to raise one essential question regarding Papert's proposal for an
 
 There are everyday dozens of reasons why one may find oneself on his/her own in front of a learning situation. Missing the collaborative aspect of the proposed educational methods would be a great loss for these lone individuals, but not taking them into account when designing a new educational system and philosophy of learning would be creating a class of under-represented, ostracized learners who eventually will fall behind.
 
-Another question came to me when reading on page 6 of the Introduction to _Mindstorms_ Papert's description of how bringing computers into children's play and lives naturally will not only redefine their learning, but also enhance communication between the child and the computer.
+Another question came to me when reading on page 6 of the Introduction to *Mindstorms* Papert's description of how bringing computers into children's play and lives naturally will not only redefine their learning, but also enhance communication between the child and the computer.
 
 He writes, "In many schools today, the phrase "computer-aided instruction" means making the computer teach the child. One might say the computer is being used to program the child. In my vision, the child programs the computer, and in doing so, both acquires a sense of mastery over a piece of the most modern and powerful technology and establishes an intimate contact with some of the deepest ideas from science, from mathematics, and from the art of intellectual model building."
 
@@ -168,7 +168,7 @@ Having expressed my only doubts and concerns about the proposed methods, I have 
 
 Papert's findings, as well as those of the Lifelong Kindergarten group deeply resonate with me first of all because I have skipped Kindergarten entirely, given that my mother decided that my brother and I would start going to school when it was compulsory, that is for the first year of primary school at 6-7 years old. Till then, play for me was at home, alone. Secondly, my own experience of struggling with mathematics throughout my 6 years of primary school and 6 years of high school, from algebra to geometry and other math subjects, despite private tuition during weekends and summers, tells me that Papert is right on target when he describes the importance of a nurturing, loving even environment for the learning and practicing of math in an effective manner. My biggest stumbling block with math was that I never understood 'what the point was' - what their use and purpose was in real life, I was struggling to translate those abstract concepts into concrete occurrences in real life.
 
-The "positive affective tone" he refers to is indeed missing from traditional schools' environment. But to a larger degree, their absence in the child's life generally can affect that child's capacity for learning. I find Papert so right on this that I am tempted to link his findings in _Mindstorms_ to a paper I once read on fatherless daughters and the negative effects of their family situation on their mathematical abilities - having myself lost my father to cancer when I was 14 months old, I have no recollection of him.
+The "positive affective tone" he refers to is indeed missing from traditional schools' environment. But to a larger degree, their absence in the child's life generally can affect that child's capacity for learning. I find Papert so right on this that I am tempted to link his findings in *Mindstorms* to a paper I once read on fatherless daughters and the negative effects of their family situation on their mathematical abilities - having myself lost my father to cancer when I was 14 months old, I have no recollection of him.
 
 "[The effects absent fathers have on female development and college attendance](http://findarticles.com/p/articles/mi_m0FCR/is_4_35/ai_84017196/)" by Franklin B. Krohn and Zoe Bogan \[College Student Journal, Dec 2001\] explains how in a family, in the home environment, it is often the father who indirectly, subconsciously introduces his children to mathematical concepts and related spheres, through his own interests and pursuits. This theory is based on a traditional view of 'male' interests that says that men are more likely to be scientifically-minded than women. Even if this is a huge preconceived idea, it is still quite true that the absence of a father who will show an interest in the mathematical results of a game for example or in the geometric designs of his new home or woodwork constructions in his workshop may instill his child with a wonder and interest for such areas too.
 
@@ -182,7 +182,7 @@ Papert's description of the learning child as a 'builder' inevitably reminded me
 
 Perhaps one moment where his Utopian side comes out the most strongly is when he suggests on page 179 that computer programming could and in fact should become for children "an exciting, recognizable activity of adult life." From my own personal experience: I have grown up without a computer in sight, let alone any adult using it, and I suspect this is still the case for many children and people around the world. It is clear that he is speaking here from the point of view of someone with the privilege of access to computers.
 
-To respond to one last concept described in _Mindstorms_, I have to say that I fully agree with Papert that the current traditional educational systems in most countries of the world is largely dictated by political considerations - which brings me to the point that how we choose to educate our children, what kind of tools we put in their hands and how much freedom we let them have over these tools all boils down to power and control. A child's innate ability to learn and to imaginatively create is as far as I'm concerned beyond question. It is adults, parents, educators, schools' directors and curricula designers - and eventually those behind the 'politics of education' - who are deciding and controlling what children and students learn.
+To respond to one last concept described in *Mindstorms*, I have to say that I fully agree with Papert that the current traditional educational systems in most countries of the world is largely dictated by political considerations - which brings me to the point that how we choose to educate our children, what kind of tools we put in their hands and how much freedom we let them have over these tools all boils down to power and control. A child's innate ability to learn and to imaginatively create is as far as I'm concerned beyond question. It is adults, parents, educators, schools' directors and curricula designers - and eventually those behind the 'politics of education' - who are deciding and controlling what children and students learn.
 
 Could they, deep down, be afraid that somehow, given too much freedom and power, these children could somehow be uncontrollable?…
 
@@ -196,7 +196,7 @@ Here the Frankfurt School of thought and especially Herbert Marcuse come to mind
 
 Architects, Computers and Powerful Designs.
 
-For me, the most surprising part is that even though I change the word "children" into "architects" and "writing" into "design" from Papert's _Mindstorms_, the contents will greatly fit with the context of the current architectural situation. For a long time, the development in computer technology and the use of CAD/CAM in design process has provide a huge impact on the way architects work and accordingly changed the way people see what a good design is. In terms of the use of computation, current massive consumption of off the shelf software does not mean that architects are truly using the computer for creative design. Most of the time, the powerful ideas came from somewhere else, but computation. Designers use computers to simply realize or to visualize the idea. (In a lot of case, the design concept is more efficiently represented by diagrams, sketches or physical models then computer simulation) People are still locked in computer-aided design stage and do not shift into a computer-using design stage. Papert's methods of using of computers may quite easily solve this problem.
+For me, the most surprising part is that even though I change the word "children" into "architects" and "writing" into "design" from Papert's *Mindstorms*, the contents will greatly fit with the context of the current architectural situation. For a long time, the development in computer technology and the use of CAD/CAM in design process has provide a huge impact on the way architects work and accordingly changed the way people see what a good design is. In terms of the use of computation, current massive consumption of off the shelf software does not mean that architects are truly using the computer for creative design. Most of the time, the powerful ideas came from somewhere else, but computation. Designers use computers to simply realize or to visualize the idea. (In a lot of case, the design concept is more efficiently represented by diagrams, sketches or physical models then computer simulation) People are still locked in computer-aided design stage and do not shift into a computer-using design stage. Papert's methods of using of computers may quite easily solve this problem.
 
 \[Page 5, Introduction\]
 
@@ -216,7 +216,7 @@ One of my favorite parts is Papert's approach of using computer on bigger scale 
 
 One more note on the readings:
 
-Where does competition fits into these models for collaborative/group learning? It seems the concept is absent from Papert's _Mindstorms_ and similar proposed systems of education and learning methods. Yet, to pretend it does not exist in our society, in our schools and colleges, as in the labor market, especially in today's economically uncertain times, seems to give an inaccurate picture of the world and might be counterproductive in the end.
+Where does competition fits into these models for collaborative/group learning? It seems the concept is absent from Papert's *Mindstorms* and similar proposed systems of education and learning methods. Yet, to pretend it does not exist in our society, in our schools and colleges, as in the labor market, especially in today's economically uncertain times, seems to give an inaccurate picture of the world and might be counterproductive in the end.
 
 This is an issue that as developer of the Open Park platform for journalists to collaboratively cover the news, I am grappling with everyday. It is a challenge to introduce these news-reporters to the new practice of non-competitively working together and share their resources, but it is one I am acknowledging and working hard to solve creatively. I am taking the bulls by the horns here:)
 
@@ -224,7 +224,7 @@ This is an issue that as developer of the Open Park platform for journalists to 
 > 
 > The challenge of collaborative work vs competition style as I'm sure you know has to do with the incentive/reward systems. Here are a few ideas that might increase collaboration in your system.
 > 
-> 1. a) Track the subjects an author contributes to, allow the top authors in that subject to be listed on a given page (or display them in a tag cloud).   
+> 1. a) Track the subjects an author contributes to, allow the top authors in that subject to be listed on a given page (or display them in a tag cloud).    
 >     b) Assign stories to individuals interested in so that if an author wants to maintain their "rank" in that topic, they will be forced to collaborate/co-author.
 > 2. Display an individuals centrality in the social network constructed using co-authoring as a link, this encourages individuals to co-author/collaborate with a wide variety of individuals.
 > 3. Display each individuals Erdos, or some other famous person, number.
@@ -280,7 +280,7 @@ This is an issue that as developer of the Open Park platform for journalists to 
 > 
 > Of course, our modern definition of community has been dramatically altered with the development of the Internet. Papert's book was written at a time when any learning community was necessarily tied to a geographic area and information exchange between such communities was primarily facilitated by "researchers, funded by grants, \[and\] implemented by government action." Today, students and teachers have access to other people, their knowledge, and their perspectives from around the world with communication and collaboration made possible across the web. Students can - and increasingly do - learn in a samba school style by chatting, reading blogs, or watching YouTube videos of the "expert dancers" in whatever field they have interest. I remember learning about programming in this way. Nobody in my suburban middle school (despite its large size and ubiquitous access to computers and the Internet) knew enough about web application development nor thought it an important enough skill to learn to lead me with examples or point me towards appropriate resources. I found a community of people online with whom I collaborated to make Web sites and, in the process, learned a lot about the "mathetic" ways of thinking that Papert hoped LOGO would encourage.
 > 
-> The idea of community-based learning seems somewhat optimistic and premature without the modern conception of a global community facilitated by the web. But perhaps now there are huge opportunities to develop technologies (such as ubiquitous rapid prototyping machines that would allow physical creations to be shared, evaluated, critiqued, discussed, etc across the globe) and encourage behaviors (such as participating in online communities and forming mutually-educational relationships with web-based pen pals) that build on the advances since Papert wrote _Mindstorms_. It seems as though the work done with the online Scratch community further extends Papert's hopes for computer programming as a learning tool, and I wonder what other skills and modes of learning can grow with a focus online.
+> The idea of community-based learning seems somewhat optimistic and premature without the modern conception of a global community facilitated by the web. But perhaps now there are huge opportunities to develop technologies (such as ubiquitous rapid prototyping machines that would allow physical creations to be shared, evaluated, critiqued, discussed, etc across the globe) and encourage behaviors (such as participating in online communities and forming mutually-educational relationships with web-based pen pals) that build on the advances since Papert wrote *Mindstorms*. It seems as though the work done with the online Scratch community further extends Papert's hopes for computer programming as a learning tool, and I wonder what other skills and modes of learning can grow with a focus online.
 > 
 > > ### Posted by SL
 > > 
@@ -328,7 +328,7 @@ This is an issue that as developer of the Open Park platform for journalists to 
 > 
 > ### Posted by VR
 > 
-> Inspired by Jean Piaget's model of children as builders of their own intellectual structures, Papert presents a well-articulated vision which has blossomed into a highly effective meme. It is interesting to note the influence of Froebel's Gifts (Kindergarten) on artists and architects like Frank Lloyd Wright. By physically manipulating shape primitives and playing within the inherent constraints, the child is able to experience the effects of additive/subtractive logical booleans. Constructive play becomes a math lesson situated in a creative context. Logo and Scratch both embody this approach and the communities of players that have formed around these platforms for creative learning have consequently been empowered to share their discoveries in a distributed, limitless way. One of the core concepts in Papert's _MINDSTORMS_ asserts:
+> Inspired by Jean Piaget's model of children as builders of their own intellectual structures, Papert presents a well-articulated vision which has blossomed into a highly effective meme. It is interesting to note the influence of Froebel's Gifts (Kindergarten) on artists and architects like Frank Lloyd Wright. By physically manipulating shape primitives and playing within the inherent constraints, the child is able to experience the effects of additive/subtractive logical booleans. Constructive play becomes a math lesson situated in a creative context. Logo and Scratch both embody this approach and the communities of players that have formed around these platforms for creative learning have consequently been empowered to share their discoveries in a distributed, limitless way. One of the core concepts in Papert's *MINDSTORMS* asserts:
 > 
 > > "It is possible to design computers so that learning to communicate with them can be a natural process, more like learning French by living in France."
 > 

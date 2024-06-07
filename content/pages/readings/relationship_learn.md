@@ -1,6 +1,7 @@
 ---
 content_type: page
 description: This page presents selected student blog responses to the week 7 readings.
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -14,9 +15,7 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
-Reflection and Questions
-------------------------
+## Reflection and Questions
 
 ### Posted by DL, AL, RC and TI
 
@@ -24,133 +23,79 @@ Hi Everyone,
 
 Here are some key take-away points from the article to help guide your reading.
 
-_Knowledge, learning, and cognition are situated_
+*Knowledge, learning, and cognition are situated*
 
-*   Knowledge is partly the product of the activity, context, and culture in which it is developed and used.
-*   Concepts and knowledge are developed through activity.
+- Knowledge is partly the product of the activity, context, and culture in which it is developed and used.
+- Concepts and knowledge are developed through activity.
 
-_Learning is a process of enculturation_
+*Learning is a process of enculturation*
 
-*   To learn to use tools as practitioners use them, a student, like an apprentice, must enter that community and its culture.
-*   Given the chance to observe and practice in situ the behavior of members of a culture, people pick up relevant jargon, imitate behavior, and gradually start to act in accordance with its norms.
+- To learn to use tools as practitioners use them, a student, like an apprentice, must enter that community and its culture.
+- Given the chance to observe and practice in situ the behavior of members of a culture, people pick up relevant jargon, imitate behavior, and gradually start to act in accordance with its norms.
 
-_Authentic activities vs. traditional classroom activities_
+*Authentic activities vs. traditional classroom activities*
 
-*   Authentic activities are simply defined as the ordinary practices of the culture.
-*   Traditional classroom tasks tend to fail to provide the contextual features that allow authentic activity.
+- Authentic activities are simply defined as the ordinary practices of the culture.
+- Traditional classroom tasks tend to fail to provide the contextual features that allow authentic activity.
 
-_Cognitive apprenticeship_
+*Cognitive apprenticeship*
 
-*   Cognitive apprenticeship supports learning in a domain by enabling students to acquire, develop, and use cognitive tools in authentic domain activity.
-*   Apprenticeship helps to emphasize the centrality of activity in learning and knowledge and highlights the inherently context-dependent, situated, and enculturating nature of learning
-*   Cognitive emphasizes that apprenticeship techniques actually reach well beyond the physical skills usually associated with apprenticeship to the kinds of cognitive skills more normally associated with conventional schooling.
+- Cognitive apprenticeship supports learning in a domain by enabling students to acquire, develop, and use cognitive tools in authentic domain activity.
+- Apprenticeship helps to emphasize the centrality of activity in learning and knowledge and highlights the inherently context-dependent, situated, and enculturating nature of learning
+- Cognitive emphasizes that apprenticeship techniques actually reach well beyond the physical skills usually associated with apprenticeship to the kinds of cognitive skills more normally associated with conventional schooling.
 
 Tasks for this week:
 
-1.  Taking into consideration our reading, think back to a past classroom experience where you either did not retain the knowledge learned in class, or did not know how to apply this knowledge to other areas. Describe briefly why that was, and how would you do things differently to make the experience more "authentic"?
-2.  Visit the class Google Moderator page and post and/or vote on comments, topics, or questions that you want to discuss in class on Wednesday. _\[The results are given below.\]_
+1. Taking into consideration our reading, think back to a past classroom experience where you either did not retain the knowledge learned in class, or did not know how to apply this knowledge to other areas. Describe briefly why that was, and how would you do things differently to make the experience more "authentic"?
+2. Visit the class Google Moderator page and post and/or vote on comments, topics, or questions that you want to discuss in class on Wednesday. *\[The results are given below.\]*
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen rowspan="2" >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen rowspan="2" >}}
 QUESTIONS posted to Google Moderator page
-{{< thclose >}}
-{{< thopen colspan="2" >}}
+{{< thclose >}}{{< thopen colspan="2" >}}
 VOTES
-{{< thclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< thclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
 LIKE
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 DON'T LIKE
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1\. "If schools adopt a cognitive apprenticeship model, should the way students are assessed change as well? In what ways should it change?" \[RC\]
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2\. "Since in a cognitive apprenticeship model, each individuals' learning result will be very different according to the different "project". How could student acquire the knowledge systematically, if schools turn to a cognitive apprenticeship model." \[ZH\]
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 0
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3\. "How should math be taught once the mechanics have been learned." \[DG\]
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4\. "After reading several papers on the subject of situated cognition I'm still puzzling over how a learner moves from situated knowledge to abstractions, which are still incredibly important to disciplinary cultures. (Related to Question 3)" \[SL\]
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 0
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5\. "Is there proof that encountering a concept in a situated way is more effective than pre-teaching the concept and then using it in context?" \[VC\]
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6\. "Craft apprentices are great at perpetuating their traditions but they shy away from new ways of doing things. Are cognitive apprenticeships similar? When faced with new, complex global problems, will learning via old frameworks provide new solutions?" \[SK\]
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 0
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
-
-{{< tableclose >}}
-
-* * *
-
-Student Reading Responses
--------------------------
+## Student Reading Responses
 
 ### Posted by SL
 
@@ -160,15 +105,11 @@ When I got to college I thought that Calculus would be a simple course for me, a
 
 It wasn't until maybe 6 years ago when I realized that Calculus had more to do with flows and things happening over time that I began to understand the big picture. This was in conjunction with my entry into the world of making things. All of a sudden I was desperate for the tools and capabilities of calculus and trig, they totally made sense in an engineering environment. I am perfect fodder at this point for just-in-time learning in these mathematical disciplines. If I had it to do over again, I would have immersed myself in a project-based, fabrication or programming learning environment to contextualize my mathematical skills and understanding, and to inspire myself to learn more deeply, more geekly. I loved the two examples in our reading of the magic square, and the story problems. I just wish my teachers in high school had been as visionary in their approach to teaching.
 
-> * * *
-> 
 > ### Posted by JC
 > 
 > I have a similar experience. I managed to get through a math minor in college; I quit at this point when my pattern matching was no longer enough and I was attempting to understand the underlying concepts. I find that going back through some math for engineering coursework makes so much more sense now; either it is the way the material is presented or I'm deliberately trying not to just pattern match (this is tough to do as brains are made for pattern matching).
 > 
 > I had an amazing math logic professor in college though; I loved that class. He was passionate about when he taught and brought the material in context of the real world (like Danny had suggested). Whatever methods he used worked for me. I really wish all of my educational experiences were this clear.
-> 
-> * * *
 > 
 > ### Posted by DG
 > 
@@ -178,39 +119,29 @@ It wasn't until maybe 6 years ago when I realized that Calculus had more to do w
 > 
 > The key is to teach them the tools and then give them a problem in which the tools are required, but their use is not specified.
 > 
-> > * * *
-> > 
 > > ### Posted by JC
 > > 
 > > I relate to your response and like the suggestion of math via real world problems. This is similar to one of the case studies outlined in the paper. I wonder how different the grade school math experience would be given a more tangible understanding of math.
-> > 
-> > * * *
 > > 
 > > ### Posted by FG
 > > 
 > > I think the idea of using 'world problems' is great, and as I wrote in my earlier post, I think this method would have made a significant difference in my assimilating math concepts in primary and secondary school.
 > > 
-> > However, I am not sure anyone could 'force' me to do anything:)...
-> > 
-> > * * *
+> > However, I am not sure anyone could 'force' me to do anything:)…
 > > 
 > > ### Posted by AL
 > > 
 > > I really like this idea of applying math to "world problems." I see that you have posted a question on the moderator site-perhaps we should explore this idea of world problems further in our discussion.
 
-* * *
-
 ### Posted by FG
 
 To answer the first question:
 
-Well, it will have to be math for me. All of it: algebra, geometry, statistics, algorithms, trigonometry... the whole family. I struggled with these abstract concepts from day one throughout my six years of primary school and six years of high school. I think it was a painful experience for my math teachers too:) All of them - those at school and those who would give me private lessons on weekends, holidays and the summer months, just to keep me afloat and help me pass the exams. Our attic at home is now full of notebooks filled with equations and little drawings of animals, coins, banknotes and buckets, anything that can be counted and all sorts of 'real world' objects, like the jars and butterflies in Brown, Collins and Duguid's paper. But like them, I also thought that filling those buckets endlessly and calculating these distances which I would never cover had little connection and relevance to the real world, at least to my world as a child and teenager.
+Well, it will have to be math for me. All of it: algebra, geometry, statistics, algorithms, trigonometry… the whole family. I struggled with these abstract concepts from day one throughout my six years of primary school and six years of high school. I think it was a painful experience for my math teachers too:) All of them - those at school and those who would give me private lessons on weekends, holidays and the summer months, just to keep me afloat and help me pass the exams. Our attic at home is now full of notebooks filled with equations and little drawings of animals, coins, banknotes and buckets, anything that can be counted and all sorts of 'real world' objects, like the jars and butterflies in Brown, Collins and Duguid's paper. But like them, I also thought that filling those buckets endlessly and calculating these distances which I would never cover had little connection and relevance to the real world, at least to my world as a child and teenager.
 
 One of my biggest stumbling blocks in my learning math \[or more accurately non-learning\], is that throughout those years of study I never understood what was the point of doing math, what were the real-life applications and uses for them. This was never explained to me. I feel all I wanted was an explanation of why math mattered and how they mattered in the real world. 'When will I need this as an adult?' was often my question to my teachers.
 
 So I guess the argument of our authors this week, which stresses the need for the use of real-life applications that directly speak to the child/teenager makes sense. Only, designing such 'real-life' examples and case studies is a challenge in itself, since to some extent they are already being used in the traditional system of education \[with objects and 'real' problems, narratives, etc\]. As is argued in our two papers, embedding these mathematical concepts in the child/student's everyday life seems to be taking this methodology one step further, and I think it is definitely a worthy experiment. I certainly would have loved to have had those methods at my disposal when in school.
-
-* * *
 
 ### Posted by JC
 
@@ -218,20 +149,18 @@ When I was in high school, I struggled in Advanced Chemistry class. I recall the
 
 I recall wishing for better visual representations for the concepts being taught. It was not enough having a chalk board. Perhaps today's 3D animation methods would have been helpful. I imagine visuals beyond static 2D to help; however, I am not coming up with any ideas for how to equate Advanced Chemistry concepts to something I could relate with at the moment.
 
-> * * *
-> 
 > ### Posted by DG
 > 
 > I've been thinking about chemistry on and off for the past couple of months, and I think it would be a lot more intuitive if probability was core to the explanation. I envision it would looks something like:
 > 
-> 1.  Introduce the concepts of an Atom: Electrons, Protons, Neutrons
-> 2.  Talk about different elements and how they relate to their constituent parts.
-> 3.  Talk about attraction/repulsion, using images/models, and talk about different types of bonding.
-> 4.  Use computer simulations to show 2 atoms bouncing around and when the randomly hit each other in the correct configuration have them bond.
-> 5.  Using this model you can then add catalysts, add heat, talk about endothermic and exothermic reactions etc... all with very simple atoms and molecules.
-> 6.  The simulations can be scaled up and we can start using real science terms to talk about the reactions and describe what we know about the interactions.
-> 7.  At this point make a departure to industrial manufacturing techniques to understand how chemicals are produced in the real world, design considerations for chemical plants (this reaction releases hit, so we should put it near one that requires it, etc).
-> 8.  After that organic chemistry can be introduce, but with a focus on actual practical biology. Talk about DNA replication, the Krebs cycle, DNA replication, etc...
+> 1. Introduce the concepts of an Atom: Electrons, Protons, Neutrons
+> 2. Talk about different elements and how they relate to their constituent parts.
+> 3. Talk about attraction/repulsion, using images/models, and talk about different types of bonding.
+> 4. Use computer simulations to show 2 atoms bouncing around and when the randomly hit each other in the correct configuration have them bond.
+> 5. Using this model you can then add catalysts, add heat, talk about endothermic and exothermic reactions etc… all with very simple atoms and molecules.
+> 6. The simulations can be scaled up and we can start using real science terms to talk about the reactions and describe what we know about the interactions.
+> 7. At this point make a departure to industrial manufacturing techniques to understand how chemicals are produced in the real world, design considerations for chemical plants (this reaction releases hit, so we should put it near one that requires it, etc).
+> 8. After that organic chemistry can be introduce, but with a focus on actual practical biology. Talk about DNA replication, the Krebs cycle, DNA replication, etc…
 > 
 > I think chemistry needs to be taught with significant physics and biology content so that the material can be appropriately situated.
 > 
@@ -239,8 +168,6 @@ I recall wishing for better visual representations for the concepts being taught
 > 
 > /rant:)
 > 
-> > * * *
-> > 
 > > ### Posted by JC
 > > 
 > > I would sign up for your Chemistry class now:) The visual and practical aspects of your proposed method sound ideal for me. Unfortunately in the era I was taught, this was not possible (as you mentioned). So in no way am I blaming my favorite HS teacher; he did what he could with what he had. Chemistry makes sense when presented visually; I experience this from time to time when I need to look up a concept.
@@ -248,8 +175,6 @@ I recall wishing for better visual representations for the concepts being taught
 > > Also, your description of how physics and biology provide the "context" in which chemistry can be taught makes sense and resonates with the paper.
 > > 
 > > And I appreciate the rant.
-
-* * *
 
 ### Posted by FG
 
@@ -277,29 +202,21 @@ As far as I am concerned, the debate is open on this one.
 
 In any case, I agree with Duckworth: let's keep our educational programs 'unexpected' - I certainly embrace improvisation and the creative use of tools and situations from the real world in education.
 
-* * *
-
 ### Posted by VC
 
 Being asked to re-imagine the teaching of something you don't understand is a funny thing! I only made it through AP Physics my senior year of high school because I was already friends with the smartest people in the class and the teacher allowed for partner tests. My engineer father, my friends, and the teacher all put in extra time and effort to try to explain things, but it never clicked. Like Lass, I learned to leverage school culture to succeed. If asked to list Newton's laws or define velocity, I could certainly do it, but I couldn't figure out the word problems. I still don't understand what happened; I was always fascinated by the class lectures but simply could never apply the concepts to labs or my homework. Perhaps I had trouble visualizing the different forces acting on an object and my problems snowballed into a comprehension disaster. If I recall correctly, my teacher tried his best to make the experience "authentic" with lots of NOVA videos and demonstrations, and I don't know if there was anything else he could have done to make it clearer.
 
 The main point of the Brown, Collins, and Duguid reading-that concepts should be taught in the contexts in which they will be used-seems like common sense, but my experience with high school physics definitely shows that there are limits to this style of teaching. I don't think I failed to understand physics for a lack of effort on my part or my teacher's; perhaps (and here comes another Lass comparison) we eventually develop the maturity or cognitive space to rethink how we understand abstract concepts like calculus and physics. (I've been meaning to watch the introductory physics lectures on MITOpenCourseWare to see if my time of revelation has come.) This is not to say Brown, et al., were wrong about promoting situated learning, or even that they suggested that their method would solve all educational problems, but in my case, I really wonder whether there was anything else that could have been done.
 
-> * * *
-> 
 > ### Posted by SL
 > 
 > I kind of agree with you here, VC. We do have to reach a certain maturity, perspective and cognitive capacity to be able to absorb this kind of knowledge. In my case, I guess I just wasn't ready. There are important subjects and abstract understandings that don't seem to have easily applicable contexts. How do you teach these abstractions? Physics is a discipline that in some cases has great contexts, and in other cases not so. How about general or special relativity? While relativity is about space and time and gravity and motion, the deeper you dig, the more complex and abstract the concepts become. Same for quantum mechanics. On the surface these are elegant, simple ideas, but the deeper you dig, the complexities and abstractions can be overwhelming. These are concepts that go way beyond normal applications and contexts, yet are really important. And this kind of knowledge points to a moment in the situated cognition discussion that I always trip over. How does situated knowledge translate into conceptual knowledge. I'm not yet satisfied with the answers to that question. Seems a bit of hand waving happens at this point in the discussion. Learning does happen through experience, apprenticeship, and community, but there's something else at work as well that allows the cognitive construction of abstractions. How that happens still eludes me.
-
-* * *
 
 ### Posted by DG
 
 Richard Feynman's thoughts on textbooks can be found here:
 
-*   Feynman, Richard. "Judging Books by Their Covers." In _Surely You're Joking, Mr. Feynman!_ New York, NY: W. W. Norton, 1997. ISBN: 9780393316049.
-
-* * *
+- Feynman, Richard. "Judging Books by Their Covers." In *Surely You're Joking, Mr. Feynman!* New York, NY: W. W. Norton, 1997. ISBN: 9780393316049.
 
 ### Posted by MN
 
@@ -309,15 +226,11 @@ During the summer of 2007 I took a class at the Harvard Summer School, called "Q
 
 Because of this experience, as a read through the Situated cognition and the culture of learning by J. S. Brown, et al., I could particularly connect to his idea of inherently context-dependent, situated, and enculturating nature of learning.
 
-* * *
-
 ### Posted by ZH
 
 My undergrad background is industrial design (product design). we had a class called material study (I cannot really remember the exact name). On the class, the professor introduced many different materials and the different qualities of them. He explained the materials by analysis its chemistry components and structure. However, to a designer, this level of introduction would not make a lot of sense to help them use the materials in a smart way for a product, since we could not really understand those materials just through a serious of lectures and homework. And understanding the chemistry components was also not necessary.
 
 After graduation, I worked for a design company. In the studio, there is one big room which is used for showing different kinds of plastics. Every design team has an engineer who knows the materials very well. When we start to work on the different projects, we have chances to know some specific materials deeply. For example, one project is to design a sports watch for NIKE. NIKE provided couple of rubbers with different types. We just played around and tested those rubbers. Those experiences at the company really helped me to understand the materials and how to apply them.
-
-* * *
 
 ### Posted by JP
 
@@ -331,8 +244,6 @@ The making of programming language is dependent on the activities of professiona
 
 I had a couple of chances to teach programming languages by using Rhinoscript and Scratch last winter. Students understood the programming culture not when I explained but when I showed how I used the language; the way I consulted reference material, used sample codes and made code structures. Students had a problem when I talked about Array but as soon as I showed how I use it, most of students showed good understanding. I guess that this process proves the cognitive apprenticeship of this week's reading.
 
-* * *
-
 ### Posted by JL
 
 In the previous blog subject, I wrote about my frustrating experience with learning vocabulary words. This is a subject in which this paper addressed, and I wholeheartedly agree with their approach. Vocabulary words are best learned through context and experience. I would never memorize SAT words of the week; I would immediately forget all of them the next day.
@@ -340,8 +251,6 @@ In the previous blog subject, I wrote about my frustrating experience with learn
 Math was another area where I did not know how to apply my knowledge. Oddly enough, math was my favorite subject, and I always felt comfortable with doing math problems. However, once the math problems were not in the form "Solve y=3x+5," I did not know how to solve them. Critical thinking problems that explained the math problems through words and scenarios were always difficult for me to solve since they were not in this nice clean form that textbook problem sets were in. I also never understood the "why" in math. For example, why do we need so many different forms of representation like the coordinate system? Why polar coordinates? Why are we learning different graphical functions? Teachers never gave me the answer to the whys or the bigger picture.
 
 I do not agree with the order in which math is taught. Currently, it is taught in levels of complexity and logical progression. To make the experience more authentic, I would teach math through application and scenario. You can teach money through a bank simulation, percentages through clothing sales, probability through playing cards, quadratic equations through rocket projectiles and many many more. Show the students how we use math and make it interesting and relevant to life!
-
-* * *
 
 ### Posted by SK
 
@@ -351,13 +260,9 @@ The strange thing is, I did retain a lot about the nature of differential equati
 
 Brown, et al., write: "Many of the activities students undertake are simply not the activities of practitioners and would not make sense or be endorsed by the cultures to which they are attributed." The problem I find with their argument here is that many activities and units of knowledge cannot be attributed to only one "authentic" culture. Choosing which culture in which to situate the knowledge is difficult and potentially as misleading as situating knowledge in "school culture." From my example, would an authentic situation been learning differential equations as a mathematician uses them? As an engineer? As an architect? Each group's application is very different and focuses on different aspects of the concepts entirely. To complicate matters further, my chosen context of architecture does not even traditionally incorporate the concepts of differential equations into its practice - how would this knowledge have been situated there? Yet many truly innovative practitioners in the field have found creative inspiration by taking concepts from outside their field and developing architectural ideas around that. In some ways I feel like learning differential equations in an "inauthentic" situation allowed me to generalize and re-work some concepts while cast aside others that weren't relevant because I did not come to associate the field with a specific practice.
 
-> * * *
-> 
 > ### Posted by JP
 > 
 > Your comment on retention is quite interesting. The purpose of contextual learning might be maximizing the retention rate after learning. Still you are distinguishing something that students know and that solve problems. I had also similar experience; I took optimization class last semester and could solve most of the problem sets by myself, however I am losing my skills slowly but surely. I wonder why this happens. Was it because the learning process was not contextual enough to retain the activities?
-
-* * *
 
 ### Posted by DK
 
@@ -368,8 +273,6 @@ Humanities and some basics of sciences have remained somewhere in my brain. I am
 My university education was also formal, but I since I was convinced that my university was very bad I started to explore the real world very early on and was able to quickly build up knowledge as a product of the activities in offices, context of professional practice and culture of architecture. I had to learn the language of the profession, learn to use tools as architects do and was able to enter that community and its culture.
 
 Authentic activities would be drawing, building models make images, think about the content conveyed in renderings and critiquing what was produced by me and others. I worked in 7 offices before I graduated and lived in 4 different countries while being a student - yes we didn't have tuition, education is free in Austria. So I am the perfect example of an Apprentice and was in fact able to actively learn and acquire knowledge in a highly context-dependent discipline.
-
-* * *
 
 ### Posted by FG
 
@@ -383,12 +286,10 @@ I can definitely relate to DK's forgetting what he learned in his school years, 
 
 As a final note, I have to ask: what's up with math?:) Judging by the amount of responses mentioning math to highlight both positive and negative experiences, I am tempted to ask what makes that subject so special that it is embedded in our memory and subconscious, as well as, it seems, in our immediate everyday life experiences to a higher extent than other subjects we studied in school? Examples, stories and case studies abound and surpass the number of examples for say foreign languages, English \[as mother tongue\], history or geography? Is it easier to remember our math learning experiences than other subjects?
 
-Why also does math seem to have attracted so much more research and observations from academics and researchers in the field of education, cognitive behavior, and child development, to name a few. Papert and Minsky come to mind, but there are many others. Does math lend themselves better, more easily to such research? I'm just curious...
-
-* * *
+Why also does math seem to have attracted so much more research and observations from academics and researchers in the field of education, cognitive behavior, and child development, to name a few. Papert and Minsky come to mind, but there are many others. Does math lend themselves better, more easily to such research? I'm just curious…
 
 ### Posted by DG
 
 Great little video about how the math curriculum should be structured (3 Minutes):
 
-"[Arthur Benjamin's formula for changing math education](http://www.ted.com/talks/arthur_benjamin_s_formula_for_changing_math_education.html)." TED Talks, 2009.
+"Arthur Benjamin's formula for changing math education." TED Talks, 2009.
