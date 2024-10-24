@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photo of a painted path for a switch.
-file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/f761b62f4df2d475526f2d316fa7bbb2_Image9.jpg
+file: /ol-ocw-studio-app/courses/mas-714j-technologies-for-creative-learning-fall-2009/f761b62f4df2d475526f2d316fa7bbb2_Image9.jpg
 file_size: 40025
 file_type: image/jpeg
 image_metadata:
