@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image, spelling 'Hook-Ups' using different physical objects.
-file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/a23d9a044017b576c76a947778738205_assn4_banner.jpg
+file: /ol-ocw-studio-app/courses/mas-714j-technologies-for-creative-learning-fall-2009/a23d9a044017b576c76a947778738205_assn4_banner.jpg
 file_size: 51498
 file_type: image/jpeg
 image_metadata:
