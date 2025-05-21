@@ -2,7 +2,7 @@
 content_type: resource
 description: Photo showing the front and back sides of the teardrop Arduino circuit
   board.
-file: /ol-ocw-studio-app/courses/mas-714j-technologies-for-creative-learning-fall-2009/502ee9e6320ac38ee84e29258db8293f_Image3.jpg
+file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/502ee9e6320ac38ee84e29258db8293f_Image3.jpg
 file_size: 54830
 file_type: image/jpeg
 image_metadata:

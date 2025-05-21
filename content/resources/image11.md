@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Building a sensor by using a variable resistor
-file: /ol-ocw-studio-app/courses/mas-714j-technologies-for-creative-learning-fall-2009/320ba03f24b2c4795b020f77a530ae2a_Image11.jpg
+file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/320ba03f24b2c4795b020f77a530ae2a_Image11.jpg
 file_size: 41621
 file_type: image/jpeg
 image_metadata:
