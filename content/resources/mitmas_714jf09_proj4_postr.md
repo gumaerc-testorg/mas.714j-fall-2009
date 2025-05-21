@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting material for an example student project on using Scratch to
   enhance students' 21st century scientific thinking skills.
-file: /ol-ocw-studio-app/courses/mas-714j-technologies-for-creative-learning-fall-2009/24ce62fb9e88ba06f7ddb0fdbf2b5c84_MITMAS_714JF09_proj4_postr.pdf
+file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/24ce62fb9e88ba06f7ddb0fdbf2b5c84_MITMAS_714JF09_proj4_postr.pdf
 file_size: 456593
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photo of several LED devices.
-file: /ol-ocw-studio-app/courses/mas-714j-technologies-for-creative-learning-fall-2009/bfbc2d436f7be381212baa78b56ef5d1_Image2.jpg
+file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/bfbc2d436f7be381212baa78b56ef5d1_Image2.jpg
 file_size: 25753
 file_type: image/jpeg
 image_metadata:
