@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photo of LED on paper.
-file: /ol-ocw-studio-app/courses/mas-714j-technologies-for-creative-learning-fall-2009/5b7438adad92ddeb977d58c2c001f9b7_Image6.jpg
+file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/5b7438adad92ddeb977d58c2c001f9b7_Image6.jpg
 file_size: 34574
 file_type: image/jpeg
 image_metadata:

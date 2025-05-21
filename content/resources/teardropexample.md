@@ -2,7 +2,7 @@
 content_type: resource
 description: Program that controls the tearDrop computer, part of a construction kit
   that lets people create interactive paintings.
-file: /ol-ocw-studio-app/courses/mas-714j-technologies-for-creative-learning-fall-2009/110927ce1d08d8ec9eff5914e16d5fb0_tearDropExample.txt
+file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/110927ce1d08d8ec9eff5914e16d5fb0_tearDropExample.txt
 file_size: 3136
 file_type: text/plain
 learning_resource_types:

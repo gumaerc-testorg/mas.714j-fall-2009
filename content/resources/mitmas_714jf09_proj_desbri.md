@@ -2,7 +2,7 @@
 content_type: resource
 description: Outline of the key elements of a design brief for the final project of
   the course.
-file: /ol-ocw-studio-app/courses/mas-714j-technologies-for-creative-learning-fall-2009/20653627be749d714513b5475bbfed88_MITMAS_714JF09_proj_desbri.pdf
+file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/20653627be749d714513b5475bbfed88_MITMAS_714JF09_proj_desbri.pdf
 file_size: 64257
 file_type: application/pdf
 learning_resource_types:
