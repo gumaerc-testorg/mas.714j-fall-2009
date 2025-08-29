@@ -2,7 +2,7 @@
 content_type: resource
 description: Example student project on constructionist architecture for adventure
   classrooms.
-file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/a3162dbc4de046e3f231c72277bd7fe3_MITMAS_714JF09_proj2_brief.pdf
+file: /ol-ocw-studio-app/courses/mas-714j-technologies-for-creative-learning-fall-2009/a3162dbc4de046e3f231c72277bd7fe3_MITMAS_714JF09_proj2_brief.pdf
 file_size: 1147447
 file_type: application/pdf
 learning_resource_types:

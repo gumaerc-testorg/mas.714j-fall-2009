@@ -1,6 +1,7 @@
 ---
 content_type: page
 description: This page presents selected student blog responses to the Week 4 readings.
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -14,24 +15,17 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
-Reflection and Questions
-------------------------
+## Reflection and Questions
 
 ### Posted by SL and MN
 
-_Confronting the Challenges of Participatory Culture: Media Education for the 21st Century_, the white paper by Henry Jenkins, et al., does a terrific job of describing the new media literacies that will be required of our children (and ourselves) for future work and life. This is a long article, so to help you get through it in a reasonable amount of time, we're suggesting that you read pp. 1-22, then skim the next 30 pages (just get the gist of the 11 new media skills), and read the last 3 sections carefully.
+*Confronting the Challenges of Participatory Culture: Media Education for the 21st Century*, the white paper by Henry Jenkins, et al., does a terrific job of describing the new media literacies that will be required of our children (and ourselves) for future work and life. This is a long article, so to help you get through it in a reasonable amount of time, we're suggesting that you read pp. 1-22, then skim the next 30 pages (just get the gist of the 11 new media skills), and read the last 3 sections carefully.
 
 Here's a quick and dirty summary of the Jenkins white paper to get you started on your blog assignment for the week.
 
 New media literacies are currently learned in informal environments - our schools have been slow and reluctant to embrace the many challenges new media tools and content present to the educational system. Increasingly they are learned in participatory cultures. According to Jenkins:
 
-> _"A participatory culture is a culture with relatively low barriers to artistic expression and  
-> civic engagement, strong support for creating and sharing one's creations, and some  
-> type of informal mentorship whereby what is known by by the most experienced is  
-> passed along to novices. A participatory culture is also one in which members believe  
-> their contributions matter, and feel some degree of social connection with one another  
-> (at least they care what other people think about what they have created)." (p.3)_
+> *"A participatory culture is a culture with relatively low barriers to artistic expression and civic engagement, strong support for creating and sharing one's creations, and some type of informal mentorship whereby what is known by by the most experienced is passed along to novices. A participatory culture is also one in which members believe their contributions matter, and feel some degree of social connection with one another (at least they care what other people think about what they have created)." (p.3)*
 
 While these skills are being developed outside of the classroom in informal environments, Jenkins, et al. believe they need to be developed and supported within school structures to address three major concerns:
 
@@ -67,23 +61,18 @@ Professor Resnick recommended that we focus our questions a little better. Pleas
 
 For your blog assignment this week please go to the internet and find a fun, interesting, participatory online activity (social networking, music, gaming, mashup, online community art project, etc.), tinker around it, and be prepared to use it in class on Wednesday to talk about new media literacies. Please address the following in your blog entry:
 
-1.  Share how your online site develops new media skills. Specifically connect it to one or two of the eleven skills Jenkins mentions in his white paper and comment on some possible caveats of using the particular activity in an educational setting. How might this activity fit into our current educational system?
-2.  What do you think the ideal mix of new media and formal education should look like in the future?
+1. Share how your online site develops new media skills. Specifically connect it to one or two of the eleven skills Jenkins mentions in his white paper and comment on some possible caveats of using the particular activity in an educational setting. How might this activity fit into our current educational system?
+2. What do you think the ideal mix of new media and formal education should look like in the future?
 
 Good luck!!!
 
 MN and SL
 
-* * *
-
-Student Reading Responses
--------------------------
+## Student Reading Responses
 
 ### Posted by JC
 
 In addressing question 2, I believe computers, internet, etc. serve as additional tools that encourage the development of the eleven skills outlined by Jenkins, et al. I would not say that these skills are better developed with or without these tools. However, the development is different; we are not limited to our physical space, objects, or physics. Such technological tools expand the world in which we can play and explore; it extends beyond our physical space and the characters in that space. This provides a different space in which to develop the skills. When I was a child, I would play out scenarios and stories with physical objects: dolls, toy tractors, etc. Technological tools, like a computer, allow me to draw out stories in any world I can imagine.
-
-* * *
 
 ### Posted by SL
 
@@ -93,8 +82,8 @@ This was an attempt to have writers, artists and the Twitter-ati put the same to
 
 Though no final video of the event exists, here is a taste of the resulting performance:
 
-*   RoyalOperaHouse. "Twitter Opera Sneak Preview." Sept. 4, 2009. YouTube. Accessed April 23, 2010. [http://www.youtube.com/watch?v=C7\_GOVSGheI](http://www.youtube.com/watch?v=C7_GOVSGheI)
-*   ———. "Twitterdammerung." Sept. 18, 2009. YouTube. Accessed April 23, 2010. [http://www.youtube.com/watch?v=nQZQvs4qSpo](http://www.youtube.com/watch?v=nQZQvs4qSpo).
+- RoyalOperaHouse. "Twitter Opera Sneak Preview." Sept. 4, 2009. YouTube. Accessed April 23, 2010. [http://www.youtube.com/watch?v=C7_GOVSGheI](http://www.youtube.com/watch?v=C7_GOVSGheI)
+- ———. "Twitterdammerung." Sept. 18, 2009. YouTube. Accessed April 23, 2010. [http://www.youtube.com/watch?v=nQZQvs4qSpo](http://www.youtube.com/watch?v=nQZQvs4qSpo).
 
 The opera, it seems, was not terrible, and served as the platform for a very interesting experiment in socially constructed art using new media competencies of distributed cognition (interacting with tools that expand mental capabilities), collective intelligence (pooling knowledge toward a common goal), and negotiation (traversing diverse communities, with multiple perspectives and norms). I think this points toward a very powerful and potentially productive path for building communities of learners who can create as they construct knowledge. While the educational applications to art and culture are apparent from this instantiation, I can see where this approach might be applied more broadly across the educational spectrum to include, for example, role playing in historical subjects, writing, literature, and possibly foreign languages. I think it would be important to have disciplinary expertise involved to help guide the creative process. The participation of professionals in the process would add both applied motivation to the process of learning and creating, as well as some experience with the norms of a community of practice.
 
@@ -102,16 +91,12 @@ Related to this approach is a tool I found that is not new, but is an especially
 
 While you're browsing, add your personal art to this gigantic collaborative art piece, [The One Million Masterpiece](http://www.millionmasterpiece.com/). It's just fun.
 
-> * * *
-> 
 > ### Posted by MN
 > 
 > I just visited the Twitter-opera site. What an interesting idea!
 > 
 > Putting aside the artistic value of this libretto, I think it's a great way to involve laymen into the thought-provoking and fulfilling process of artistic creation. I definitely think this is a legitimate step towards the kind of new media learning Jenkins, et al, was envisioning.
 
-> * * *
-> 
 > ### Posted by FG
 > 
 > I was very interested to read about Heartbeat, a game I didn't know about. Last semester in Pattie Maes and Iroshi Ishii's "New Paradigms for Human-Computer Interaction" class I designed a "State of the Heart Brooch," as an example of heart rate sensoring technology. My argument for its possible applications was that it could not only give out useful information in medical, sports or other practical situations, but also be useful in social settings so as to facilitate communication among people. By seeing someone's heart rate and other data \[since it would be displayed on their chest/garments through the brooch\], people could see who is a sports/fitness fan for example and start a conversation with that person on that topic. Or the fluctuations in our heart rate, which would be visible through the brooch, could show other people our emotional state at a given moment - if we are nervous about an upcoming job interview, or excited to see them, etc.
@@ -119,8 +104,6 @@ While you're browsing, add your personal art to this gigantic collaborative art 
 > One criticism that was voiced in that class after my presentation was that most people are still not used to- and would be reluctant to show the world their emotions, that it is too invasive and eventually would lead to issues of privacy. But as the amount of personal information that people pour out onto Facebook shows, I think this new practice of being more open about our emotions in social settings is just a question of getting used to it and adopting it. Perhaps this could also be useful in educational settings, where for example a timid shy who doesn't dare ask questions about what he doesn't understand before is peers/classmates, could have the done job for him by 'letting his heart speak for him.' I remember that throughout my 12 years of school in Belgium, much of the time I didn't dare ask the math teacher to repeat or explain something out of fear/shame or feelings of hopelessness. Maybe these sensoring technologies could help in such situations and also to simply to facilitate communication among collaborating classmates and learners through their social applications.
 > 
 > Some research on these sensoring jewels has been done before at the Media Lab. Here is another link about a [beating heart brooch](http://interiorstate.blogspot.in/2010/07/salvadore-dalis-beating-heart-brooch.html). 
-
-* * *
 
 ### Posted by VC
 
@@ -132,13 +115,9 @@ From what I can tell, the process of producing this television show helped kids 
 
 To answer Question 2 more directly, I think that this school-wide behavioral change wouldn't have occurred if the kids' only creative outlet was through print writing. Perhaps it reflects poorly on society, but television is a medium for the masses and these kids' message would not have had such a huge impact on school atmosphere without this medium. In a time when young people are struggling to distinguish between advertisement and fact, perhaps every student needs the experience of producing some form of mass media. In the production process, students can better understand how much power the media yields and also have a better sense of when they're being played.
 
-> * * *
-> 
 > ### Posted by SL
 > 
 > Production is a really good way to develop some of the skills and capacities that Jenkins describes. As a former producer, I can point to several that it utilizes: multitasking, transmedia navigation, negotiation and collective intelligence. They all come into play. I would think editorial responsibilities in just about any medium would also develop these same skills. And again, this approach allows learners to experience first hand some of the standards and practices of a professional community. As you mention, it also helps them judge and critique information- very important, and very difficult skills which we haven't quite figured out how to develop in the online environment.
-
-* * *
 
 ### Posted by JC
 
@@ -146,29 +125,23 @@ My personal experience with participatory online activities tend to revolve arou
 
 I don't believe there is an ideal mix of new media and formal education; but there should definitely exist the option to blend formal education with new media. Current education could certainly benefit from media that exist today, like collaborative whiteboards. If the formal education evolved to a set of core skills, like those mentioned in the ready, then the methods of which the skills are obtained become centric to the student's ideal learning environment. This may be any combination of hands on, formal, apprenticeship, etc.
 
-* * *
-
 ### Posted by AL
 
 I'd like to answer question 2, regarding the ideal mix of new media and formal education in the future. Three things come to mind:
 
-*   A foundational awareness of patterns of new media use among youth
-*   Thoughtfully working to close the new media literacy divide
-*   Encouragement to use forms of new media in the context of further exploring ideas, especially in "interest-driven genres of participation" (Ito, et al, 2008)
+- A foundational awareness of patterns of new media use among youth
+- Thoughtfully working to close the new media literacy divide
+- Encouragement to use forms of new media in the context of further exploring ideas, especially in "interest-driven genres of participation" (Ito, et al, 2008)
 
 I co-directed a seminar today on new media and civic participation for a class at the Education School at Harvard, and noticed several repeated threads during the conversations surrounding the question I posed "Should new media literacy be taught in schools? If so, what should this look like?" A noticeable one was a certain trepidation of teaching new media literacy, which stemmed from a misunderstanding of the reaches of youth new media uses. I wondered if perhaps the teachers themselves should be educated in new media literacy, and "digital fluency" (Resnick, 2002) before teaching. I felt that this prerequisite understanding of the possibilities as well as the mechanisms of new media for educational purposes would be an important foundation for future education. It occurred to me also that youth new media uses in schools are currently portrayed negatively and are therefore regarded as marginalized activities. If their capabilities were embraced in more holistic way, incorporating other forms of developmental pedagogy, they would aid in many wonderful aspects of education, including the development of inquiry, enabling curiosity and the pursuit of strong interests, developing questions, project-based learning that could span the globe, and so on. Educating for new media literacy should include not just technical skills, but should also teach students how to use new media with quality. I'm very interested in learning more about this, but at this point in my understanding, it seems that the use of new media in formal education should incorporate teaching for its ethical use as well. I am also very interested in understanding the ways in which new media uses will shape our evolving views of education. It seems that one of the great lessons to learn from the peer-based learning practiced by so many digital youth is a more dialogical rather than hierarchical way of classroom (teacher-student, student-student) communication.
-
-* * *
 
 ### Posted by FG
 
 I will be taking liberties here and divert a little from the assignment, but I thought I would post a very relevant and recent article:
 
-Glader, Paul. "[Online High Schools Test Students' Social Skills](http://online.wsj.com/article/SB125374569191035579.html)." _Wall Street Journal_ (September 24, 2009).
+Glader, Paul. "[Online High Schools Test Students' Social Skills](http://online.wsj.com/article/SB125374569191035579.html)." *Wall Street Journal* (September 24, 2009).
 
-I found interesting that although the piece says there are huge advantages to a new media-rich online education, it also says that it may lead to social isolation for those students who learn from home. Nothing is perfect I guess...
-
-* * *
+I found interesting that although the piece says there are huge advantages to a new media-rich online education, it also says that it may lead to social isolation for those students who learn from home. Nothing is perfect I guess…
 
 ### Posted by SK
 
@@ -196,31 +169,23 @@ Question 4:
 
 Two new media skills I could imagine being added to Jenkins' list are safety and commerce. Though I don't necessarily feel these need to or should be taught in schools, navigating the new media landscape requires new ways of thinking about safety, privacy, identity, and economics. Perhaps it is tied in with Jenkins' idea of "transparency," but I believe it is important for people to understand the economic models (or lack thereof) used to support various new media services, especially when the model is not obvious (Twitter, YouTube, blogs, etc). I might also argue that new media cannot be truly participatory unless everyone understands how they might turn their content into profit, if they wish to do so. Understanding the basics of buying and selling physical goods is embedded in curriculum from the beginning (math problems involving arithmetic and money are common), but understanding how writing content for a period without receiving any compensation may, eventually, lead to a book deal for example is not a skill currently taught.
 
-> * * *
-> 
 > ### Posted by SL
 > 
 > Hi SK,
 > 
-> I really like the concept behind Spore. Unfortunately one has to have a very up-to-date OS to run the trial program, so I couldn't try it out. But it sounds very much like it's based on similar ideas that were experimented with at the Media Lab in the early days, a program that allowed you to evolve animals. I have also seen a similar concept used more recently in an exhibit at the Museum of Science. Kids loved it, and they did actually learn something about evolution. I think it's an interesting application of new media skills, incorporating as you say, somewhat social skills- in that you can download other people's creatures- and simulation. The simulation aspects have very powerful learning potential. And the subject of evolution, should a school choose to teach it (Ouch! My home state of Georgia has chosen not to...) is an important dynamic model to help students construct.
+> I really like the concept behind Spore. Unfortunately one has to have a very up-to-date OS to run the trial program, so I couldn't try it out. But it sounds very much like it's based on similar ideas that were experimented with at the Media Lab in the early days, a program that allowed you to evolve animals. I have also seen a similar concept used more recently in an exhibit at the Museum of Science. Kids loved it, and they did actually learn something about evolution. I think it's an interesting application of new media skills, incorporating as you say, somewhat social skills- in that you can download other people's creatures- and simulation. The simulation aspects have very powerful learning potential. And the subject of evolution, should a school choose to teach it (Ouch! My home state of Georgia has chosen not to…) is an important dynamic model to help students construct.
 > 
 > Your idea of exercising appropriation skills at the local level - helping students gain a sense of intellectual property and appropriateness from their peers- is a good one. Your vision for this is particularly interesting as it would facilitate socially constructed behaviors, similar to those used in professional communities of practice. This approach would also bring into focus some judgment skills-how much you can trust a piece of information, where it comes from, and the the underlying motivation for creating it.
-> 
-> * * *
 > 
 > ### Posted by JL
 > 
 > I watched the TED talk on Spore, and I am wishing that I had this game when I was in high school. My biology teacher had a difficult time explaining how evolution worked. And without a model, it was very hard to imagine and even comprehend. Eventually, we all watched a documentary on evolution which cleared up some of the confusion through detailed graphics showing the progression of animals through time. But a game like Spore can really engage a learner and have them walk through the steps of evolution themselves, and thus gaining a deeper knowledge.
 > 
-> * * *
-> 
 > ### Posted by FG
 > 
-> I think your point on teaching economic awareness and understanding is very valuable in this discussion. I totally agree with you that one should understand the mechanics of the larger economic context into which these educational activities take place and this goes for the students and people who use the educational tools. The only 'danger', however, that I see in this is that it may carry the risk of turning the users/learners into cynics:).. I have to say that reading Pr. Jenkins' "Convergence Culture - Where Old and New Media Collide" has opened my eyes in not always good ways about how viral marketing and other commerce-driven tactics and ways of thinking literally rule the development and application of these cool participatory digital technologies and their supportive social services practices. It does make you wonder if the formation of free and informed citizens is really the goal behind them, or if it isn't simply the good old dollar...
+> I think your point on teaching economic awareness and understanding is very valuable in this discussion. I totally agree with you that one should understand the mechanics of the larger economic context into which these educational activities take place and this goes for the students and people who use the educational tools. The only 'danger', however, that I see in this is that it may carry the risk of turning the users/learners into cynics:).. I have to say that reading Pr. Jenkins' "Convergence Culture - Where Old and New Media Collide" has opened my eyes in not always good ways about how viral marketing and other commerce-driven tactics and ways of thinking literally rule the development and application of these cool participatory digital technologies and their supportive social services practices. It does make you wonder if the formation of free and informed citizens is really the goal behind them, or if it isn't simply the good old dollar…
 > 
 > But so yes, people \[and school children, students and teachers/educators\] should be aware of this.
-> 
-> * * *
 > 
 > ### Posted by JP
 > 
@@ -228,15 +193,11 @@ Two new media skills I could imagine being added to Jenkins' list are safety and
 > 
 > It would be difficult to educate the life of disabilities in formal education. Sometimes, I saw a group of MIT students walking in line on the infinite corridor with their eyes covered to experience the difficulties of a blind. However it would be dangerous if young children to do the same practice. I guess the potential of game is lie in which it can allow people to experience something dangerous and rare in real life.
 
-* * *
-
 ### Posted by KA
 
-You might be interested in checking out [Project NML's site](http://newmedialiteracies.org/), and their new [Learning Library project](http://www.newmedialiteracies.org/introduction-to-learning-library/).
+You might be interested in checking out [Project NML's site](https://www.newmedialiteracies.org/index.html), and their new [Learning Library project](http://www.newmedialiteracies.org/introduction-to-learning-library/).
 
 According to the site, "the Learning Library is intended as a multimedia activity center where people can come to learn more about the new media literacies, acquiring skills and practicing them through challenges, and ultimately, producing and sharing their own content with other members of the Learning Library."
-
-* * *
 
 ### Posted by DG
 
@@ -246,29 +207,19 @@ I think that mix media will come to dominate well defined skills such as reading
 
 In regards to how teachers should employ the use of computers in their classroom and what students should be allowed to do, I find myself once again with a great Wozniak quote:
 
-> _"Allowing some level of mild pranks - with a rule that it's not going to harm anyone -  
-> would be a good policy_.
+> *"Allowing some level of mild pranks - with a rule that it's not going to harm anyone - would be a good policy*.
 > 
-> _I \[did\] that in my own computer classes with young kids. If you could get on to  
-> someone else's computer and hide things from them and get them all excited, it was  
-> okay - as long as you could restore it easily. And they never once disobeyed that rule  
-> in eight years."_
+> *I \[did\] that in my own computer classes with young kids. If you could get on to someone else's computer and hide things from them and get them all excited, it was okay - as long as you could restore it easily. And they never once disobeyed that rule in eight years."*
 
 Here he is emphasizing that children need to be able to pull pranks on each other, experiment, and break some rules - not be restricted in their exploration. Reflecting on last week's class, I've come to realize, at last for me, deep & lasting learning has a strong exploration element - I'm driven by the desire to explore the topic.
 
-> * * *
-> 
 > ### Posted by SL
 > 
 > Pranks and experimentation point to two issues that have come up for us in weeks past. Permission to pull pranks reminds me a lot of the idea of permission to make mistakes-that you don't have to get it right the first time, or every time, and that through mistakes you learn. Pranks are a way to do that same experimentation. And because they are firmly anchored in play, they are very engaging and absorbing. What's unusual in Wozniak's quote is that this happened IN school. In our class a few weeks ago, we described important learning objects in our lives. They were all engrossing and they all happened outside of school. Maybe there is promise in this approach!
 > 
-> * * *
-> 
 > ### Posted by DL
 > 
 > Thanks for the link to the article. I haven't thought much about pranks, but your comment got me thinking of how pranks definitely develops many (if not all) of the skills mentioned in our reading-a prank is basically a really cool project that guarantees interest by the participants. Thinking about all the mind-blowing MIT pranks as a source of reference, I think that pranks doesn't only "encourage" students to experiment and break rules, it forces students to break rules (i.e. think outside of the box and challenge default assumptions), and that is something we should see more of in schools.
-
-* * *
 
 ### Posted by FG
 
@@ -298,22 +249,18 @@ Question 4:
 
 As I mentioned above, I think that the ability to think critically and independently is essential, and perhaps more so in today's technology-driven world, as many of these technologies come embedded with a set of recommended technological uses and social practices. To that can be added the ability to think outside the box and resist peer pressure and group think, which can potentially thrive in group situations. Pr. Jenkins does mention these aspects in his white paper and other writings, but to a much lesser extent than other skills. Then finally, self-reliance and resourcefulness, especially in today's increasingly resource-challenged world \[including human resources, with staff cuts everywhere\]. These last two skills apply on a more abstract level too: to be and stay motivated and driven, even in the face of adversity and when no one is around to cheer us up or encourage us.
 
-* * *
-
 ### Posted by ZH
 
 Question 3:
 
 I am not sure about how this ideal mix should look like in the future. I guess it is possible that, in the formal education, it encourages people to discuss, to team work and then learn from each other. in the new media, especially the internet, the school provide all the recommended resources and ask students to learn them independent. during this independence study, students could try to find any resources they could, also they could participate in online discussion. This is more based on my own experience: once internet became a infinite resource, most of my study are highly rely on that. So knowledge is not a secret anymore; people can easily have a access to get what they want to know, especially for some general study. ?one of the example is that, i learned " computer program c" at school when i was undergrad student. however, i almost forget most of them after one year. After graduation, i learned another program language by myself. I get all the resource online, participate the online discussion. From that online community, i can easily get the cool works by the other people. In the end, i think i get really good understanding of that programs and keep the strong interests to explore more.
 
-* * *
-
 ### Posted by JP
 
 Question 1:
 
-1.  Edmunds [CarSpace](http://www.edmunds.com/)
-2.  [Internet Cello Society](http://www.cello.org/)
+1. Edmunds [CarSpace](http://www.edmunds.com/)
+2. [Internet Cello Society](http://www.cello.org/)
 
 My favorite two participatory Web sites are Edmunds' Carspace.com and Internet Cello Society. Both Web sites provides an unrestricted space to share information and experiences among people who have the same interest.
 
@@ -341,16 +288,11 @@ Question 3:
 
 I imagine the massive use of personal and portable computer devices as new media for formal education and customized learning. I imagine a class will be divided half for instruction from the teacher and half for personal activity using new media. A student's personal devices may share its information with a central computer in formal education regarding the student's learning progress and methods. This is different from the monitoring student's activity. Rather, the structure of formal education will support student's individual learning process by supporting new media in form of hardware and software. I imagine the ideal mix of new media is that teachers support the student's emotional side and new media may assist in technical educational contents. I imagine teachers work like a sports coach who supports athletes mentally and physically.
 
-* * *
-
 ### Posted by JL
 
 [FMyLife](http://www.fmylife.com/) is a participatory online activity where people can anonymously post a short story about an unfortunately event in their life. Here is an excerpt:
 
-> _"Today, I saw an elderly man fall in a crosswalk, so I jumped off my bike to help. As I  
-> helped him across, the light turned green. At that point I noticed my phone had fallen  
-> out of my pocket in the street and was run over by several cars. I then watched across  
-> a 6 lane street as someone stole my bike. FML"_
+> *"Today, I saw an elderly man fall in a crosswalk, so I jumped off my bike to help. As I helped him across, the light turned green. At that point I noticed my phone had fallen out of my pocket in the street and was run over by several cars. I then watched across a 6 lane street as someone stole my bike. FML"*
 
 All the anecdotes start with "Today" and end with "FML." Members can also comment on these stories and vote that they "agree, your life sucks" or that "you totally deserved it."
 
@@ -362,13 +304,9 @@ FMyLife could be used in an educational setting to build a sense of a "school bo
 
 In the future, I believe that the education system should consist of engaging the students first through new media technologies and then expanding their interests through formal education. Although I am an advocate for having an educational system that consist of ONLY new media technologies where children can simulate WWII with a computer and learn programming through LEGO kits, I realize that you cannot learn everything through this interactive medium. Although LEGO MINDSTORM kits can get students excited about programming, it still is not "real" programming. The new media technologies should serve as a way to give children a model of the system in a fun engaging fashion, but more in-depth knowledge can learned through formal education.
 
-> * * *
-> 
 > ### Posted by RC
 > 
 > I like your suggestion of first engaging students through new media technologies and then expanding through formal education. I do believe that there is still a need for some formal education because some things are more effective with structure. But students are definitely opposed to formal education and your suggestion helps alleviate the pains associated with it
-> 
-> * * *
 > 
 > ### Posted by AL
 > 
@@ -376,23 +314,17 @@ In the future, I believe that the education system should consist of engaging th
 > 
 > I wanted to add to your thought about formal education and new media technologies. Something that comes up for me the fact that not all children will be as prone to new media literacy than others. And, as you mention, some things might be better suited to be taught without the use of new media. I think it is important to have space in envisioning future education for differentiated teaching and learning.
 > 
-> * * *
-> 
 > ### Posted by VC
 > 
 > I think Community is a brilliant skill to add to Jenkins' 11, though I'm not necessarily sure I would frame it in the sense of FML. Online communities will become increasingly important as traditional journalistic media makes its slow decline. Citizen journalist types hope that bloggers will fill in the media holes left by the projected death of mainstream media.
 > 
 > I went to a really great lecture by Clay Shirky, where he said that we'll probably still get hyper-local and national news from blogs, but there's huge potential for corruption to happen on the state and regional level unless someone steps up to cover that area. I think kids need to learn early how much power there is in new media to maintain a clean, workable society and how they play a role in that goal.
 
-* * *
-
 ### Posted by DL
 
 Questions 1 and 2:
 
 I think the ideal "mix" of new media and formal education would be at a point where we can't separate the two. New media would be integrated in formal education, rather than pushed to the sidelines. However, given that we are far from an ideal situation with how formal education is currently structured, and how the educational system is extremely impervious to global and systematic change, I am unsure whether we should be thinking about a future where we assume that we can revamp the future of formal education completely, or to be thinking about how we can integrate new media into the current system on an ad hoc basis.
-
-* * *
 
 ### Posted by RC
 
@@ -404,13 +336,9 @@ The creative outlets Club Penguin introduces teaches the skills of Appropriation
 
 Of course there is also the Networking and Collective Intelligence aspect. Players walk around this virtual world and can communicate with other players via chat, email, and the Club Penguin Times. They can share ideas, tips and tricks, or just make friends.
 
-> * * *
-> 
 > ### Posted by JL
 > 
 > Online multiplayer games are sources of interesting social communities. You don't know who the other player is besides their avatar and screenname. You dont know their gender, age, race, social status, etc. These communities are interesting in that people are not subject to prejudice, racism, or any other judgement. People are only judged by their performance or knowledge of the game. Members talk and chat and make friends in an almost utopian world.
-
-* * *
 
 ### Posted by DK
 
@@ -426,8 +354,6 @@ In terms of the "mix" questions I can only agree with what was proposed by the a
 
 I would also like to point out that we seem to have very little data that could prove or enforce all literacy issues that have been raised. I myself have only recently found out that I am severely dyslexic after having participated in a study conducted by Gadi Gaiger in the Brain and Cognitive Science Lab. His work suggests that dyslexia, multi tasking and ADD are closely related and most probably learned. This means that teaching multi tasking could result in dyslexia when taught at the wrong time of a child's development. There may be other yet unknown consequences that would result from teaching new literacies under special circumstances.
 
-* * *
-
 ### Posted by FG
 
 Question 1:
@@ -436,15 +362,11 @@ In response to Question 1, I thought I would draw attention to one very simple w
 
 This is a very low-tech solution - just an online platform in the form of a discussion forum where people just post their content - and it is now no more new, as many such forums exist. But for this reason it should perhaps be considered by school curricula developers and teachers. It's a relatively easy tool and practice to introduce in classrooms and could be used for any subjects, with students posting their homework or personal creations in a given field and receiving friendly feedback from teachers and students alike from across the whole school - or even from students and faculty in other schools. Since it's on the Internet, it could be applied across schools nationwide or internationally \[if language is not a barrier\].
 
-> * * *
-> 
 > ### Posted by SK
 > 
 > I like this point you make about how communities that form online around one topic frequently become more general-purpose communities for discussion, support, and feedback about a variety of other issues. Most kids have something they're interested in, and I think they could learn a lot about Jenkins' new media skills just by participating in a forum about that topic, even if it's not directly educational.
 > 
 > And maybe I just haven't kept up with the trends of the times, but I still prefer a good old fashioned discussion forum to wikis, blogs, tweets, etc when it comes to building online communities.
-
-* * *
 
 ### Posted by FG
 
@@ -458,12 +380,10 @@ As someone with a long-date interest in foreign adoption \[from Russia specifica
 
 Given that the US is one of the top adopting countries in the world - plus given all the other cases of social impairment or delays that I mentioned - the developers of these educational technologies and curricula may want to make sure that these are adapted to all types of learners and all segments of society.
 
-* * *
-
 ### Posted by MN
 
-My favorite site is [The New York Philharmonic Kidzone](http://www.nyphilkids.org/).
+My favorite site is The New York Philharmonic Kidzone (OCW Note: Now defunct.).
 
-It does a great job in integrating play, performance and simulation elements of new media literacies to NY Philharmonic's purpose of teaching music to kids in a fun, dynamic, yet educationally impactful way. The best section of this site, I believe, is the online games, where popular genres of online gaming are incorporated to teach rhythmic, sonoric, and theoretic principles of orchestral music. Especially for music education, the new media has the potential to free kids from dull classroom teaching and help them integrate the theoretical content to the actual world of sound and emotional experiences. The site makes it easy for kids to learn through tinkering around- it would be even more effective if they introduce collaborative activity where kids could compose/perform a piece of music by collectively choosing the structure, harmony, rhythm, instrumentation, and possibly a story line (libretto) that goes with it (they could compose the libretto in the literature class to bring into the music class too...).
+It does a great job in integrating play, performance and simulation elements of new media literacies to NY Philharmonic's purpose of teaching music to kids in a fun, dynamic, yet educationally impactful way. The best section of this site, I believe, is the online games, where popular genres of online gaming are incorporated to teach rhythmic, sonoric, and theoretic principles of orchestral music. Especially for music education, the new media has the potential to free kids from dull classroom teaching and help them integrate the theoretical content to the actual world of sound and emotional experiences. The site makes it easy for kids to learn through tinkering around- it would be even more effective if they introduce collaborative activity where kids could compose/perform a piece of music by collectively choosing the structure, harmony, rhythm, instrumentation, and possibly a story line (libretto) that goes with it (they could compose the libretto in the literature class to bring into the music class too…).
 
 I think the ideal mix of the 19 c apprentice model, the 20 c formal education model, and the new media model would be a healthy mixture of all of these models. The new media could be used for kids to tinker around and get an intuitive understanding of certain concepts, then some proven body of knowledge/theories could be introduced in a classroom settings, kids could then drill/memorize those skills privately or in a group. Finally, all of these skills and knowledge should be integrated and applied in an apprenticeship-style projects, where kids could learn from real experts or more experienced colleges.
