@@ -56,7 +56,7 @@ As we move to more complex materials, from building blocks to circuits, the poss
 3. *Mindstorms*, p. 179
 4. Transcript of Coast To Coast AM, April 30, 2006: a conversation between Steven Wozniak and Kevin Mitnick
 5. *Mindstorms*, p. 182
-6. [Hackerspaces](https://hackerspaces.org/)
+6. {{% resource_link "e73d3939-c767-4735-ad3d-2f75f143bcf3" "Hackerspaces" %}}
 7. Resnick, M. "All I really Need to know (About Creative Thinking) I Learned (By Studying How Children Learn) in Kindergarten."
 
 ### Posted by JC
@@ -170,7 +170,7 @@ Papert's findings, as well as those of the Lifelong Kindergarten group deeply re
 
 The "positive affective tone" he refers to is indeed missing from traditional schools' environment. But to a larger degree, their absence in the child's life generally can affect that child's capacity for learning. I find Papert so right on this that I am tempted to link his findings in *Mindstorms* to a paper I once read on fatherless daughters and the negative effects of their family situation on their mathematical abilities - having myself lost my father to cancer when I was 14 months old, I have no recollection of him.
 
-"[The effects absent fathers have on female development and college attendance](http://findarticles.com/p/articles/mi_m0FCR/is_4_35/ai_84017196/)" by Franklin B. Krohn and Zoe Bogan \[College Student Journal, Dec 2001\] explains how in a family, in the home environment, it is often the father who indirectly, subconsciously introduces his children to mathematical concepts and related spheres, through his own interests and pursuits. This theory is based on a traditional view of 'male' interests that says that men are more likely to be scientifically-minded than women. Even if this is a huge preconceived idea, it is still quite true that the absence of a father who will show an interest in the mathematical results of a game for example or in the geometric designs of his new home or woodwork constructions in his workshop may instill his child with a wonder and interest for such areas too.
+"{{% resource_link "146e50f6-07e5-4de4-8988-b15aedfa3183" "The effects absent fathers have on female development and college attendance" %}}" by Franklin B. Krohn and Zoe Bogan \[College Student Journal, Dec 2001\] explains how in a family, in the home environment, it is often the father who indirectly, subconsciously introduces his children to mathematical concepts and related spheres, through his own interests and pursuits. This theory is based on a traditional view of 'male' interests that says that men are more likely to be scientifically-minded than women. Even if this is a huge preconceived idea, it is still quite true that the absence of a father who will show an interest in the mathematical results of a game for example or in the geometric designs of his new home or woodwork constructions in his workshop may instill his child with a wonder and interest for such areas too.
 
 It would be complacent of me to attribute my mathematical deficiencies solely to this aspect of my family background, but I found this paper, as well as Papert's notion that a demonstrated love for the subject matter do have an impact on a child' learning abilities quite interesting.
 

@@ -18,7 +18,7 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-By Prof. Leah Buechley, [High-Low Tech group](https://highlowtech.org/). (Courtesy of Leah Buechley. Used with permission.)
+By Prof. Leah Buechley, {{% resource_link "4b79fd7b-12e7-47b7-9bbf-ba9bf86cb973" "High-Low Tech group" %}}. (Courtesy of Leah Buechley. Used with permission.)
 
 We've developed a construction kit that lets people create interactive paintings. The kit consists of conductive paint, a small magnetic "tearDrop" computer, a magnetic speaker, several lights (light emitting diodes or "LEDs"), and a few other things. Here's what it looks like:
 
@@ -42,9 +42,9 @@ We will be using a water based paint that contains conductive copper particles. 
 
 ## About Circuits and LEDs
 
-If you are completely new to circuits, you should read enough to understand how a basic circuit works before embarking on this project. Good introductions to electricity and circuits can be found at [Electronics Club - Electricity and the Electron](http://www.kpsec.freeuk.com/electron.htm) and Doctronics - Circuits.
+If you are completely new to circuits, you should read enough to understand how a basic circuit works before embarking on this project. Good introductions to electricity and circuits can be found at {{% resource_link "731382b4-e667-4800-a340-c7803b85836b" "Electronics Club - Electricity and the Electron" %}} and Doctronics - Circuits.
 
-We're going to be using Light Emitting Diodes or LEDs in our painting. LEDs are highly efficient lights that come in an assortment of colors, shapes and sizes. If you are new to LEDs, you should read the first section of the page at: [Electronics Club - Light Emitting Diodes (LEDs)](http://www.kpsec.freeuk.com/components/led.htm) before proceeding.
+We're going to be using Light Emitting Diodes or LEDs in our painting. LEDs are highly efficient lights that come in an assortment of colors, shapes and sizes. If you are new to LEDs, you should read the first section of the page at: {{% resource_link "b25044b8-2405-4f65-9f3e-0316280fa9f2" "Electronics Club - Light Emitting Diodes (LEDs)" %}} before proceeding.
 
 Unlike some lights, LEDs have two different ends, a positive (+) end, called the "anode", and a negative (-) end called the "cathode". The negative end of the LEDs in the kits are marked with lines on their bottom.
 
@@ -54,25 +54,25 @@ Kit LEDs, with stripe indicating the negative end.
 
 To get an LED to turn on you need to attach its positive end to the positive end of a battery or other power source (like our tearDrop computer) and its negative end to the negative end of the battery or other power source. In the case of the tearDrop there are two negative attachment points, the tabs labeled "-" on the tearDrop template, and five positive attachment points, the tabs labeled "+", "fade1", "fade2", "on 3" and "on all".
 
-A note about LEDs and resistors: generally, you have to be careful not to attach an LED directly to a power supply. Attaching an LED directly to a power supply can cause the LED to burn up as too much electrical current flows through it. Normally, you have to attach an LED to a power supply through an electrical component called a resistor. However, for this project we don't need resistors because the conductive paint we're using has some natural resistance. For more information on resistors and LEDs see [Electronics Club - Light Emitting Diodes (LEDs)](http://www.kpsec.freeuk.com/components/led.htm).
+A note about LEDs and resistors: generally, you have to be careful not to attach an LED directly to a power supply. Attaching an LED directly to a power supply can cause the LED to burn up as too much electrical current flows through it. Normally, you have to attach an LED to a power supply through an electrical component called a resistor. However, for this project we don't need resistors because the conductive paint we're using has some natural resistance. For more information on resistors and LEDs see {{% resource_link "b25044b8-2405-4f65-9f3e-0316280fa9f2" "Electronics Club - Light Emitting Diodes (LEDs)" %}}.
 
 ## About the TearDrop and Arduino
 
 If you want to re-program your tearDrop, read this section, which provides a whirlwind introduction to programming the tearDrop. Otherwise, you can skip to "Getting started"
 
-The tearDrop computer is an Arduino and can be reprogrammed using the Arduino software, which you can download for free [here](http://arduino.cc/en/Main/Software). There are instructions for installing and configuring the software [here](https://www.arduino.cc/en/Guide/HomePage). In following these instructions mentally replace every instance of LilyPad with tearDrop. (Note: in step 6, "Select the right board", you should select "LilyPad Arduino w/ ATmega168").
+The tearDrop computer is an Arduino and can be reprogrammed using the Arduino software, which you can download for free {{% resource_link "3ea0e3ac-5ac4-4d23-8dfc-a2c224314912" "here" %}}. There are instructions for installing and configuring the software {{% resource_link "0acd0800-e68d-4c9e-bcbc-b1b199750b75" "here" %}}. In following these instructions mentally replace every instance of LilyPad with tearDrop. (Note: in step 6, "Select the right board", you should select "LilyPad Arduino w/ ATmega168").
 
-Before you start trying to program the board, read through this [guide](https://www.arduino.cc/en/Guide/Introduction) that will give you an introduction to Arduino program structure.
+Before you start trying to program the board, read through this {{% resource_link "97ffa059-2c50-4edb-acfa-5fafc543ef16" "guide" %}} that will give you an introduction to Arduino program structure.
 
-Start your experimenting by going through this [basic tutorial](https://www.arduino.cc/en/Tutorial/Blink) which blinks the LED on the tearDrop board. Now for some more specific tearDrop information and examples.
+Start your experimenting by going through this {{% resource_link "ee3034d5-2f00-4957-8845-ba48c26d7a48" "basic tutorial" %}} which blinks the LED on the tearDrop board. Now for some more specific tearDrop information and examples.
 
-The tearDrop has only 8 input and output pins, in contrast to the traditional Arduino, the [Arduino Duemilanove](http://arduino.cc/en/Main/ArduinoBoardDuemilanove), which has 20. The Arduino labels for the tearDrop pins are printed on the tearDrop board. They are: 1 (tx), 0 (rx), a3, a2, a0, a5, 11, and 10. We'll need to use these labels, and not the labels on the template, when we write Arduino code.
+The tearDrop has only 8 input and output pins, in contrast to the traditional Arduino, the {{% resource_link "8c2893ea-cea6-4dad-934d-49acbf29d916" "Arduino Duemilanove" %}}, which has 20. The Arduino labels for the tearDrop pins are printed on the tearDrop board. They are: 1 (tx), 0 (rx), a3, a2, a0, a5, 11, and 10. We'll need to use these labels, and not the labels on the template, when we write Arduino code.
 
-readData.txt ({{% resource_link "9416e19e-330c-6885-d8c5-4fd91eeaff14" "TXT" %}}) is a simple program that reads sensor data from pin a3 and then sends that data back to the computer as a number from 0 to 1023. To try this example, copy the text from the readData.txt file, paste it into an Arduino window and download the code to the tearDrop using the technique from the first example. Attach a sensor to pin a3 and then click on the right most icon at the top of your Arduino window. (The icon looks a bit like a camera and text saying "Serial Monitor" will appear when you hover over it.) This will open the "serial monitor", a window where you can see sensor data that is sent from the tearDrop to the computer. For more information, read this [tutorial](https://www.arduino.cc/en/Tutorial/BuiltInExamples) about a similar example.
+readData.txt ({{% resource_link "9416e19e-330c-6885-d8c5-4fd91eeaff14" "TXT" %}}) is a simple program that reads sensor data from pin a3 and then sends that data back to the computer as a number from 0 to 1023. To try this example, copy the text from the readData.txt file, paste it into an Arduino window and download the code to the tearDrop using the technique from the first example. Attach a sensor to pin a3 and then click on the right most icon at the top of your Arduino window. (The icon looks a bit like a camera and text saying "Serial Monitor" will appear when you hover over it.) This will open the "serial monitor", a window where you can see sensor data that is sent from the tearDrop to the computer. For more information, read this {{% resource_link "1affaf72-c31d-4937-8c48-3fcd50bd38b6" "tutorial" %}} about a similar example.
 
 tearDropExample.txt ({{% resource_link "110927ce-1d08-d8ec-9eff-5914e16d5fb0" "TXT" %}}) is the program that corresponds to the tearDrop template and the rest of the text on this page. It maps input from a3 (sensor1 on the template) to output on pin 11 (fade1 on the template), etc. To try this example, copy the text from the tearDropExample.txt file, paste it into an Arduino window and download the code to the tearDrop.
 
-For more information about Arduino, see the [Arduino language reference](http://arduino.cc/en/Reference/HomePage) and Limor Fried's [excellent tutorials](http://www.ladyada.net/learn/arduino/). Note: when you are sending data back and forth from the tearDrop to the computer, pins 0 and 1 ("on3" and "on all" on the template) won't work because they are attached to the communication lines.
+For more information about Arduino, see the {{% resource_link "3554c0e9-fb26-4e76-ada2-918cc18321a3" "Arduino language reference" %}} and Limor Fried's {{% resource_link "cf0f2e00-f912-4f2a-b470-8a109daebf2e" "excellent tutorials" %}}. Note: when you are sending data back and forth from the tearDrop to the computer, pins 0 and 1 ("on3" and "on all" on the template) won't work because they are attached to the communication lines.
 
 ## Getting Started
 
@@ -158,10 +158,10 @@ Now your job is to build an interactive painting that incorporates input and out
 
 ## Inspirations and References
 
-[Graffiti Research Labs](http://graffitiresearchlab.com/)
+{{% resource_link "d20489b8-50e1-4c2a-b2fe-066d66fed884" "Graffiti Research Labs" %}}
 
-[PopUp Workshop](http://popupstudionyc.blogspot.com/2009/02/popup-workshop-20.html)
+{{% resource_link "37fe8590-78d2-447c-af79-56054f30d0ce" "PopUp Workshop" %}}
 
-[Drawdio: A Pencil That Lets You Draw Music](http://web.media.mit.edu/~silver/drawdio/) (Jay Silver)
+{{% resource_link "769fca53-bf40-4bca-8a06-90c6eacf2187" "Drawdio: A Pencil That Lets You Draw Music" %}} (Jay Silver)
 
-[Pulp-Based Computing](http://xslabs.net/papers/coelho-pulp-ubicomp07.pdf) (Marcelo Coelho and Pattie Maes in collaboration with Joanna Berzowska and Lyndl Hall)
+{{% resource_link "c6b7bf4a-5bd5-4b4b-bad1-aae75f5f1f16" "Pulp-Based Computing" %}} (Marcelo Coelho and Pattie Maes in collaboration with Joanna Berzowska and Lyndl Hall)

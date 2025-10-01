@@ -148,7 +148,7 @@ In turn, it is clear that Collins/Halverson's vision of a global, networked clas
 > > 
 > > Also, by giving the children a place to excel parents who either uninformed or care little may become interested in their child's new talents. In the following quote, we see that Anjana's sister-in-law who has no technology experience is proud and excited for Anjana. When a someone is excited and passionate about something it can be contagious and it my spread throughout there family.
 > > 
-> > _"Again, Mitra was delighted with the results. Given permission, girls rushed to the computers. "I feel great!" exclaims Anjana, an enthusiastic girl who lives in Madangir, a low-income district of New Delhi. At home, her family is a bit mystified. Anjana's sister-in-law is a stay-at-home housewife who has never seen a computer. But she is thrilled that Anjana has the opportunity to master a technology that seems to offer so much promise. "It increases her knowledge," she says, "and it will be a big help when she looks for a job."'_ \- [Frontline World](http://www.pbs.org/frontlineworld/stories/india/thestory.html)
+> > _"Again, Mitra was delighted with the results. Given permission, girls rushed to the computers. "I feel great!" exclaims Anjana, an enthusiastic girl who lives in Madangir, a low-income district of New Delhi. At home, her family is a bit mystified. Anjana's sister-in-law is a stay-at-home housewife who has never seen a computer. But she is thrilled that Anjana has the opportunity to master a technology that seems to offer so much promise. "It increases her knowledge," she says, "and it will be a big help when she looks for a job."'_ \- {{% resource_link "84238f85-9a3e-4f80-8fea-f9655ab33482" "Frontline World" %}}
 > > 
 > > ### Posted by JC
 > > 

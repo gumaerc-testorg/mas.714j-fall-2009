@@ -54,7 +54,7 @@ Note that these posters aren't necessarily the correct size and don't necessaril
 
 As for creating the poster, this guidelines for posters document describes how to create a poster using PowerPoint or Illustrator. It also has suggestions for fonts, sizes, images.
 
-- University of British Columbia, Media Group. "[Digital Printing: Poster Guidelines](https://web.archive.org/web/20180321000215/https://it.ubc.ca/services/desktop-print-services/printing-services/guidelines-and-tips)."
+- University of British Columbia, Media Group. "{{% resource_link "5c295173-4d54-4ee4-a50f-17660bf2bc64" "Digital Printing: Poster Guidelines" %}}."
 
 ## Example Student Projects
 

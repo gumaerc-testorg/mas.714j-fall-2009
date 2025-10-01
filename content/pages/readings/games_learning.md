@@ -35,8 +35,8 @@ In the supplemental readings, Fortugno and Zimmerman point out the difficulties 
 
 Additional References
 
-- Craft, Jason. "[A Review of What Video Games Have to Teach Us about Learning and Literacy](http://currents.dwrl.utexas.edu/fall04/craft.html)." *Currents in Electronic Literacy* Fall 8 (2004).
-- McLean, Gavin. "[James Paul Gee's 36 Learning Principles at work in Computer Games](http://globalmantra.blogspot.com/2007/09/james-paul-gees-36-learning-principles.html)." *Gavin's Blog*, October 1, 2007. \[Scroll down past initial photos and video links\]
+- Craft, Jason. "{{% resource_link "9212efc4-ecd4-4f2a-8385-a0a39faaac79" "A Review of What Video Games Have to Teach Us about Learning and Literacy" %}}." *Currents in Electronic Literacy* Fall 8 (2004).
+- McLean, Gavin. "{{% resource_link "55898c77-f826-4182-b03d-d51cd51f4398" "James Paul Gee's 36 Learning Principles at work in Computer Games" %}}." *Gavin's Blog*, October 1, 2007. \[Scroll down past initial photos and video links\]
 
 Please post your answers to the following questions:
 
@@ -95,7 +95,7 @@ I feel like I might be the only person in this class unprepared to answer this q
 
 > ### Posted by AB
 > 
-> Ah, you mention errors - a fascinating topic. Learning how things fail is a good way of learning how they work. Don't take my word for it - read Mako's "[Revealing Errors](http://revealingerrors.com/)" blog.
+> Ah, you mention errors - a fascinating topic. Learning how things fail is a good way of learning how they work. Don't take my word for it - read Mako's "{{% resource_link "f91c2e9b-6255-4d1a-8a2f-396263286a3b" "Revealing Errors" %}}" blog.
 > 
 > ### Posted by JC
 > 
@@ -180,7 +180,7 @@ But something tells me that all this - those learning values of games - will be 
     1. Contents: Video games are created with purposes   
         Either to educate   
         Or to entertain the players   
-        \*\*\*Example: I would a game without an entertaining element won't be defined as a "game". And, in fact, most of the games I know have been educational as well, in varying degrees. The least educational yet entertaining game I've played was the old Nintendo games like Super Mario and Bubble Bubble. Even then I learned how to coordinate the visual signals with fine motors, etc. There are, however, some games that are less entertaining but educational. I've come across a game, Carnegie Hall's "[Young Person's Guide to the Orchestra](http://listeningadventures.carnegiehall.org/)," which is very educational and aurally pleasing but not so fun.
+        \*\*\*Example: I would a game without an entertaining element won't be defined as a "game". And, in fact, most of the games I know have been educational as well, in varying degrees. The least educational yet entertaining game I've played was the old Nintendo games like Super Mario and Bubble Bubble. Even then I learned how to coordinate the visual signals with fine motors, etc. There are, however, some games that are less entertaining but educational. I've come across a game, Carnegie Hall's "{{% resource_link "eb425278-dbed-430a-a5fa-93d2a22302aa" "Young Person's Guide to the Orchestra" %}}," which is very educational and aurally pleasing but not so fun.
     2. Settings:   
         They are interactive in nature   
         They are often played in social settings   
