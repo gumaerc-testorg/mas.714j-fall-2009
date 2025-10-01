@@ -76,20 +76,20 @@ In addressing question 2, I believe computers, internet, etc. serve as additiona
 
 ### Posted by SL
 
-My search brought up a couple of interesting sites that I thought were relevant to this week's discussion. The first was the Twitter Opera performed at the Royal Opera House in London sometime in the last week or two. Many of you will be familiar with this, but the details are interesting. The Twitter Opera's self description is: "Help create the first Twitter-written opera, 140 characters at a time." ([http://twitter.com/youropera](http://twitter.com/youropera))
+My search brought up a couple of interesting sites that I thought were relevant to this week's discussion. The first was the Twitter Opera performed at the Royal Opera House in London sometime in the last week or two. Many of you will be familiar with this, but the details are interesting. The Twitter Opera's self description is: "Help create the first Twitter-written opera, 140 characters at a time." ({{% resource_link "8fd69aff-1ad7-41f9-8be8-0e0a1b6702e8" "http://twitter.com/youropera" %}})
 
 This was an attempt to have writers, artists and the Twitter-ati put the same tools that create Wikipedia entries and other new media collaborations in the service of art-specifically collaborative art that bridges the digital/physical divide. A large community of Twitter subscribers contributed their 140 characters to construct the libretto.
 
 Though no final video of the event exists, here is a taste of the resulting performance:
 
-- RoyalOperaHouse. "Twitter Opera Sneak Preview." Sept. 4, 2009. YouTube. Accessed April 23, 2010. [http://www.youtube.com/watch?v=C7_GOVSGheI](http://www.youtube.com/watch?v=C7_GOVSGheI)
-- ———. "Twitterdammerung." Sept. 18, 2009. YouTube. Accessed April 23, 2010. [http://www.youtube.com/watch?v=nQZQvs4qSpo](http://www.youtube.com/watch?v=nQZQvs4qSpo).
+- RoyalOperaHouse. "Twitter Opera Sneak Preview." Sept. 4, 2009. YouTube. Accessed April 23, 2010. {{% resource_link "719f1c59-1ca8-4a20-837e-9d7583f3c54f" "http://www.youtube.com/watch?v=C7_GOVSGheI" %}}
+- ———. "Twitterdammerung." Sept. 18, 2009. YouTube. Accessed April 23, 2010. {{% resource_link "b10fc9f7-030f-4653-b8a1-4850c28a2974" "http://www.youtube.com/watch?v=nQZQvs4qSpo" %}}.
 
 The opera, it seems, was not terrible, and served as the platform for a very interesting experiment in socially constructed art using new media competencies of distributed cognition (interacting with tools that expand mental capabilities), collective intelligence (pooling knowledge toward a common goal), and negotiation (traversing diverse communities, with multiple perspectives and norms). I think this points toward a very powerful and potentially productive path for building communities of learners who can create as they construct knowledge. While the educational applications to art and culture are apparent from this instantiation, I can see where this approach might be applied more broadly across the educational spectrum to include, for example, role playing in historical subjects, writing, literature, and possibly foreign languages. I think it would be important to have disciplinary expertise involved to help guide the creative process. The participation of professionals in the process would add both applied motivation to the process of learning and creating, as well as some experience with the norms of a community of practice.
 
-Related to this approach is a tool I found that is not new, but is an especially engaging platform for small communities to build and share knowledge using many of kinds of media and input to explore and document a topic. Please see [VoiceThread](http://voicethread.com/). VoiceThread helps develop several of the skills and competencies that Jenkins points out as important for the next generation: distributed cognition, collective intelligence, transmedia navigation, negotiation, and networking. This tool is particularly engaging as it does have several simple input modes: video, photo, audio recording, text, etc. You choose what inputs work best for you and add to the collection of information that the community builds around the topic at hand. I can see this tool supporting multiple modes of learning in multiple disciplines in a very engaging way. This tool would likely require extra support for handling intellectual property and appropriation issues.
+Related to this approach is a tool I found that is not new, but is an especially engaging platform for small communities to build and share knowledge using many of kinds of media and input to explore and document a topic. Please see {{% resource_link "3f149ca4-61f0-4dec-a343-92e21b235a3e" "VoiceThread" %}}. VoiceThread helps develop several of the skills and competencies that Jenkins points out as important for the next generation: distributed cognition, collective intelligence, transmedia navigation, negotiation, and networking. This tool is particularly engaging as it does have several simple input modes: video, photo, audio recording, text, etc. You choose what inputs work best for you and add to the collection of information that the community builds around the topic at hand. I can see this tool supporting multiple modes of learning in multiple disciplines in a very engaging way. This tool would likely require extra support for handling intellectual property and appropriation issues.
 
-While you're browsing, add your personal art to this gigantic collaborative art piece, [The One Million Masterpiece](http://www.millionmasterpiece.com/). It's just fun.
+While you're browsing, add your personal art to this gigantic collaborative art piece, {{% resource_link "f54c6e39-9a49-415c-b68f-aa42322712b5" "The One Million Masterpiece" %}}. It's just fun.
 
 > ### Posted by MN
 > 
@@ -103,7 +103,7 @@ While you're browsing, add your personal art to this gigantic collaborative art 
 > 
 > One criticism that was voiced in that class after my presentation was that most people are still not used to- and would be reluctant to show the world their emotions, that it is too invasive and eventually would lead to issues of privacy. But as the amount of personal information that people pour out onto Facebook shows, I think this new practice of being more open about our emotions in social settings is just a question of getting used to it and adopting it. Perhaps this could also be useful in educational settings, where for example a timid shy who doesn't dare ask questions about what he doesn't understand before is peers/classmates, could have the done job for him by 'letting his heart speak for him.' I remember that throughout my 12 years of school in Belgium, much of the time I didn't dare ask the math teacher to repeat or explain something out of fear/shame or feelings of hopelessness. Maybe these sensoring technologies could help in such situations and also to simply to facilitate communication among collaborating classmates and learners through their social applications.
 > 
-> Some research on these sensoring jewels has been done before at the Media Lab. Here is another link about a [beating heart brooch](http://interiorstate.blogspot.in/2010/07/salvadore-dalis-beating-heart-brooch.html). 
+> Some research on these sensoring jewels has been done before at the Media Lab. Here is another link about a {{% resource_link "d824afd1-a611-405b-b7b9-677c02cb5688" "beating heart brooch" %}}. 
 
 ### Posted by VC
 
@@ -139,7 +139,7 @@ I co-directed a seminar today on new media and civic participation for a class a
 
 I will be taking liberties here and divert a little from the assignment, but I thought I would post a very relevant and recent article:
 
-Glader, Paul. "[Online High Schools Test Students' Social Skills](http://online.wsj.com/article/SB125374569191035579.html)." *Wall Street Journal* (September 24, 2009).
+Glader, Paul. "{{% resource_link "6d68726b-4d38-43e3-a836-bc5f6220b15c" "Online High Schools Test Students' Social Skills" %}}." *Wall Street Journal* (September 24, 2009).
 
 I found interesting that although the piece says there are huge advantages to a new media-rich online education, it also says that it may lead to social isolation for those students who learn from home. Nothing is perfect I guess…
 
@@ -147,7 +147,7 @@ I found interesting that although the piece says there are huge advantages to a 
 
 Question 1:
 
-I recently watched Will Wright's [TED talk](http://www.ted.com/index.php/talks/will_wright_makes_toys_that_make_worlds.html) and became interested in his video game [Spore](http://www.spore.com/ftl). Because I don't really want to buy the game, I've just been looking at the free [creature creator](http://www.spore.com/trial) and the [sporepedia](http://www.spore.com/sporepedia).
+I recently watched Will Wright's {{% resource_link "312325e9-439c-48c4-bddc-94394d5cdc1a" "TED talk" %}} and became interested in his video game {{% resource_link "bb887338-d941-4425-92ac-fdb4ba9bcf08" "Spore" %}}. Because I don't really want to buy the game, I've just been looking at the free {{% resource_link "7c4b1e66-b837-4343-8947-48ec65bbee67" "creature creator" %}} and the {{% resource_link "5da9c1bf-a79e-4d14-a6cf-67036a928866" "sporepedia" %}}.
 
 The game might help develop many of the 11 skills Jenkins talks about, but perhaps most interesting is its relationship to simulation and appropriation. Jenkins mentions Wright's earlier SimCity series of games as examples of educational simulation. Spore falls in much the same category because of the way it simulates biological evolution over many time scales. However, there is perhaps more transparency into the model being used in Spore than that of SimCity because users are engaged in creating the organisms that will involve by manipulating various parameters. By giving players the ability to assume a role they could never obtain in real life (freeform control to create an organism, versus the unlikely but possible role as mayor of a major city), players can gain some additional understanding of what parameters matter to the simulation they are working in.
 
@@ -195,7 +195,7 @@ Two new media skills I could imagine being added to Jenkins' list are safety and
 
 ### Posted by KA
 
-You might be interested in checking out [Project NML's site](https://www.newmedialiteracies.org/index.html), and their new [Learning Library project](http://www.newmedialiteracies.org/introduction-to-learning-library/).
+You might be interested in checking out {{% resource_link "651e2ed0-c040-4ed6-928c-8d82439dc4de" "Project NML's site" %}}, and their new {{% resource_link "b9900ef5-5326-4813-a0db-743198f29cca" "Learning Library project" %}}.
 
 According to the site, "the Learning Library is intended as a multimedia activity center where people can come to learn more about the new media literacies, acquiring skills and practicing them through challenges, and ultimately, producing and sharing their own content with other members of the Learning Library."
 
@@ -225,7 +225,7 @@ Here he is emphasizing that children need to be able to pull pranks on each othe
 
 Question 1:
 
-This is far from new, but as I read about it in one of Pr. Jenkins's classes and it has great relevance to our discussion, I thought I would post it: it's one of the pioneering alternate reality games called "[I love Bees](http://en.wikipedia.org/wiki/I_Love_Bees)." It was extremely successful in bridging the gap between the physical and digital and in engaging participants to collaborate and work on solutions together in both worlds. I could see such a game/activity being put in place in some schools' curricula.
+This is far from new, but as I read about it in one of Pr. Jenkins's classes and it has great relevance to our discussion, I thought I would post it: it's one of the pioneering alternate reality games called "{{% resource_link "610ed0c3-21c1-4caa-b71d-2e5fe2100e23" "I love Bees" %}}." It was extremely successful in bridging the gap between the physical and digital and in engaging participants to collaborate and work on solutions together in both worlds. I could see such a game/activity being put in place in some schools' curricula.
 
 Question 2:
 
@@ -259,8 +259,8 @@ I am not sure about how this ideal mix should look like in the future. I guess i
 
 Question 1:
 
-1. Edmunds [CarSpace](http://www.edmunds.com/)
-2. [Internet Cello Society](http://www.cello.org/)
+1. Edmunds {{% resource_link "ff9f3c8b-b591-4a24-95d9-416658545aef" "CarSpace" %}}
+2. {{% resource_link "c38a7829-1178-4bf0-8b0a-4a086fe9472d" "Internet Cello Society" %}}
 
 My favorite two participatory Web sites are Edmunds' Carspace.com and Internet Cello Society. Both Web sites provides an unrestricted space to share information and experiences among people who have the same interest.
 
@@ -290,7 +290,7 @@ I imagine the massive use of personal and portable computer devices as new media
 
 ### Posted by JL
 
-[FMyLife](http://www.fmylife.com/) is a participatory online activity where people can anonymously post a short story about an unfortunately event in their life. Here is an excerpt:
+{{% resource_link "fa69f128-ee09-4b9f-9ebd-74bc699e75ff" "FMyLife" %}} is a participatory online activity where people can anonymously post a short story about an unfortunately event in their life. Here is an excerpt:
 
 > *"Today, I saw an elderly man fall in a crosswalk, so I jumped off my bike to help. As I helped him across, the light turned green. At that point I noticed my phone had fallen out of my pocket in the street and was run over by several cars. I then watched across a 6 lane street as someone stole my bike. FML"*
 
@@ -328,7 +328,7 @@ I think the ideal "mix" of new media and formal education would be at a point wh
 
 ### Posted by RC
 
-I was introduced to [Club Penguin](https://newcp.net/en/) when visiting my 5 year old cousin this summer. It is a massively multiplayer online game which introduces a virtual world completely with mini games, activities, money, and communities. The three things that surprised me most while playing with Club Penguin are the amount of strategy each game entails, the realistic nature of this online community, and the amount of creativity a child can express through this Web site.
+I was introduced to {{% resource_link "765520fb-0c0c-41b2-ae8f-d01a73d6c5a2" "Club Penguin" %}} when visiting my 5 year old cousin this summer. It is a massively multiplayer online game which introduces a virtual world completely with mini games, activities, money, and communities. The three things that surprised me most while playing with Club Penguin are the amount of strategy each game entails, the realistic nature of this online community, and the amount of creativity a child can express through this Web site.
 
 The realistic nature of the online community can best be expressed by the use of coins. Players collect these coins by doing well in minigames and can use the coins to purchase various items including clothes, furniture, and gifts. Additionally, during Christmas season for the past two years 'Coins for Change' was introduced to the game. Players could donate virtual coins to charitable organizations (Kids who are sick, The Environment, Kids in Developing Countries, Kids who cannot afford to go to school, etc) and at the end of the campaign a million dollars was donated to real foundations in the proportion that the players allocated. This aspect of the game teaches the skill of simulation; this virtual words simulates a lot of the difficulties and decisions that people face in the real-world.
 
@@ -344,7 +344,7 @@ Of course there is also the Networking and Collective Intelligence aspect. Playe
 
 Question 1:
 
-I chose to check out [Instructables](http://www.instructables.com/) which is not a very social site as the participants simply post what they did, but the way users can describe their projects is very much tied to their personal style. It is a fun way to make something and essentially empowers everyone to do whatever they set their mind to since someone else did it and worked out all the "bugs".
+I chose to check out {{% resource_link "b969aa1e-5a59-4392-8e54-07e0786adac0" "Instructables" %}} which is not a very social site as the participants simply post what they did, but the way users can describe their projects is very much tied to their personal style. It is a fun way to make something and essentially empowers everyone to do whatever they set their mind to since someone else did it and worked out all the "bugs".
 
 I would consider this to fit in the **Play** category. **Collective Intelligence** could be facilitated by encouraging students to document what they produced and learned in such a way that other students in the same class can learn from them. It is easy to post what you have done, but it is much harder to recreate something someone else has made. In that respect it could also be considered as being part of the **Appropriation** category.
 
@@ -358,7 +358,7 @@ I would also like to point out that we seem to have very little data that could 
 
 Question 1:
 
-In response to Question 1, I thought I would draw attention to one very simple way of using a collaborative platform for educational purposes. As a Prince fan, I am a member of the Prince fan site [prince.org](http://prince.org/), which in addition to Prince-devoted discussion forums and other topics such as politics and religion has a [Org Artist Community](http://prince.org/msg/15). This is a discussion forum where artists - but essentially anybody who has created something in music, visual art, writing among others and wants to share it - can post their creations and get feedback, comments, etc. What I find interesting about it is that it has developed into something much more than a meeting and sharing place, as both the posters and their commentators give each other instructions on how to improve or master a new skill in their given area. There is in fact a lot of training and 'coaching' \[if that word can be used for art\] going on.
+In response to Question 1, I thought I would draw attention to one very simple way of using a collaborative platform for educational purposes. As a Prince fan, I am a member of the Prince fan site {{% resource_link "4e048d2f-c177-4788-ba08-20ddd83c83cc" "prince.org" %}}, which in addition to Prince-devoted discussion forums and other topics such as politics and religion has a {{% resource_link "ea049124-a05b-4e17-8d44-efccd1282801" "Org Artist Community" %}}. This is a discussion forum where artists - but essentially anybody who has created something in music, visual art, writing among others and wants to share it - can post their creations and get feedback, comments, etc. What I find interesting about it is that it has developed into something much more than a meeting and sharing place, as both the posters and their commentators give each other instructions on how to improve or master a new skill in their given area. There is in fact a lot of training and 'coaching' \[if that word can be used for art\] going on.
 
 This is a very low-tech solution - just an online platform in the form of a discussion forum where people just post their content - and it is now no more new, as many such forums exist. But for this reason it should perhaps be considered by school curricula developers and teachers. It's a relatively easy tool and practice to introduce in classrooms and could be used for any subjects, with students posting their homework or personal creations in a given field and receiving friendly feedback from teachers and students alike from across the whole school - or even from students and faculty in other schools. Since it's on the Internet, it could be applied across schools nationwide or internationally \[if language is not a barrier\].
 

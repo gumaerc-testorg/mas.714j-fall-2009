@@ -40,7 +40,7 @@ On of my favorite subjects growing up (and still is), is art. I have been drawin
 
 So my tangible "thing" would be clay that I could sculpt; the clay would somehow be embedded with micro sensors that would map the surface of the sculpture. This information could then be fed into a CAD or animation program. Here is a link to a paper that talks about implementing the digital clay idea:
 
-- Reed, Michael. "[Prototyping digital clay as an active material](http://portal.acm.org/citation.cfm?id=1517733&coll=GUIDE&dl=GUIDE&CFID=54601554&CFTOKEN=56458107&ret=1#Fulltext)." *Proceedings of the 3rd International Conference on Tangible and Embedded Interaction. ACM, 2009*.
+- Reed, Michael. "{{% resource_link "0d4dc8f1-d0ef-4a0f-8c18-27f6ecc6f0ae" "Prototyping digital clay as an active material" %}}." *Proceedings of the 3rd International Conference on Tangible and Embedded Interaction. ACM, 2009*.
 
 > ### Posted by DG
 > 
@@ -58,11 +58,11 @@ Some time last February I dreamt up an idea for a physical classroom that would 
 
 A few collaborators and I worked with a group of local high school students and their teacher to gather ideas for what this classroom should contain. We came up with this design by the start of the summer:
 
-- Open Architecture Challenge: Classroom. "How Buildings Teach." ([PDF - 5.5MB](http://classroom.mit.edu/a4h/Presentation%20Board-BRANCH.pdf))
+- Open Architecture Challenge: Classroom. "How Buildings Teach." ({{% resource_link "63e89c37-7a01-4a26-8a35-c2a654c9e767" "PDF - 5.5MB" %}})
 
 Working with some of these high school students, we built a full-scale prototype of a section of the classroom over the summer. In the process, we worked with the students to help them develop research projects that could result in creations which could become part of the classroom. Eisenberg enumerated a list of possible projects that seemed eerily similar to the sorts of things we were working on, including exploring symmetry groups and tessellations to decorate our triangular floor tiles or discussing the path of the sun during different seasons and its effects on light and heat in our structure.
 
-- [Photos of the process and product on Flickr](http://www.flickr.com/photos/40305077@N03/)
+- {{% resource_link "0f489b3d-493b-4201-bde3-1a68c1e4faa7" "Photos of the process and product on Flickr" %}}
 
 We didn't focus specifically on creating a "mathland" in the end, but wanted to create more of a general literal and figurative framework where students could create, test, and implement their own objects to think with that could become part of the building itself. What we made wasn't explicitly technological, but its design was heavily aided by computer tools and some of the ideas Eisenberg suggests for creation using computerized fabrication tools or new materials could be incorporated.
 
@@ -88,8 +88,8 @@ I would say that I developed a different branch of skills than those found only 
 
 I really appreciate Eisenberg's comment that children like to learn with "stuff," tangible objects, and that the coupling of objects and new media technology could lead to greater creative learning potential. Something that was really informative in my learning through the beach was the fact that I was learning from life. It would be very interesting to pursue educational tools where computation is paired with objects in nature.
 
-- Leone, Diane. "[Dangerous Ground at Sandy Beach](http://archives.starbulletin.com/2002/03/24/news/story3.html)." *Honolulu Star-Bulletin*, March 24, 2002.
-- Original video has been removed. This is a similar video. letsgotovegasshow. "Barak Obama - Body Surfing in Hawaii!" December 29, 2008. Youtube. Accessed September 18, 2012. [http://www.youtube.com/watch?v=keX_gLjg6cQ](http://www.youtube.com/watch?v=keX_gLjg6cQ)
+- Leone, Diane. "{{% resource_link "3cdd0e3d-0542-49b2-b24c-704793a000f1" "Dangerous Ground at Sandy Beach" %}}." *Honolulu Star-Bulletin*, March 24, 2002.
+- Original video has been removed. This is a similar video. letsgotovegasshow. "Barak Obama - Body Surfing in Hawaii!" December 29, 2008. Youtube. Accessed September 18, 2012. {{% resource_link "0a489943-e22a-408a-82a4-6fb06da0f2ff" "http://www.youtube.com/watch?v=keX_gLjg6cQ" %}}
 
 > ### Posted by SK
 > 
@@ -112,8 +112,8 @@ There were two activities that I really enjoyed as a child that I think could be
 
 Digital boardgames:
 
-- Hanlon, Mike. "[CES 2006: Entertaible combines excitement of electronic gaming with traditional board games](http://www.gizmag.com/go/4995/)" *Gizmag*, December 6, 2005.
-- ———. [Image gallery](http://www.gizmag.com/go/6093/) for "Philips Entertaible." *Gizmag*, August 3, 2006.
+- Hanlon, Mike. "{{% resource_link "5efe669c-c17e-4292-a22c-852f45e00878" "CES 2006: Entertaible combines excitement of electronic gaming with traditional board games" %}}" *Gizmag*, December 6, 2005.
+- ———. {{% resource_link "b2285de1-4772-4877-9152-3dd3d9470c00" "Image gallery" %}} for "Philips Entertaible." *Gizmag*, August 3, 2006.
 
 ### Posted by FG
 
@@ -143,7 +143,7 @@ And on a more general note, it is clear that the body holds plenty of exciting e
 > 
 > Ballet strikes a chord for me as well. It was the choreography paired with the music and the staging that I found as compelling as the performance aspects of the art form. To choreograph, I had to create a sequence of steps and movements, synchronized with music, while orchestrating the geometry of moving groups of bodies using two languages: the strict language of ballet (almost every movement and position has a French name) and the language of music (notes, score, key, tempo, phrase, etc.). Both languages had to be pressed into the service of a story line, whether literal, emotional or aesthetic. And the performance was the "test", the proof of learning and knowledge integration. I've seen several technology projects that have attempted to have motion translated into digital images or music. The late Merce Cunningham tried using tracking sensors/tags and computer simulations to create animated digital dancers in the 1990's. He also worked with the Media Lab on a project earlier this decade called Loops which tracked motion in space.
 > 
-> - [Wikipedia: Merce Cunningham](http://en.wikipedia.org/wiki/Merce_Cunningham)
+> - {{% resource_link "541ac936-338f-4912-b1eb-fcd6c0a861b2" "Wikipedia: Merce Cunningham" %}}
 > - Kirn, Peter. Remembering Merce Cunningham, Digital Motion, and Digital Portraits. *Create Digital* Motion, July 27, 2009.
 > 
 > Joe Paradiso's group, also at the Media Lab, developed a pair of sensing sneakers that when worn, would produce electronic music with each movement of the fott., called Expressive Footwear (1997-2000). Another one of his group's projects tracked the motion of a body in space, called the Magic Carpet (1997-2002).
@@ -156,15 +156,15 @@ And on a more general note, it is clear that the body holds plenty of exciting e
 > 
 > This may sound a little Utopian at this point, but research is being conducted in this sphere of trying to represent the human body in the real physical world. The research that Lass cited I believe is the first steps in this direction.
 > 
-> [Daniel Vlasic's work](http://www.csail.mit.edu/taxonomy/term/66) is also related - he works in CSAIL and MIT's Gambit:
+> {{% resource_link "7cb29ca3-6e08-4916-a6cd-e404a288af57" "Daniel Vlasic's work" %}} is also related - he works in CSAIL and MIT's Gambit:
 > 
-> - "[System and Method for Motion Capture in Natural Environments](http://www.faqs.org/patents/app/20080223131)" (patent application)
+> - "{{% resource_link "79350b54-c0f7-4bc5-92a0-0a73791c4a39" "System and Method for Motion Capture in Natural Environments" %}}" (patent application)
 > 
 > Such projects offer infinite possibilities for for the interactive visualization of objects and people \[the latter as 'bodies' - in the meaning I gave to them in my post here above\].
 > 
-> [Ilya Baran](https://dl.acm.org/profile/81100129752) from the MIT Graphics Groups is also, like Vlasic, very close to coming up with the vision I have of a real life representation of the human body and movement in space:
+> {{% resource_link "2f9f8750-510c-4c76-aac3-06d9c91cc1a1" "Ilya Baran" %}} from the MIT Graphics Groups is also, like Vlasic, very close to coming up with the vision I have of a real life representation of the human body and movement in space:
 > 
-> - Vlasic, D., I. Baran, W. Matusik, J. Popovic. "[Articulated Mesh Animation from Multi-view Silhouettes](http://people.csail.mit.edu/drdaniel/mesh_animation/)." *ACM Transactions on Graphics* 27(3), 2008. \[Accompanying [video](http://people.csail.mit.edu/drdaniel/research/vlasic-2008-ama.mp4)\]
+> - Vlasic, D., I. Baran, W. Matusik, J. Popovic. "{{% resource_link "101fa05d-a5ed-42a0-890c-45678b290774" "Articulated Mesh Animation from Multi-view Silhouettes" %}}." *ACM Transactions on Graphics* 27(3), 2008. \[Accompanying {{% resource_link "f53ba47b-27c5-4cd6-9cf6-860a3e1b5ba8" "video" %}}\]
 > 
 > ### Posted by MN
 > 
@@ -186,7 +186,7 @@ In view of this point of view and my observations, I also have to say that I am 
 
 I'm going to draw on a topic and object that I found later in life, as my school years are so far in the past that I can't remember much about what I learned then. My topic is Astronomy, through the lens of celestial navigation. My object is the sextant.
 
-- Diagram of a sextant ([JPG](http://www.clipperlight.org/SEXTANTARTICLE/sextant2.jpg))
+- Diagram of a sextant ({{% resource_link "ebce229c-a6ac-4754-a13f-f6eb7e1487d7" "JPG" %}})
 
 As background, in the late 1980's I was fascinated with with the journals of Lewis & Clark. They led the team President Jefferson sent out West to explore and map the United States beyond the Mississippi River. In my late night readings of their journals I realized that mapping was a very inexact science in Jefferson's days. Lewis and Clark were the first explorers to use celestial navigation tools on land (rather than at sea) for mapping, locating themselves and keeping track of the passage of time. In their journals they were constantly referring to the use of their sextants and artificial horizon, and I wanted to know more about the whys and wherefores of their mapping project. So I took a very old class offered at the Smithsonian Observatory on celestial navigation where I learned how to find myself in the world, using the sun, the stars, and a sextant.
 
@@ -202,7 +202,7 @@ I think it would be interesting to create a city simulation using a model city a
 
 To make it interesting, the teacher would hand out cards to certain members of the class such that they could make certain events happen. For example, the teacher could give all the city utility workers a strike card so that no one could have electricity, and then the utility workers and the city officials would have to negotiate a new salary. Or the teacher could give the mayor a law card, so that everyone would have to change their behavior to stay legal. Every day of the unit, the teacher could assign a new type of event (scandal, new law, holiday) so that kids could better understand the different things they might read about in their local news.
 
-The dolls might look like this [little knitted link doll](http://www.geekologie.com/2008/07/i_must_have_it_little_knitted.php). I like that it's cute, dressable, but not entirely human.
+The dolls might look like this {{% resource_link "16bc86cf-879a-452d-943d-7a305ad7f93c" "little knitted link doll" %}}. I like that it's cute, dressable, but not entirely human.
 
 ### Posted by RC
 
@@ -210,7 +210,7 @@ When I was younger, I took piano lessons with a private teacher. She would come 
 
 With the new developments of electric pianos, I imagine a future where we can input a piece into an electric piano and the piano would not only play the piece for you, but help you learn them. As you press and release keys on the piano, it would visually display the notes and rests that you are playing and overlay these onto the actual sheet music. This can help you assess how precisely you are playing the piece.
 
-Here's an image of an electric grand piano that is sold today ([JPG](http://www.bigdiscountwarehouse.co.uk/keyboard-instruments/acoustic-pianos)). Imagine the sheet music stand replaced with an lcd screen that displays the sheet music representing the notes you are currently playing
+Here's an image of an electric grand piano that is sold today ({{% resource_link "84ae52de-028b-4595-ab1a-75b7138c58f4" "JPG" %}}). Imagine the sheet music stand replaced with an lcd screen that displays the sheet music representing the notes you are currently playing
 
 > ### Posted by JP
 > 
@@ -220,7 +220,7 @@ Here's an image of an electric grand piano that is sold today ([JPG](http://www.
 
 One of the key concepts in Eisenberg's Mindstuff is creative manipulation of objects that reminds me of an intern student when I was working for an architecture office a couple of years ago. There was computer software to draw plans from three-dimensional geometries with which people easily generate architectural drawings of complex-shaped building design. One day the intern used the same software to make physical models using a laser cutter. He sliced the geometry every four millimeters (about one thirty second inch) then he glued all the sliced sections and made a whole building. It was surprisingly a new idea and no one in the office ever tried before. I was curious how he could think of this innovative use from such a conventional tool and actually I thought of how children played innovatively from common material.
 
-- One example of kaoliang stalk construction ([JPG 1](https://web.archive.org/web/20070625065020/http://www.zipul.com/education/image/pic04.jpg)) ([JPG 2](http://www.zipul.com/education/image/pic04.jpg))
+- One example of kaoliang stalk construction ({{% resource_link "9b1e7338-4412-49f8-8ffd-3cd180b5ece3" "JPG 1" %}}) ({{% resource_link "284da892-9934-4763-abe7-3eb7fee97141" "JPG 2" %}})
 
 One thing I want to introduce is a colored corn (kaoliang) stalk. A kaoliang stalk is very cheap and local material from South Korea. It is a lightweight twig cut from kaoliang. It is easy to cut and to join with any toothpick or pin. Consequently it is popular educational material among elementary schools. It is used to teach, from general hand crafting, model making to basic concept of mathematics, physics and time. Children use the material crudely when they make a pinwheel and house-like toys. On the other hand children cut the stalk into modular chips and make molecule models and solar systems. I could also see how children creatively used the same material to make something from their own imagination. One of the examples is a painting using a same kind of kaoliang stalk. A student sliced, extremely thinly, colored kaoliang stalks and used them as if they were a paint brush.
 
@@ -228,9 +228,9 @@ It is not so difficult for me to imagine how this common material, kaoliang stic
 
 \[It may be difficult to find more images and examples of kaoliang stalks since it is kind of a mixture of translated Korean and Chinese words. Try these Google image searches on Korean-language terms.\]
 
-- [http://tinyurl.com/2dwz7ox](http://tinyurl.com/2dwz7ox)
-- [http://tinyurl.com/2bderzb](http://tinyurl.com/2bderzb)
-- [http://tinyurl.com/27e8h97](http://tinyurl.com/27e8h97)
+- {{% resource_link "9083251e-61d6-454c-a289-240625d7d7d7" "http://tinyurl.com/2dwz7ox" %}}
+- {{% resource_link "ac30726c-dac3-4e9d-9c02-f76ee6da0269" "http://tinyurl.com/2bderzb" %}}
+- {{% resource_link "edcaeb23-f7bf-45c5-b8cf-7ca79ca1e5de" "http://tinyurl.com/27e8h97" %}}
 
 > ### Posted by JL
 > 
@@ -256,7 +256,7 @@ In middle school, I remember dreading Fridays because of Ms. Spencer's weekly vo
 
 A fun activity to learn vocabulary words could be to create a story that takes the word into context. Scratch could be a useful tool to create a story that incorporates a SAT word. Every student in the class could create a story around a word and then present it to their fellow classmates.
 
-I created an [example in Scratch](http://scratch.mit.edu/projects/jinjoolee/706083).
+I created an {{% resource_link "0881c04f-d38f-4c89-9d4d-b2e9ecd07c05" "example in Scratch" %}}.
 
 My vision of Mathland is an amusement park full of different kiosks and stations with fun math problems to be solved. Maybe before someone can ride a rollercoaster, the operator can explain that he has a problem with the slope of the track. He does not know the optimal slope the first downward fall should be in order to achieve maximum fun (and safety). When you buy tickets at the counter, the cashier needs help figuring out how many tickets your $5 bill can get. The Western Shooting game requires the participant to calculate the angle of the gun given the velocity of the pellet and distance to the target. With the correct input, you win a prize! At the redemption center, you have to count up your tickets and do the math to figure out how many prizes you can buy.
 
@@ -319,8 +319,8 @@ In addition, my tangible "stuff" that came close to Papert's gears was violin. H
 I just wanted to add a couple of examples I came across during the week:
 
 1. SNIFF - It's a toy dog that allows children to explore as the toy itself is able to read markers. I believe that the video is self explanatory:
-    - timo. "Sniff." Sept. 16, 2009. Vimeo. Accessed April 23, 2010. [http://vimeo.com/6602990](http://vimeo.com/6602990)
-2. [Crayon Physics](http://www.crayonphysics.com/). There is a free demo so I really recommend you try it.
+    - timo. "Sniff." Sept. 16, 2009. Vimeo. Accessed April 23, 2010. {{% resource_link "7557abfe-6e79-4047-98a5-cd2a8da0d998" "http://vimeo.com/6602990" %}}
+2. {{% resource_link "0d573a18-0ed8-4e30-a880-3fb84b764d88" "Crayon Physics" %}}. There is a free demo so I really recommend you try it.
 
 Hope you like it!
 
@@ -328,4 +328,4 @@ Hope you like it!
 
 Look at this project by the Media Lab:
 
-- fidbrush. "I/O Brush." November 28, 2005. YouTube. Accessed April 23, 2010. [http://www.youtube.com/watch?v=04v_v1gnyO8](http://www.youtube.com/watch?v=04v_v1gnyO8)
+- fidbrush. "I/O Brush." November 28, 2005. YouTube. Accessed April 23, 2010. {{% resource_link "5524235e-493b-40ed-9533-30945b4edd10" "http://www.youtube.com/watch?v=04v_v1gnyO8" %}}
