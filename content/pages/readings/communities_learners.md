@@ -101,7 +101,7 @@ This kind of passionate but geeky pursuit of a silly idea would be very unlikely
 > 
 > I'm interested in hearing more about when people are really moved to pursue their own interests. I tend to do it only for special occasions. There's a great This American Life episode where David Rackoff, a craft hobbyist and one of the contributors to the show, visits Martha Stewart Living. The question posed on teaser is, "If his hobby became his job, he wonders, would it still be fun?" I won't ruin the piece by telling you the answer, but I'll give you the link!
 > 
-> "[Meet the Pros](http://www.thisamericanlife.org/radio-archives/episode/192/Meet-the-Pros)." This American Life, Episode 192. Original air date: August 31, 2001.
+> "{{% resource_link "bcde1646-895c-4265-b26f-e81c2615a52f" "Meet the Pros" %}}." This American Life, Episode 192. Original air date: August 31, 2001.
 > 
 > Thanks for sharing!
 > 
@@ -285,7 +285,7 @@ In middle school, I always had an interest in arts and crafts. I loved to fuse c
 
 Unfortunately, people were the main resource for learning because the complicated techniques were very difficult to learn from a book. But once I knew everything my friends knew, my learning stopped. Since then, I have not advanced in arts and crafts as my resources were depleted. My community was limited to my friends that knew the different techniques. If I were coming of age today, I would use all the available Web sites that offer video tutorials! These video tutorials give you the real-time step-by-step procedure in making complicated pieces. I recently found a 3 part video instruction of how to make a koi fish out of dollar bills, and I am eagerly waiting to find time to learn.
 
-For those who are interested: "[Money Origami Koi Carp Instructions](http://moneygami.blogspot.com/2009/06/money-origami-koi-carp-instructions.html)." The Art of Dollar Bill Origami (blog), June 2, 2009.
+For those who are interested: "{{% resource_link "5c0feb01-6575-4191-9f05-e309147decd2" "Money Origami Koi Carp Instructions" %}}." The Art of Dollar Bill Origami (blog), June 2, 2009.
 
 * * *
 
@@ -295,11 +295,11 @@ I thought I would jump in with a new comment:
 
 Not sure if anyone saw this, but the front page of the MIT Web site on Oct 19 is frankly disgusting - a close-up of a rat, yuk!:) But it leads to an interesting article on how by listening in on rat brains, Matt Wilson tries to understand the role of sleep in learning and memory:
 
-Trafton, Anne. "[In Profile: Matt Wilson](http://web.mit.edu/newsoffice/2009/profile-wilson.html)." _MIT News_, October 19, 2009.
+Trafton, Anne. "{{% resource_link "381a241a-f737-4cf2-bc55-12e27a22691f" "In Profile: Matt Wilson" %}}." _MIT News_, October 19, 2009.
 
 Since this is about learning, I thought I would mention it here.
 
-And maybe soon we will be able to engage in night-time learning in groups too! - A classmate in my MAS 863 class 'How to Make Almost Anything' came up with an interesting idea for her final project: embedding audio recorders in bed pillows so that we can record our dreams as soon as we wake up, or thoughts that come up to our mind at bedtime. She envisions a system that would connect pillows in different rooms, houses, buildings, etc. so that they could 'talk' to each other and share these nocturnal observations. Here is her [project intro](http://fab.cba.mit.edu/classes/863.12/people/hyundo/week1/week1.html).
+And maybe soon we will be able to engage in night-time learning in groups too! - A classmate in my MAS 863 class 'How to Make Almost Anything' came up with an interesting idea for her final project: embedding audio recorders in bed pillows so that we can record our dreams as soon as we wake up, or thoughts that come up to our mind at bedtime. She envisions a system that would connect pillows in different rooms, houses, buildings, etc. so that they could 'talk' to each other and share these nocturnal observations. Here is her {{% resource_link "cfeecfd6-869b-476c-a5ee-4c96f07bace4" "project intro" %}}.
 
 24/7 learning is just around the corner. Stay tuned!
 

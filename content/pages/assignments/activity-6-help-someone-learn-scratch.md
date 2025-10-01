@@ -28,7 +28,7 @@ The son easily experimented and navigated his way through Scratch while playing.
 
 Here is their project:
 
-*   [Where the wild squirrels are](http://scratch.mit.edu/projects/JennC/731153)
+*   {{% resource_link "40d44fc7-f9b5-4f39-9545-bc75ea371fbc" "Where the wild squirrels are" %}}
 
 * * *
 
@@ -46,7 +46,7 @@ We spent about 3 hours constructing the Christmas card, and she had a lot of fun
 
 Here is her project:
 
-*   [test project](http://scratch.mit.edu/projects/barbh/730580)
+*   {{% resource_link "82263e99-3327-4b22-a550-7ed1c21507ac" "test project" %}}
 
 * * *
 
@@ -66,7 +66,7 @@ But apart from the most technically challenging tasks, I guided him in his disco
 
 The next day, he sent me his first Scratch project, which later evolved to version 2:
 
-*   [IfGraffittiIsACrime2](http://scratch.mit.edu/projects/bkizzy/735588)
+*   {{% resource_link "6a5bbaf6-58b8-4f54-b523-39b9ddbab0f5" "IfGraffittiIsACrime2" %}}
 
 Quite an impressive start in my opinion, and I was pleased to see the lesson had already born fruit!
 
@@ -92,7 +92,7 @@ I helped a classmate from TIE who had no formal programming experience, but uses
 
 We did it remotely since we didn't have time to meet in person. I started off explaining the interphase and had her do some basic stuff (get the scratch cat to walk 100 steps when the green flag is clicked, get the sprite to move where the mouse goes). I actually realized that I don't know the program particularly well and got a little sheepish trying to explain it. After a lot of "ok, try clicking on this menu... oh nevermind, maybe we'll try this one? no, not that either," she told me she had it under control and would just play around until she got it to work.
 
-She wanted to do an animation of an xkcd.com comic, so she already had in mind exactly what she wanted to do. She also had enough experience with computers that she knew not to do anything too complicated, which probably made things easier. This took her about 20 minutes to do: [kitty](http://scratch.mit.edu/projects/missvic/735509).
+She wanted to do an animation of an xkcd.com comic, so she already had in mind exactly what she wanted to do. She also had enough experience with computers that she knew not to do anything too complicated, which probably made things easier. This took her about 20 minutes to do: {{% resource_link "e38ca413-72e9-4522-9cf0-10ae61545c44" "kitty" %}}.
 
 I think it would have been a lot easier to teach her had I had some sort of specific goal in mind of what I wanted her to create before setting her off on her own. She did great anyway, though!
 
@@ -112,7 +112,7 @@ This week’s contextual learning may be great help. Still I am looking for ways
 
 ### Posted by SK
 
-I taught a 26-year-old roommate of mine, an architecture student visiting from Holland. He has extensive experience with 3D CAD software and graphics programs like Photoshop. One of his recent assignments was to learn some Rhino scripting to generate a concept based on a behavior from nature for his architecture studio. I knew that the behavior he had chosen was the [flocking behavior of birds](http://en.wikipedia.org/wiki/Flocking_%28behavior%29), so I thought I would try to teach him by developing something similar. He was very busy and sort of reluctant to spend time on this at all, so I figured that choosing a relevant project would help keep him interested. In the end, we wound up working for almost two hours together.
+I taught a 26-year-old roommate of mine, an architecture student visiting from Holland. He has extensive experience with 3D CAD software and graphics programs like Photoshop. One of his recent assignments was to learn some Rhino scripting to generate a concept based on a behavior from nature for his architecture studio. I knew that the behavior he had chosen was the {{% resource_link "37196565-c5df-40c3-9838-0a3c624407e5" "flocking behavior of birds" %}}, so I thought I would try to teach him by developing something similar. He was very busy and sort of reluctant to spend time on this at all, so I figured that choosing a relevant project would help keep him interested. In the end, we wound up working for almost two hours together.
 
 One of his first comments was about the aesthetics of other people's projects on the Scratch website. I think he had a hard time seeing Scratch as "for him" because his work involves very refined and sophisticated graphics - not the pixelated sprites so common in Scratch projects. Perhaps as a result of this, he made no connection between programming with Scratch blocks and programming in his brief introduction to Rhino scripting.
 
@@ -152,7 +152,7 @@ First I showed Scratch website, and explained how he can play around Scratch; be
 
 Here is his first project:
 
-*   [fish-cat-cheesypuffs](http://scratch.mit.edu/projects/kkkaaa/734033)
+*   {{% resource_link "0450a75b-6cdd-4f61-9a47-70530a41898e" "fish-cat-cheesypuffs" %}}
 
 I will save the details for in-class discussion, but one thing I really want to share is that "teaching is learning"!!
 
@@ -168,7 +168,7 @@ During the process, she was really enjoying and testing those different bricks, 
 
 This is the project she made in one hour:
 
-*   [project](http://scratch.mit.edu/projects/zhe/739670)
+*   {{% resource_link "092554f1-9e80-444e-939b-b665941a8dc5" "project" %}}
 
 I think this experiences is really close to mine, and the most important point to me is that, Scratch itself is not just a tool to make the animation or a game, but it is a tool to help you think and develop the ideas. I think it is the same to any other tools. For example, a pencil is not just a tool for an artist to draw what is in his mind, but rather it is a tool to help him think what he would draw. At that time, the mental and physical movement has an interaction go back and forth.
 

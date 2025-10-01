@@ -23,7 +23,7 @@ This page was created by Amon Millner during the 2008 course. (Courtesy of Amon 
 Getting Set Up
 --------------
 
-To download the driver you'll need to make your Scratch Board work, visit the [Picoboard Web site](http://www.picocricket.com/whichpicoboard.html).
+To download the driver you'll need to make your Scratch Board work, visit the {{% resource_link "d80fe8b8-8c2b-4b05-a10e-2aef2ad2008e" "Picoboard Web site" %}}.
 
 On the Scratch Web site, former MAS714 students have graciously documented processes they used to build Hook-ups. The project links below will give you a glimpse into how several students linked physical creations to Scratch projects through sensor boards.
 
@@ -42,21 +42,21 @@ SUPPORTING FILES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Example 1: [synthesizer](http://scratch.mit.edu/projects/fshea/293344)
+Example 1: {{% resource_link "f72d6077-ddb0-424b-95e6-66d21750b6cf" "synthesizer" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Documentation](http://scratch.mit.edu/projects/fshea/293676)
+{{% resource_link "3b251513-87b7-43e5-a219-4e0b3268ee33" "Documentation" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Example 2: [foil shoes](http://scratch.mit.edu/projects/agatas/293215)
+Example 2: {{% resource_link "0b45cafd-68bb-4ec1-9b52-f5cb9a5cbf4f" "foil shoes" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Documentation](http://scratch.mit.edu/projects/agatas/293303)
+{{% resource_link "fefde748-5210-410c-b731-1d8f73f66699" "Documentation" %}}
 
 Movie demonstration
 {{< tdclose >}}
@@ -64,19 +64,19 @@ Movie demonstration
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Example 3: [interactive drummer](http://scratch.mit.edu/projects/jlai/293224)
+Example 3: {{% resource_link "a6de7078-4a2e-4ca9-8711-b8e8f42ad7df" "interactive drummer" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Documentation](http://scratch.mit.edu/projects/jlai/293687)
+{{% resource_link "42e5f863-e1eb-46c1-a9e3-be31461f235a" "Documentation" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Example 4: [beatrice, a beat maker](http://scratch.mit.edu/projects/kumpf/292482)
+Example 4: {{% resource_link "f714f512-fc51-44c3-96ac-34d68b30e864" "beatrice, a beat maker" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Documentation](http://scratch.mit.edu/projects/kumpf/292682)
+{{% resource_link "109136f7-2f4e-4a1c-bb19-4248203c4ef6" "Documentation" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

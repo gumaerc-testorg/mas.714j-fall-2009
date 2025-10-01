@@ -23,7 +23,7 @@ It's interesting that John Dewey wrote *Experience and Education* in the 1930s, 
 
 **Question 1**: Visit the link below, and take a quick look at any one of the frameworks for any subject matter for any grade level.
 
-- [Massachusetts Curriculum Frameworks](http://www.doe.mass.edu/frameworks/current.html)
+- {{% resource_link "efe8cc6c-074d-4fb2-837a-2f31ce842cdd" "Massachusetts Curriculum Frameworks" %}}
 
 Pick any one (or more, if you like) concept/s that students in that grade in Massachusetts schools are required to learn. Now imagine that you are a teacher in an ordinary school with a usual mix of students and typically limited resources. Describe a project or activity that you are going to ask your students to do to ensure that they master the required concept you've selected. Keep Dewey's ideas about progressive education in mind, and try to incorporate some of the best practices we've been talking about in past weeks. Try to design your activity to include some of them: situated cognition, intrinsic motivation, authentic learning, transferable knowledge, student group collaboration and communication, etc. Describe your activity, how long it takes, what's involved, etc. Give as much detail as you like. So, what's your plan, teacher?
 
@@ -243,7 +243,7 @@ Here's how I would think about it:
 
 Question 2: A criticism
 
-I did my undergraduate work at Brown University, which I would say follows the progressive education model fairly closely. At Brown, we had an [open curriculum](http://www.brown.edu/Administration/Admission/thebrowneducation/), which means we had no distribution requirements. To graduate with a Brown degree, you have to finish all the requirements for a concentration (that's usually about 10-11 courses) and pass 30 classes. If you take 4 classes per semester, you'll take 32 classes, which means they even give you the option of failing 2. The atmosphere at Brown was very self-driven-no one was making you take anything, so there the idea that you should use your freedom wisely and learn what intrigues you prevailed. I think everyone I knew there truly believed that the experience of education was highly valuable.
+I did my undergraduate work at Brown University, which I would say follows the progressive education model fairly closely. At Brown, we had an {{% resource_link "886cbec1-99f5-4121-b9e8-b62ef0813d0d" "open curriculum" %}}, which means we had no distribution requirements. To graduate with a Brown degree, you have to finish all the requirements for a concentration (that's usually about 10-11 courses) and pass 30 classes. If you take 4 classes per semester, you'll take 32 classes, which means they even give you the option of failing 2. The atmosphere at Brown was very self-driven-no one was making you take anything, so there the idea that you should use your freedom wisely and learn what intrigues you prevailed. I think everyone I knew there truly believed that the experience of education was highly valuable.
 
 I absolutely loved my time at Brown and would not have traded that experience for any other college experience, but I recognize that there were many shortcomings to giving people that much freedom. I don't know anyone who wasn't thoughtful in planning their college experience there, but I think giving people the option to not take any classes in one or another subject area meant that people received very lopsided educations. I heard rumors of one girl who was part of the PLME program (which admits you to Brown Med at the time you're admitted as an undergrad) who took all her med school prerequisites pass/fail and only took dance classes outside those requirements. I have friends who would freeze up every time they saw numbers because they actively avoided math and friends who couldn't write grammatically correct sentences because they eschewed writing-intensive classes. One of my friends dated a girl who attended some NY prep school with a Brown-style open curriculum before attending Brown. He claims that she was brilliant and exceptionally knowledgeable about literature, but actually couldn't multiply numbers.
 
@@ -404,13 +404,13 @@ One of the big concerns I have with Dewey's formulation of "progressive educatio
 > 
 > It seems that homeschooling in many ways is a terrific instantiation of progressive education. There is so much care and attention paid to the personalization of your children's education. This is the kind of guidance that Dewey pointed to in his description of the teacher's role in progressive environments. But this must take an enormous amount of time and energy on your part, and you only have two children to educate. What happens when we extend the same personalization approach to a classroom of 10, 20, 30 students? I think it isn't a reasonable, scalable approach. So does this mean that progressive schooling for public schools isn't possible? If traditional schooling is a failure and progressive schooling isn't scalable, we are presented with a rather discouraging prospect for education if you look at it from a black & white perspective. A hybrid approach, combing elements of both progressive and traditional methods, as promoted by several others in this week's blog may be the only reasonable way to improve education.
 > 
-> The assessment issue you raise in homeschooling is a very good one. There is an excellent educational program called the [International Baccalaureate](http://www.ibo.org/), which might serve as partial model for assessment in a progressive environment. The program uses a combination of:
+> The assessment issue you raise in homeschooling is a very good one. There is an excellent educational program called the {{% resource_link "c5843c24-c7d0-4625-bef4-f515462b84bf" "International Baccalaureate" %}}, which might serve as partial model for assessment in a progressive environment. The program uses a combination of:
 > 
 > - paper-based tests (limited multiple choice tests) that map to international standards and test understanding and applicability
 > - externally assessed essays on the Theory of Knowledge, extended essays and world literature assignments
 > - teacher assessments related to a student's "oral work in languages, fieldwork in geography, laboratory work in the sciences, investigations in mathematics, and artistic performances."
 > 
-> See their [Diploma Programme assessment methods](http://www.ibo.org/en/programmes/diploma-programme/assessment-and-exams/understanding-ib-assessment/) page.
+> See their {{% resource_link "1e8a8a7e-a07c-4865-a060-c6d816fea27c" "Diploma Programme assessment methods" %}} page.
 > 
 > The combination of external and internal examiners, combined with oral, written, and practice-based assessment is a rigorous and strong approach worthy of consideration in progressive learning environments.
 > 
@@ -544,7 +544,7 @@ Who involved? Teacher, parents or classmates give 1 line comment on each journal
 
 \[Q2\]
 
-My "progressive education" experience was [KUMON](http://www.kumon.com/math.aspx).
+My "progressive education" experience was {{% resource_link "a18fb4e8-a5c8-492b-b3bb-c6ed322f7abd" "KUMON" %}}.
 
 > "The heart of the Kumon learning system is a curriculum of more than twenty clearly defined skill levels and hundreds of short assignments spanning material from preschool all the way up to college. With each assignment, your child advances in small, manageable increments."
 
